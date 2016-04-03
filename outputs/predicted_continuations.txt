@@ -1,0 +1,1000 @@
+test sequence 0
+input string:
+the best means of communication with the different settlements all of which with the exception of <unk> are right upon the water and so indolent are the <unk> that they think nothing of going twenty or thirty miles round the island in a canoe in order to reach a place not a quarter of that distance by land but as hinted before the fear of the <unk> has something to do with this the idea of journeying in a canoe struck our fancy quite pleasantly and we at once set about <unk> one if possible but none could we obtain
+
+predicted continuation:
+good deal of them but in the end of the day it was a very pleasant place and a few days after the first lieutenant of the ship was a little and as the case of the islanders were not to be seen the captain was a little given to the last and the other with a few moments more than half a century as the ships company were not to be found in the pacific and though the only reason of their having been so small and being so much more so as to be a sort of thing 
+
+----------
+
+
+test sequence 1
+input string:
+there were two of them one a lad of <unk> bright <unk> <unk> being a young <unk> of course his name was <unk> the other was an ugly and rather <unk> <unk> one <unk> whose prospects in life had been blasted by a premature <unk> to <unk> this was the report at least though it might have been <unk> in most of my shipmates were some <unk> qualities but about <unk> there was nothing of the kind and forced to consort with him i could not help <unk> a thousand times that the gallows had been so <unk> as if
+
+predicted continuation:
+had been in the habit of being an inmate of the valley and i felt perfectly perfectly inclined to believe that the typees were not so far as to be ascribed to the fact that i was not a little surprised by the natives that they had been brought to the bay of nukuheva and i was still further in the valley and as i was to have been the most promising in the valley of typee and by the time of the taboo groves i was about to pass the night and at last i made no doubt that 
+
+----------
+
+
+test sequence 2
+input string:
+a character may be in many respects a ships company is by no means disposed to let him reap any benefit from his <unk> regarded in the light of a mechanical power whenever there is any plain hard work to be done he is put to it like a <unk> <unk> giving him a pry then again he is set about all the <unk> work is there a heavy job at <unk> to be done he is pitched neck and shoulders into a <unk> and set to work at it moreover he is made to fetch and carry like a
+
+predicted continuation:
+in the name of a man who is a man who is a man who is not a man of a poor fellow who is the man who is a man who is not a man of a poor fellow who is the man who is a man who is not a man of a poor fellow who is a man who has a wife in the world i have heard of it but i will not be able to put him in a good way to put him into a passion which is to be done by the law 
+
+----------
+
+
+test sequence 3
+input string:
+i began to entertain a sort of respect for <unk> as quite a man of the world in good sooth he turned out to be one in one weeks time giving me the cut direct and lounging by without even nodding he must have taken me for part of the landscape before the chests were quite empty we had a grand washing in the stream of our best raiment for the purpose of looking tidy and visiting the european chapel in the village every sunday morning it is open for divine service some member of the mission <unk> this was
+
+predicted continuation:
+case in the first place of the land and the more so by the event of the voyage we had been sailing on the gundeck we had been sailing upon the beach we should have been the most lively and most delicious and strange and miserable man the same as the name of the typees was not a little surprised in the valley the other and the same time with us our progress was now in readiness to be sailing in the water and so we quitted the ship and the ship was now a little distance from the sea 
+
+----------
+
+
+test sequence 4
+input string:
+in the train of <unk> who <unk> as nurse to her children according to the <unk> custom the royal <unk> are carried about until it requires no small degree of strength to stand up under them but <unk> was just the man for <unk> and <unk> well made as a statue and with an arm like a <unk> <unk> thigh embarking at his native island as a sailor on board of a french whaler he afterward ran away from the ship at tahiti where being seen and admired by <unk> he had been prevailed upon to enlist in her service
+
+predicted continuation:
+the only thing to be done or so it was that the ship was in the very act of the captain of the cabin the mate was a little and more reserved at the gangway than the other he was a man of a great age and a man who was a little one of the most active and certainly the most conscientious and remarkable of the nature of the world and yet in the end of the day he was a man of a very fine and most beautiful aspect and a man who had been a man of 
+
+----------
+
+
+test sequence 5
+input string:
+but the short <unk> of dyed tappa the <unk> <unk> and other articles formerly worn are at the present day prohibited by law as <unk> for what reason <unk> and garlands of flowers among the women are also forbidden i never could learn but it is said that they were <unk> in some way with a forgotten heathen <unk> many pleasant and seemingly innocent <unk> and <unk> are likewise <unk> in old times there were several <unk> games practised such as <unk> <unk> throwing the javelin and <unk> in all these they greatly <unk> and for some splendid <unk> were
+
+predicted continuation:
+only one who had been a most valuable one to the last and the other a little was at the time and the next day he was a native of the bay of nukuheva and i was half conscious that he was a rather short person to be found in the valley and i was not able to believe that the typees were not wholly exempt from the fact that he was a most curious person in the valley of typee who had been a very gentlemanly and young man he was a great favourite in the valley he was 
+
+----------
+
+
+test sequence 6
+input string:
+bananas and <unk> shells young cocoanuts and antlers of red coral two or three pieces of carved wood a little <unk> black as jet and rolls of printed tappa we were given a holiday and upon going ashore <unk> of course was my companion and guide for this no mortal could be better qualified his native country was not large and he knew every inch of it <unk> me about <unk> was stopped and <unk> introduced to <unk> <unk> <unk> nuee or his particular white friend he showed me all the lions but more than all he took me to
+
+predicted continuation:
+that the typees were not so much as to be sure i had not in the present case to have been a man of a more temperate and gentlemanly and gentlemanly sort was to me and yet in the present case he had been a most valuable person and he was a man of a very different understanding and as he was in the habit of a certain degree of deference and to whom he was not a little more than one and all the other and more i have heard of him as a general thing he is not 
+
+----------
+
+
+test sequence 7
+input string:
+that he should manufacture some kind of a substitute and thus <unk> apply for an audience of the queen her wellknown passion for music would at once secure his <unk> and so under the most <unk> <unk> bring about our introduction to her notice and who knows said my <unk> comrade throwing his head back and performing an imaginary air by briskly drawing one arm across the other who knows that i may not <unk> myself into her majestys good <unk> so as to became a sort of <unk> to the <unk> <unk> chapter <unk> how we were to get
+
+predicted continuation:
+better of our own we must have been the case that the typees were not the only one who had been a very different man and the captain of the navy but the captain was a very fine man and a rather serious man who had been a long and gentlemanly morning he had been a most handsome and gentlemanly and jolly and gentlemanly sort of a sailor and a most intelligent and charitable man he was a man of a very fine age and a man of a very fine nature in the world and the man who in 
+
+----------
+
+
+test sequence 8
+input string:
+off for i never saw a solitary fleece in any part of polynesia the pair left were an <unk> couple perhaps separated in disgust and died without issue as for the <unk> occasionally you come across a black <unk> ram <unk> the <unk> <unk> of some height inaccessible to man in <unk> to the sweet <unk> of the valley below the <unk> are not very numerous the <unk> coming of a <unk> <unk> are a hearty set <unk> over the island of <unk> in considerable numbers though in tahiti but few of them are seen at the former place the
+
+predicted continuation:
+of the most beautiful and most delicate and most beautiful and most beautiful men in the fishery the sailors who have a good way to the other and the same time with the same sort of state the most singular and most intelligent and most agreeable manner of the people of the fishery the officers of the neversink were the most extraordinary and most extraordinary of men and in all cases the inhabitants of the valley were in the habit of a large species of fruit and the inhabitants of the valley were now in the habit of a variety 
+
+----------
+
+
+test sequence 9
+input string:
+this discourse and whatever may be thought of it it was specially adapted to the minds of the islanders who are susceptible to no impressions except from things <unk> or novel and striking to them a dry sermon would be dry indeed the <unk> can hardly ever be said to reflect they are all impulse and so instead of <unk> <unk> the missionaries give them the large type pleasing cuts and short and easy <unk> of the <unk> hence anything like a permanent religious impression is seldom or never produced in fact there is perhaps no race upon earth less
+
+predicted continuation:
+a hundred and more similar principles in the south seas are not the least among the islands of the south and the other vessels in the south seas are the most valuable and men of the world and if they have no reason to believe that the sperm whale is a very fine and most beautiful and free one the sperm whale is a very fine and most beautiful and free one the reason is that you have a little confidence in this world of yours i have been a good to say that the sperm whale is a very 
+
+----------
+
+
+test sequence 10
+input string:
+shell and so giving all who desired a glass no further <unk> cheer remaining the men dispersed an hour or two passed when flash jack directed attention to my long friend who since the medicine boy left had not been noticed till now with eyes closed he was lying behind the stocks and jack was lifting his arm and letting it fall as if life were extinct on running up with the rest i at once connected the phenomenon with the mysterious vial searching his pocket i found it and holding it up it proved to be <unk> flash jack
+
+predicted continuation:
+the best of the most famous and most famous things in the world and in the end of the world and in the end of the day it is a very fine thing to be doubted that the whale is in the very act of the fact that the captain is a most of the people of the navy who are the only one of the most famous of their people and the captain of the neversink is a very learned man who has a wife in the world and if he be a great man he is not a 
+
+----------
+
+
+test sequence 11
+input string:
+as to diminish the <unk> consequent upon <unk> the skin as it is this comes on very soon and takes some time to <unk> so that the period of seclusion generally embraces many days sometimes several weeks all traces of <unk> vanished the subject goes abroad but only again to return for on account of the pain only a small surface can be operated upon at once and as the whole body is to be more or less embellished by a process so slow the <unk> alluded to are constantly filled indeed with a vanity elsewhere unheard of many spend
+
+predicted continuation:
+the morning i was half quiet that i had not so much as i could have thought it was a very singular fact that the typees were not so much as the case that they were not to be found in the valley and i was not able to believe that the inhabitants of the valley were the same and the inhabitants of the valley were more than one hundred and fifty feet in length and in a few moments i was now a little surprised my first impulse i was now in earnest conversation with a friendly air and 
+
+----------
+
+
+test sequence 12
+input string:
+the islands of the pacific the doctor wanted to know why he did not go home and report the loss of his brig but captain crash as they called him had some incomprehensible reasons for not doing so about which he could talk by the hour and no one be any the wiser probably he was a discreet man and thought it best to waive an interview with the lords of the <unk> for some time past this extremely suspicious character had been carrying on the <unk> trade in french wines and <unk> smuggled over from the menofwar lately touching
+
+predicted continuation:
+men of the marquesas islands the lieutenants were in the habit of a midshipman the captain of the forecastle and the captain of the forecastle and the masteratarms and his mates were of a great age in the same port with a large party of the same and the other with a few moments more and more closely the men of the crew were now in the habit of a midshipman the captain of the forecastle and the captain of the watch and the masteratarms and his mates and the mates and harpooneers of the pequod were the only one 
+
+----------
+
+
+test sequence 13
+input string:
+home by short and easy stages the next day i paddled off to the ship signed and sealed and stepped ashore with my <unk> spanish <unk> the ends of my <unk> i forced half of the silver on long ghost and having little use for the remainder would have given it to <unk> as some small return for his kindness but although he well knew the value of the coin not a dollar would he accept in three days time the <unk> came to <unk> and told us that the captain having made good the number of his crew by
+
+predicted continuation:
+name of the taboo in the morning he was a native of the bay of nukuheva and i was a little surprised by them that he was a native of the bay of nukuheva and i was a little surprised by them that he was a native of the bay of nukuheva and i was not wholly acquainted with the fact that he was a remarkably fine person who had been a long and gentlemanly being set about me he was a very useful man and a little interested in his history yet it was not for me to be 
+
+----------
+
+
+test sequence 14
+input string:
+to a degree that was altogether superfluous this now is <unk> hospitality <unk> upon ones own hearthstone for the benefit of the guest the polynesians carry their hospitality to an amazing extent let a native of <unk> the <unk> part of tahiti make his appearance as a traveller at <unk> the most <unk> village of <unk> though a perfect stranger the inhabitants on all sides <unk> him at their <unk> inviting him to enter and make himself at home but the traveller passes on examining every house attentively until at last he <unk> before one which <unk> him and then
+
+predicted continuation:
+was a little pleased to the other he was a little and rather a sort of a fellow and a fellow who was a man of a native of a native age and the american captain the first and the captain was a man of a great age and a man of a very fine and most intelligent and amiable he was a man of a singularly amiable character who had been a man of a less temperate and charitable one there was a slight and almost miraculous life and a man who had been a man of a great 
+
+----------
+
+
+test sequence 15
+input string:
+the evening previous of the <unk> sport the doctor had announced his <unk> to take part therein now subsequent events made us regard this expedition as a <unk> device of the yankees once get us off on a pleasure trip and with what face could we afterward refuse to work beside he enjoyed all the credit of giving us a holiday nor did he omit assuring us that work or play our wages were all the while running on a dilapidated old musket of <unk> was borrowed for the doctor it was exceedingly short and heavy with a clumsy lock
+
+predicted continuation:
+the sea and the two boats were now in the middle of the boat and were soon at the helm and the yards were being made to windward we were struck by the captain and the captain of the cabin and the two boats were engaged in the same cabin with a view of the deponent to take the place for the rest of the crew and the captain was a little reserved on his way he was a little reserved on the forecastle and now and then again proceeded to the deck he was a little reserved on the 
+
+----------
+
+
+test sequence 16
+input string:
+lifted up their voices in the solitude high above all and central the <unk> lifted its finger upon the hillsides small groups of <unk> were seen some quietly <unk> others slowly winding into the valleys we went on directing our course for a slope of these hills a mile or two further where the nearest <unk> were seen we were cautious in keeping to the windward of them their sense of smell and hearing being like those of all wild creatures exceedingly <unk> as there was no knowing that we might not surprise some other kind of game in the
+
+predicted continuation:
+of the islanders who had been a little more than a mile from the bottom of the sea and the more to be seen or nothing had been done or so that the more had happened to pass out of sight we were now at the helm and we were all eagerness to believe that the islanders were not so much as to be sure we were to be seen at the time and the last time i had been surprised that the natives had been brought to the bay of nukuheva and i was still further in the valley 
+
+----------
+
+
+test sequence 17
+input string:
+salute of the <unk> <unk> <unk> a mere <unk> how dye do after several experiences like this i began to entertain a sort of respect for <unk> as quite a man of the world in good sooth he turned out to be one in one weeks time giving me the cut direct and lounging by without even nodding he must have taken me for part of the landscape before the chests were quite empty we had a grand washing in the stream of our best raiment for the purpose of looking tidy and visiting the european chapel in the village
+
+predicted continuation:
+had been a most delicious and handsome and reserved and indeed who had been a very large tribe of war in the south seas of the island of war and the most part of the valley the most remarkable and most famous of all sorts of fish and especially by the same reason was that they had just in the valley of the taboo groves and the sea and the valley of typee were the most famous of these islands the islanders in the south seas were the most valuable and the men in the valley of typee and the 
+
+----------
+
+
+test sequence 18
+input string:
+branches and then sending two lads on in advance for the purpose of gathering fuel to feed the <unk> we continued our journey it was a wild sight the <unk> waved aloft flashed through the forest and where the ground admitted the islanders went along on a brisk <unk> notwithstanding they bent forward under their <unk> their naked backs were stained with blood and occasionally running by each other they raised wild cries which startled the hillsides chapter <unk> the <unk> and a visit to <unk> two <unk> and a <unk> no bad trophies of our days sport so by
+
+predicted continuation:
+and the last time of the day at which the ship was on the beach the ship was now in the bay of the ship and the long line of the land was a little subsided in the water the whole craft being covered with a large green moss planted in the water as if it were a great deal of canvas in the land of the sea and the sea was now seen in the water and the whale was not yet the case that the boats were now in readiness to be seen and the ship was now 
+
+----------
+
+
+test sequence 19
+input string:
+inland the surface swelled up ridge after ridge and peak upon peak all bathed in the indian haze of the tropics and dreamy to look upon still valleys leagues away reposed in the deep shadows of the mountains and here and there <unk> lifted up their voices in the solitude high above all and central the <unk> lifted its finger upon the hillsides small groups of <unk> were seen some quietly <unk> others slowly winding into the valleys we went on directing our course for a slope of these hills a mile or two further where the nearest <unk> were
+
+predicted continuation:
+and the other with the other boats all seemed to have been the more and more promising by the people of the island than the rest of the party had been made to be ascribed to the most singular entertainment which had been thrown into the air and the whole chief was a little reserved in the bay of nukuheva and the more agreeable to the extent of the valley the inmates of the valley were now in the habit of a large species of the fruit which had been thrown up in the water and the whole population of 
+
+----------
+
+
+test sequence 20
+input string:
+the <unk> and no doubt strangers from the distant villages were taken to see the <unk> white men in the same way that countrymen in a city are <unk> to the <unk> gardens all this gave us a fine opportunity of making observations i was painfully struck by the considerable number of sickly or <unk> persons undoubtedly made so by a <unk> complaint which under native treatment almost invariably <unk> in the end the muscles and bones of the body in particular there is a <unk> of the back most <unk> to behold <unk> in a horrible form of the
+
+predicted continuation:
+of the valley and the more so by the most part the people of the south seas are the most ferocious and i have known them to be in the very act of believe the most singular appearance of the sperm whale fishery in the fishery the most reliable of all the men in the fishery the most sensitive of all the men in the navy are the most valuable and the men who have a special reason to believe that the whale is the only one who has a reason to believe that the whale is the only person 
+
+----------
+
+
+test sequence 21
+input string:
+for in the <unk> time the <unk> or big girdle was quite the mode for both <unk> <unk> <unk> recent <unk> still clung to it he was a gentleman of the old <unk> of the last of the <unk> he now told us that he had orders to take us before the <unk> nothing loth we formed in procession and with the old man at our head <unk> and <unk> like an <unk> and <unk> by a guard of some twenty natives we started for the village arrived at the <unk> office we found <unk> there and four or five
+
+predicted continuation:
+of the same material which had been brought to the house of the ship and the more to be seen and again and again our progress was a little way to the westward and after a few moments more was the same time the day was a long time and the next moment we were brought to the bottom of the boat and the sea was now in readiness to be sailing in the stern and after a few minutes more than we were seen in the course of the ship we had been a most delicious and handsome one 
+
+----------
+
+
+test sequence 22
+input string:
+cried shaking the one with a beard but <unk> heeded him not though <unk> a wrinkled old body started up in <unk> and yelled aloud neither of us <unk> to <unk> her she presently became quiet and after staring hard and asking some <unk> questions she proceeded to rouse her still slumbering mate what <unk> him we could not tell but there was no waking him equally in vain were all his dear <unk> <unk> <unk> and other <unk> he lay like a log face up <unk> away like a cavalry <unk> here my good woman said long ghost just
+
+predicted continuation:
+before i had a little curiosity for the first time i was about to think that i had a little confidence in my mind to be sure i had not been without a little puzzled account of the matter for a few days i was not a little surprised my business and having been a little more than a third of which i had been able to say to myself i was not able to believe that the typees were not wholly exempt from the fact that i was not wholly acquainted with the fact that i could not but 
+
+----------
+
+
+test sequence 23
+input string:
+after an affecting rubbing of noses between our new shipmate and his countrymen we sailed away with him to our surprise the farewell shouts from the canoe as we dashed along under <unk> royals were heard <unk> by our islander but it was not long thus that very evening when the dark blue of his native hills sunk in the horizon the poor savage leaned over the bulwarks dropped his head upon his chest and gave way to <unk> emotions the ship was plunging hard and <unk> sad to tell in addition to his other pangs was <unk> <unk> chapter
+
+predicted continuation:
+the pequod by the way of the cape to the other end of the ship and the two boats were engaged in the same boats and with a few moments more and more the yards were heard and the ship was now a little distance from the sea and the wind was now in readiness to be hoisted out of sight of land and the ship was still in the chase and then the ship was still more than the sea and the boat was now in readiness to be hoisted to the mast where the vessel was going to 
+
+----------
+
+
+test sequence 24
+input string:
+chief in this quarter of the island and judge for life in the district of <unk> there were several cases coming on but the captain and girl were first tried together they were mixing freely with the crowd and as it afterwards turned out that <unk> matter <unk> a right to address the court for aught we knew they might have been <unk> their own case at what precise moment the trial began it would be hard to say there was no swearing of witnesses and no regular <unk> now and then somebody leaped up and shouted out something which
+
+predicted continuation:
+the same to me in the way of the chimney and so you have done that i have been thinking that you are not a little surprised by the nature of the present case the stranger was not so much as to be sure i had been so much as i could have thought it was a very singular account of my own part of the matter i was not able to say that i was not a little surprised by myself to my consternation upon the whole i was obliged to remain in the valley and was soon removed 
+
+----------
+
+
+test sequence 25
+input string:
+once in a while tearing his paddle out of the water and after rapping his companion over the head both fell to with fresh <unk> as they came within hail the old fellow springing to his feet and flourishing his paddle cut some of the <unk> <unk> all the while <unk> something which at first we could not understand presently we made out the <unk> you <unk> <unk> <unk> for you <unk> be fine for come no <unk> say you <unk> say you <unk> <unk> no <unk> <unk> no <unk> you d me you no pilot t all i d
+
+predicted continuation:
+destroy the world with the thought of the old man with a sort of involuntary expression and in a few moments a little more than a thousand years ago i saw him with a sort of involuntary expression and in his own part of the room i had heard that the very words and the last person in the presence of the king was in the habit of a sailor and a certain quantity of white tappa in the navy are the most valuable and the men in the navy are the most famous of their officers and the men 
+
+----------
+
+
+test sequence 26
+input string:
+natives of <unk> was far better than that of the inhabitants of <unk> a circumstance only to be imputed to their restricted intercourse with foreigners strolling on we turned a sweep of the road when the doctor gave a start and no wonder right before us in the grove was a block of houses regular square <unk> boarded over furnished with windows and <unk> and two stories high we ran up and found them fast going to decay very <unk> and here and there covered with moss no <unk> no doors and on one side the entire block had settled
+
+predicted continuation:
+being a little distance from the land it was a very pleasant place for the purpose of the king the king of the king of the kings and the queen of the royal old warrior and the queen of the valley was not very far off in the valley of the archipelago the islanders now received a few words of the natives who were not to be found in the valley of typee and by the various numbers of the taboo groves we were now in the habit of the islanders but as the great staple of the tribe was 
+
+----------
+
+
+test sequence 27
+input string:
+as possible in jacks <unk> so as to lose nothing by a double <unk> good friends i glad to see you and i very well like to have some talk with you today good friends very bad times in tahiti it make me weep <unk> is <unk> island no more yours but the <unk> french wicked priests here too and wicked idols in womans clothes and brass chains good friends no you speak or look at <unk> i know you <unk> belong to a set of <unk> wicked <unk> soon these bad men be made to go very quick <unk>
+
+predicted continuation:
+and the devil is the only one that is the only one that ever can be but the old man will be the first lieutenant who has a wife in the world and if he be a great man in the world and if he be a great man he is not yet a man of the world and if he be a great man he is not yet a man of the world and if he be a great man he is not yet a man of the world and if he be a great man he is not 
+
+----------
+
+
+test sequence 28
+input string:
+and sometimes was <unk> eccentric in his gait i never drink french brandy but i pledge father <unk> his health again and many jolly <unk> may he make in polynesia chapter <unk> little <unk> sails without us to make good the hint thrown out by the <unk> upon the conclusion of the <unk> of the <unk> we were again brought before him within the time <unk> it was the same thing over again he got nothing out of us and we were <unk> our resolute behaviour annoying him <unk> what we observed led us to form the idea that on
+
+predicted continuation:
+of the vessel we had been sailing in the valley and we were obliged to make a good part of the valley and in the end of the day we were obliged to supply the order i felt convinced that the typees were not so far as to be sure we were to be seen at the ti and the natives were all the time as we drew near to the house of the bay and after a few moments we were obliged to sail to the westward and at the same time we had been sailing in the valley 
+
+----------
+
+
+test sequence 29
+input string:
+were he too hard upon us at the outset at once begged us both to <unk> our own feelings and not exert ourselves for the present unless we felt like it <unk> <unk> the fact that my comrade claimed to be actually <unk> simply suggested that since he was so <unk> he had better perhaps swing in his hammock for the rest of the day if agreeable however i myself might accompany him upon a little <unk> <unk> in the neighbouring hills in this proposition i gladly acquiesced though peter who was a great <unk> put on a long face
+
+predicted continuation:
+a little like a man who in a way of more than thirty years has been heard of the man in a way of a singular philosophy and in the end of the whole of his own proper person i have heard of the name of a man in the world and if he be a great man he is not a little interested in the english navy and the american navy is the most valuable and the most valuable and most excellent and most excellent to be found in the navy but the same is the case with the 
+
+----------
+
+
+test sequence 30
+input string:
+were placed in the custody of a petty chief living near by who was <unk> by the <unk> not to allow them to be taken away but we might call and make our <unk> whenever we pleased we went to see <unk> the old chief captain <unk> going along and stoutly <unk> upon having the <unk> delivered up at last this was done and in solemn procession the chests were borne by the natives to the <unk> here we disposed them about quite <unk> and made such a figure that in the eyes of old <unk> and his friends the
+
+predicted continuation:
+of the royal old warrior and the right whale and the right whale and the right whale and the right whale and the right whale and the right whale and the right whale and the right whale and the right whale and the right whale and the right whale and the right whale and the right whale and the right whale and the right whale and the right whale and the right whale and the right whale and the right whale and the right whale and the right whale and the right whale and the right whale and the right 
+
+----------
+
+
+test sequence 31
+input string:
+were not slow in finding out that for various reasons any attempt of the kind without some previously arranged plan for leaving the island would be certain to fail as <unk> was a rare one every way i must give some account of him there was a good deal of personal appearance about him in short he was a <unk> giant over six feet in height and literally as big round as a <unk> the enormous bulk of some of the <unk> has been frequently spoken of by voyagers beside being the english <unk> <unk> as it were he carried
+
+predicted continuation:
+same old man with his own hands and his back and then with a sort of queer air he seemed to have been a little more than one and all the time he had been a most valuable and gentlemanly and charitable man his head was a very large person and he was a little like a man who had been a man of a great degree of life in the valley of typee and the right whale and his son is a very fine gentleman who is a man who is not a man of a mans life and 
+
+----------
+
+
+test sequence 32
+input string:
+old <unk> <unk> for the customs of a past and pagan age nowhere else except in <unk> did we find the manners of the natives less <unk> by recent <unk> the oldfashioned <unk> dinner they gave us on the day of our arrival was a fair <unk> of their general mode of living our time passed <unk> the doctor went his way and i mine with a pleasant companion he was forever strolling inland <unk> to <unk> <unk> specimens while i for the most part kept near the sea sometimes taking the girls on an <unk> <unk> in a canoe
+
+predicted continuation:
+ship was in the stern and as soon as we had been sailing in the boats stern and several hours in the morning we were now at the helm and the ship was still as if we were a most curious and handsome and handsome and set it was not to be wondered at that day we should have been the case that the ship was in the bay of the island and the captain of the vessel was a most curious and amiable person to be seen at the gangway and the following night the ship was now in 
+
+----------
+
+
+test sequence 33
+input string:
+fishing not dozing over stupid hooks and lines but leaping right into the water and chasing our prey over the coral rocks spear in hand <unk> fish is glorious sport the <unk> all round the island catch them in no other way the smooth <unk> between the reef and the shore and at low water the reef itself being <unk> adapted to this mode of <unk> them at almost any time of the <unk> ever the sacred hour of <unk> may see the <unk> pursuing their sport with loud <unk> <unk> their spears and splashing through the water in all
+
+predicted continuation:
+and then the wind was now descried and the ship was now a little distance from the sea and the wind was now in readiness to be hoisted to the deck and the boat was now in readiness to be hoisted out of the boat and then the ship was now a little distance from the boat and then the ship was now a little distance from the boat and then the wind was now in readiness to be sailing in the boats stern and there was no pause for the shore the boats crew had been hoisted out of 
+
+----------
+
+
+test sequence 34
+input string:
+<unk> snug and comfortable by <unk> of hard <unk> he took unto himself a wife and so far as she was concerned might then have gone into the country and retired for she effectually did his business in short the lady worked him woe in heart and pocket and in the end ran off with his till and his <unk> <unk> went to the sign of the pipe and <unk> got <unk> and over his fifth <unk> <unk> <unk> intention carried out for the next day he shipped as landsman aboard the <unk> south seaman the <unk> would have fared
+
+predicted continuation:
+he was not a little in the valley of typee and in the end of the day he was a very fine man and a sailor who had been a man of a singularly gentlemanly sort of creature but a little in his aspect he was a man of a singularly interesting character and a man of a very fine nature in his history of the world he had been a most curious and intelligent and charitable man and the man who in a state of nervous capacity would have been more than a thousand years ago he was a 
+
+----------
+
+
+test sequence 35
+input string:
+mate however was as hearty as a young lion and ran about the decks making himself heard at all hours <unk> the new zealand <unk> held little intercourse with anybody but the mate who could talk to him freely in his own <unk> part of his time he spent out on the bowsprit fishing for <unk> with a bone hook and occasionally he waked all hands up of a dark night dancing some cannibal <unk> all by himself on the forecastle but upon the whole he was remarkably quiet though something in his eye showed he was far from being
+
+predicted continuation:
+with the idea of his master that he was a very handsome and gentlemanly fellow who would have been a little puzzled to be a man of a great degree of confidence in the man who had been a man of a genuine sort of a man of a singularly gentlemanly sort of deference in his life he was a man of a singularly gentlemanly sort of state and he is a very learned man who had been a man of a genuine sort of a man who was a man of a genuine and gentlemanly sort of thing but 
+
+----------
+
+
+test sequence 36
+input string:
+the interior and throwing up a hut in an uninhabited valley had lived there until in an <unk> stroll they were observed and captured they were subsequently condemned to make one hundred fathoms of <unk> <unk> six months work if not more often when seated in a house conversing quietly with its inmates i have known them betray the greatest confusion at the sudden announcement of a <unk> being in sight to be reported by one of these <unk> as a <unk> <unk> in general <unk> a bad person or <unk> in christianity is as much dreaded as the forefinger
+
+predicted continuation:
+the chimney and a little in the world at the bottom of the sea and the sea is not yet the case that the whale is in the act of going on board the ship in the neversink was the first lieutenant who had been a mere favourite he had never been a sort of a little and in a little distance from the sea and the captain of the office of a king and a sailor in the pacific and the french sailor the captain of the neversink was a man of a very fine and most beautiful and 
+
+----------
+
+
+test sequence 37
+input string:
+for the bread this we agreed to and every morning afterward when the bucket came its contents were at once handed over to <unk> and his friends who never ceased <unk> until nightfall our exceedingly <unk> meal of breadfruit over captain <unk> <unk> up to us with a couple of long poles hooked at one end and several large baskets of woven cocoanut branches not far off was an extensive grove of <unk> in full bearing and myself and another were selected to go with him and gather a supply for the party when we went in among the trees
+
+predicted continuation:
+which was a very large man and who in the most part of the valley were the most ferocious of all the men who were not to be found in the valley of typee and by the various numbers of the navy had been made to the last and the other they were in the habit of a certain degree that in the navy the captain of the american navy are so much as in the navy as the captain of the neversink with the commodore in the neversink he was a very fine man who in his own proper 
+
+----------
+
+
+test sequence 38
+input string:
+manilla hat large and portly he was also hale and fifty with a complexion like an autumnal <unk> blue <unk> teeth and a <unk> <unk> <unk> in short he was an <unk> father <unk> by name and as such pretty well known and very thoroughly <unk> throughout all the <unk> missionary settlements in polynesia in early youth he had been sent to a religious <unk> in france and taking orders there had but once or twice afterwards <unk> his native land father <unk> marched up to us briskly and the first words he uttered were to ask whether there were
+
+predicted continuation:
+one of the people of the crew that they were not very long in the morning and the next day we were engaged in the course of the vessel we had been sailing in the valley and in the same direction the islanders in the course of the island were the most remarkable of all the islands of the natives who had not been so much inclined to believe that the inhabitants of the valley were in the habit of a free tribe and the only one was the most famous of their number and with them all that was 
+
+----------
+
+
+test sequence 39
+input string:
+concerned the <unk> are far worse off now than formerly and although their circumstances upon the whole are <unk> by the presence of the missionaries the <unk> conferred by the latter become utterly insignificant when <unk> with the vast <unk> of evil brought about by other means their prospects are hopeless nor can the most devoted efforts now exempt them from furnishing a marked illustration of a principle which history has always <unk> years ago brought to a stand where all that is corrupt in <unk> and civilization unite to the <unk> of the virtues of either state like other
+
+predicted continuation:
+of the north and south of the north are the most famous of the articles of war and as the law is the only true fact that the whale is a great deal of men in the american navy and i have a little doubt to the people of the navy that they have seldom seen and all the world over the sea and the sea is the only one the less the case it is that the whale is in the habit of a certain degree the backwoodsman is a man of a very different account of the fact 
+
+----------
+
+
+test sequence 40
+input string:
+upon the ferns before us were laid several layers of broad thick <unk> leaves <unk> over one upon the other and upon these were placed side by side <unk> banana leaves at least two yards in length and very wide the <unk> were withdrawn so as to make them lie flat this green cloth was set out and garnished in the manner following first a number of <unk> leaves by way of plates were ranged along on one side and by each was a rustic <unk> <unk> with seawater and a <unk> roll or small breadfruit roasted brown an immense
+
+predicted continuation:
+of a cocoanut shell containing a long carved sound at the head of the tree and the whole body of the sea was a little one of the number of the natives in the valley of typee i had seen two hundred females and of the natives were in the most extraordinary manner to be seen in the valley of typee and with a few moments more and more closely the most dismal spirits were the same men of the same day and when they were in the very act of the captain the captain of the forecastle and the 
+
+----------
+
+
+test sequence 41
+input string:
+rate these <unk> must <unk> the final <unk> of their race along with the few officers left by <unk> <unk> <unk> were several french priests for whose unobstructed exertions in the <unk> of their faith the strongest <unk> were provided by an article of the <unk> but no one was bound to offer them <unk> much less a <unk> the first day they went ashore true they had plenty of gold but to the natives it was <unk> for several hours and some odd minutes they would not touch it <unk> of the <unk> and the devil as the strangers
+
+predicted continuation:
+the wind and the rest of the ship was a little distance from the ship and the sea was now seen in the afternoon and the whole interval was now the principal sight of the ship with the utmost delight and the boats were now in readiness to be sailing in the boat and then the ship was now a little distance from the boat and the ship was now a little distance from the boat and the ship was now a little distance from the sea and the wind was now in readiness to be hoisted to the mast 
+
+----------
+
+
+test sequence 42
+input string:
+quite <unk> they were introduced from chili and possessing all the <unk> <unk> and <unk> of the spanish breed are <unk> adapted to the tastes of the higher classes who as <unk> have become very expert the missionaries and chiefs never think of journeying except in the saddle and at all hours of the day you see the latter <unk> along at full speed like the sandwich islanders they ride like <unk> for miles and miles i have <unk> the <unk> road and never wearied of the continual change of scenery but wherever it leads <unk> through level woods across
+
+predicted continuation:
+sea and the sea with the exception of a sudden shot on the sea and the whole body of the sea was a little one in the middle of the house and the other end of the house was a little subsided from the ground and was soon left to the top of the pipi and with a view of the whole valley of the valley and the natives were in a great variety of fine packages and their appearance and their contents were being made to be a little surprised me of the fact that the typees were not 
+
+----------
+
+
+test sequence 43
+input string:
+such a kind were made to recent events as could be attributed to no other cause than the <unk> omen for my own part what had lately come to pass was not without its influence it forcibly brought to mind our really critical condition doctor long ghost too frequently revealed his apprehensions and once assured me that he would give much to be safely landed upon any island around us where we were exactly no one but the mate seemed to know nor whither we were going the <unk> mere <unk> an invalid in his cabin to say nothing more
+
+predicted continuation:
+the rest of the ship was a long and strong one the captain of the forecastle who had been a little more than one and all the time he had been a most valuable man and a little more than a third the last two years previous had not been brought to his companion and the captain of the forecastle who had been a man of a great deal of deference in the service of the unfortunate man who had been a long time he was in a sort of nervous commotion and now he was a little pleased to 
+
+----------
+
+
+test sequence 44
+input string:
+burden of bearing them up indeed two or three have given up the ghost altogether and the pieces they sustained lie half buried among their <unk> bones several of the cannon are spiked probably with a view of making them more <unk> as they certainly must be to <unk> undertaking to fire them off presented to <unk> at various times by captains of british armed ships these poor old dogs of war thus <unk> and turned out to die formerly <unk> in full pack as the <unk> of old england there was something about <unk> that struck my fancy and
+
+predicted continuation:
+more to be sure i had been able to believe that the typees were not wholly exempt from the fact that the typees were not wholly exempt from their existence the most remarkable one would be the most lively of all sorts of calabashes and gestures and in vain i was not able to believe that the typees were not wholly exempt from the fact that the typees were not wholly exempt from their existence the most remarkable one would be the same to the extent of the valley i was not able to believe that the typees were not 
+
+----------
+
+
+test sequence 45
+input string:
+the hill presently we came to a wretched hut barely <unk> in the shade cast by the neighbouring trees pushing aside a rude sliding door held together with <unk> the <unk> signed me to enter within it looked dark as pitch so i gave him to understand that he must strike a light and go in before me without <unk> he disappeared in the darkness and after groping about i heard two sticks rubbing together and directly saw a spark a native <unk> was then lighted and i stooped and entered it was a mere <unk> foul old mats and
+
+predicted continuation:
+cocoanut tree and a dry trunk and a few inches in length and at the same time the other with the exception of the whole population of the house were suspended to the top and after a few moments repeated were the first lieutenant who had been a sort of unmanned of the natives who were a great variety of their men and the islanders in a large degree of affairs but the most singular manner of tattooing and the typees in the present instance of the island was the most remarkable of the islanders who had been a most 
+
+----------
+
+
+test sequence 46
+input string:
+them again as we crept close up to the spot where they <unk> they were a bull a <unk> and a <unk> the <unk> was lying down in the shade by the edge of the wood the <unk> sprawling out before her in the grass <unk> her lips while old <unk> himself stood close by casting a paternal glance at this domestic little scene and <unk> elevating his nose in the air now then said <unk> in a whisper lets take the poor <unk> while they are <unk> together crawl along <unk> crawl along fire together mind and not till
+
+predicted continuation:
+ship is in the chase of the line the boats crew and the boats crew and the boats crew and the ship is shot aft and the ship is in the chase of the line the boats crew and the ship is now in readiness to be sailing in the boats stern and there is a vast hole in the water the wind is not so long as the boats crew and the ship is still in the chase the wind is now a sort of sail and the other is the only one a little is the most precious 
+
+----------
+
+
+test sequence 47
+input string:
+which they occupied comprised some thirty acres level as a prairie part of which was under <unk> the whole being fenced in by a stout <unk> of trunks and boughs of trees <unk> firmly in the ground this was necessary as a <unk> against the wild cattle and hogs <unk> the island thus far <unk> potatoes were the principal <unk> raised a ready sale for them being obtained among the shipping touching at <unk> there was a small patch of the <unk> or indian <unk> also another of yams and in one corner a <unk> growth of the <unk> just
+
+predicted continuation:
+if the only one was the one to the other part of the ship and the other to the other end of the ship was soon after a few days after the two still more active part of the scene was a little subsided in the distance of the morning and the next moment the ship was now in the act of being so much as to be seen in the cabin the ship was now in readiness to be sailing in the boat and so at least the boat was now seen and the ship was now in readiness 
+
+----------
+
+
+test sequence 48
+input string:
+choice variety in the way of clothing this was the extent of my wardrobe nor was the doctor by any means better off his <unk> had at last driven him to don the nautical garb but by this time his <unk> light cotton <unk> almost given out and he had nothing to replace it <unk> very <unk> offered him one which was a little less ragged but the alms were proudly refused long ghost <unk> to assume the ancient costume of <unk> <unk> this garment once worn as a festival dress is now seldom met with but captain <unk> had
+
+predicted continuation:
+sort of involuntary old man of a father who had been a man of a great age and he himself was a very strong man and who was a man of a genuine and gentlemanly sort of age and a kind of cheese and he was a little interested in the valley of typee and as he was he was a very fine man and a sailor who had been a man of a genuine sort of a man who had been a man of a genuine sort of a man who had been a man of a genuine sort 
+
+----------
+
+
+test sequence 49
+input string:
+no <unk> a great bull came <unk> out of a wood and both took to their heels the old chief sprang into a tree his companion flying in an opposite direction was pursued and in the very act of reaching up to a bough <unk> <unk> the unhappy man was then <unk> in the <unk> finally run away with on the <unk> horns more dead than alive <unk> waited till all was over and then made the best of his way home the <unk> armed with two or three muskets at once started to recover if possible his unfortunate brothers
+
+predicted continuation:
+other was not the least among the crew with a sort of gesture which was not to be found in the present case the captain of the forecastle was a man of a very fine and most intelligent and amiable and in his aspect not only to be made of the more than a thousand miles out of the boat and so saying he made a sudden motion of the boat to the deck and the boat was now in readiness to be hoisted out of the boat and then the ship was now a little distance from the boat 
+
+----------
+
+
+test sequence 50
+input string:
+judges <unk> and loudly commanded silence it was at length restored when <unk> for the last time addressing us said something more about the rose and <unk> and concluded by reminding us that a week would elapse ere the <unk> sailed leaving these hints to operate for themselves he dismissed the party ordering captain <unk> and his friends to escort us back whence we came chapter <unk> the french priests pay their respects a day or two after the events just related we were lounging in the <unk> <unk> when we were <unk> by a visit from three of the
+
+predicted continuation:
+and several of them were in the same direction that they were not so much as to be sure they were not so much as to be sure they were not so much as to be sure they were not so much as to be sure they were not so much as to be sure they were not so much as to be sure they were not so much as to be sure they were not so much as to be sure they were not so much as to be sure they were not so much as to be sure 
+
+----------
+
+
+test sequence 51
+input string:
+the sandwich islands the potent <unk> of the taboo together with the entire <unk> of the land was utterly <unk> by a voluntary act of the natives some time previous to the arrival of the first missionaries among them the next most striking change in the <unk> is this from the permanent residence among them of <unk> and respectable foreigners as well as from the frequent visits of <unk> <unk> the <unk> of the island its inhabitants are no longer deemed fit subjects for the <unk> practised upon mere savages and hence secure from <unk> vessels of all kinds now
+
+predicted continuation:
+i have no doubt that the inhabitants of the valley were the most ferocious and most conspicuous of the inhabitants of the valley were the same with the exception of the natives in the navy i had been almost tempted to believe that the inhabitants of the valley were the same and the inhabitants of the valley were more than one hundred and fifty feet in length and with a few moments the whole population of the ti was a remarkably reserved young fellow who had been a very gentlemanly young man who had been a very useful man and 
+
+----------
+
+
+test sequence 52
+input string:
+climate thus unaccountably <unk> i often turned in amazement upon the natives about <unk> some of whom all but starve in their gardens run to waste upon other islands which i have visited of similar <unk> and wholly <unk> from their <unk> condition no spectacle of this sort was presented the high estimation in which many of their <unk> are held by the <unk> and <unk> beauty in the <unk> manifold uses and the facility with which they are <unk> are considerations which render the <unk> alluded to still more unaccountable the <unk> is as an example a tree by
+
+predicted continuation:
+chimney and a few feet of the chimney and a sort of other than which is a sort of indian and which is a very small and singular place for the most part in the life of the sperm whale fishery in the world it is a very singular one that the whale is a great deal of men in the american navy and i have a little doubt to the fact that in the american navy i have often seen the sperm whale and the right whale is the most famous of the articles of war and the american 
+
+----------
+
+
+test sequence 53
+input string:
+life but we <unk> awhile listening to more <unk> to ship and at last concluded to stay to supper my <unk> never cut into better <unk> than that which we found lying in the <unk> in the forecastle the bread too was hard dry and <unk> as glass and there was plenty of both while we were below the mate of the vessel called out for <unk> to come on deck i liked his voice hearing it was as good as a look at his face it betokened a true sailor and no <unk> the appearance of the leviathan herself
+
+predicted continuation:
+had been a man of a less temperate and charitable way he was a man of a great age and a man who was a man of a singularly amiable work but it was not a little interested in his own mind the only thing he had been a most valuable man and a man of a very queer nature in the fishery the most sensitive of all the whale the great and most reliable of the people of the fishery the american whalers are as much as the other and the same time with respect to the american navy 
+
+----------
+
+
+test sequence 54
+input string:
+employ of two foreigners who had recently started a plantation there these persons they said had charged them to send over from <unk> if they could two white men for <unk> now all but the prospect of digging and <unk> <unk> us exactly but the opportunity for leaving the island was not to be <unk> and so we held ourselves in readiness to return with the <unk> who in a day or two were expected to visit <unk> in their boat at the interview which ensued we were introduced to them as peter and paul and they agreed to give
+
+predicted continuation:
+the slightest token of our reception we were obliged to make a good part of the valley and in the end of the day we were obliged to supply the order of the natives and the brigantine was now in the bay of nukuheva and the more we had to do with our sails and were all eagerness to be sailing on the island of nukuheva and i was aware that the islanders were in the bay of nukuheva and i was not at the loss of my companion but a few moments i was obliged to remain in the 
+
+----------
+
+
+test sequence 55
+input string:
+holes the object of which was evident at a glance by this time our guide had informed us that he went by the name of <unk> <unk> captain <unk> and a hearty old <unk> he proved it was just the name for him from the first so pleased were we with the old man that we cheerfully acquiesced in his authority entering the building he set us about fetching heaps of dry leaves to spread behind the stocks for a couch a trunk of a small cocoanut tree was then placed for a <unk> a hard one but the natives
+
+predicted continuation:
+all round the world and the sea was not yet seen but the wind was now in the middle of the ship and the wind was now in readiness to be hoisted out of sight of land and the ship was still in the chase of the line the boat was now in the chase of the boat but the ship was now in the chase of the line the boats were now in the boat and were soon as the boats were hoisted out to the boat and the ship was now a little distance from the boat and 
+
+----------
+
+
+test sequence 56
+input string:
+roar of <unk> voice ordering a pull at the <unk> and soon afterwards a <unk> struck the scuttle and all hands were called to take the ship into port this was wholly unexpected but we learned directly that the mate no longer <unk> upon the <unk> and renouncing all thought of <unk> the men to change their minds had suddenly made up his own he was going to beat up to the entrance of the harbour so as to show a signal for a pilot before sunrise notwithstanding this the sailors absolutely refused to assist in working the ship under
+
+predicted continuation:
+lee of the ships deck the ship was now a little distance from the sea and the ship was now a little distance from the sea and the wind was now in readiness to be hoisted to the mast where the vessel was the first and second party to sail and the wind was now in readiness to be sailing in the boat and so at last the wind was fairly rolling and the wind was now in readiness to be sailing in the boats stern and there was no pause for the purpose of the ship we were now 
+
+----------
+
+
+test sequence 57
+input string:
+to hear of <unk> in a day of comparative peace but the <unk> is accounted for by the fact that of late the french have been building up a great military marine to take the place of that which nelson gave to the waves of the sea at trafalgar but it is to be hoped that they are not building their ships for the people across the channel to take in case of a war what a fluttering of french <unk> there would be though i say the french are no sailors i am far from seeking to <unk> them
+
+predicted continuation:
+the same but as the case of the captain and his officers and the captain of the neversink was a man of a very different service and the captain of the american navy it is not to be doubted that the same in case of the american whalemen are the same and most extravagant and if not fail to fancy that the whale is the only true person in the english navy and the american navy are the same and most extravagant and most certainly a most curious one but there is a great deal in the sperm whale and 
+
+----------
+
+
+test sequence 58
+input string:
+canoe came gliding slowly along the shore with the <unk> bough of a tree for a sail for the purpose of keeping the things dry he had also built a sort of platform just behind the prow railed in with green <unk> and here was a heap of yellow bananas and <unk> shells young cocoanuts and antlers of red coral two or three pieces of carved wood a little <unk> black as jet and rolls of printed tappa we were given a holiday and upon going ashore <unk> of course was my companion and guide for this no mortal could
+
+predicted continuation:
+but a single sense of the least possible reflections of the savages who had been brought to the bay of nukuheva and i was still further in the valley and as i was to have been the more a bit of water and a few moments more and more closely my companion and my own friends were in the habit of a few moments a most remarkable and most dangerous manner i had never before had i had a good mind to believe that the typees were not to be ascribed to the most trivial condition of the nature of 
+
+----------
+
+
+test sequence 59
+input string:
+splinters with some sea joke as to the remaining invalids they were hardly ill enough to occasion any serious apprehension at least for the present in the breasts of such <unk> beings as themselves and even those who suffered the most <unk> refrained from any expression of pain the truth is that among sailors as a class sickness at sea is so heartily <unk> and the sick so little cared for that the greatest invalid generally <unk> to mask his sufferings he has given no sympathy to others and he <unk> none in return their conduct in this respect so
+
+predicted continuation:
+and the most valuable of all men and men who have seen their lives in the same way that the most reliable of all men and women are the most valuable and the men of the north and south of the south seas and the right whale is the only one of the most remarkable of all the whales and other things of the south but the only one is the most famous of the articles of war it is a very learned one the whale is in the very act of the fact that the american whalemen are so 
+
+----------
+
+
+test sequence 60
+input string:
+glanced to right and left as we lay before him well my <unk> <unk> do you find yourselves today looking very <unk> the men made some rejoinder and he went on those poor fellows i saw the other <unk> sick i <unk> are they and he <unk> the company at last he <unk> out one who was assuming a most unearthly appearance and remarked that he looked as if he were extremely ill yes said the sailor <unk> im <unk> doctor ill soon be losing the number of my mess a sea phrase for departing this life and he closed
+
+predicted continuation:
+head and his eyes were open with the air of a sort of red black cloth and a ragged girl a little bit of wine and a gemman in a ring and a few inches in length of the entire length of the house the other with the exception of the whole i could not but be tempted to put up the whole body of the whale in the course of the night and after a few moments the third was about to be taken up and there was no telling but the slightest degree of bartleby and his companion 
+
+----------
+
+
+test sequence 61
+input string:
+he paused <unk> but it would never do to give up so he threw himself at full length beside her and <unk> commenced turning over the leaves <unk> gave a start just one little start barely perceptible and then fumbling something in her hand lay perfectly motionless the doctor rather frightened at his own <unk> and knowing not what to do next at last he placed one arm cautiously about her waist almost in the same instant he bounded to his feet with a cry the little witch had pierced him with a <unk> but there she lay just as
+
+predicted continuation:
+he had been a little more than a mile from the sea she was a little and rather a little girl on her bosom and a few moments more and more than a mile down the rigging her eyes were now a little withered and hollow she seemed to have been a little surprised by the person of the company and the more agreeable to the taste than the case we had been brought to the bottom of the sea and the sea was not so long as we were in the boat we found a stout spear in the 
+
+----------
+
+
+test sequence 62
+input string:
+no sign however of boat or pilot was seen and after running close in several times the ensign was set at the <unk> union down in distress but it was of no avail <unk> to <unk> this unaccountable <unk> on the part of those ashore <unk> quite enraged now determined to stand boldly in upon his own <unk> trusting solely to what he remembered of the harbour on a visit there many years previous this resolution was characteristic even with a competent pilot <unk> bay is considered a <unk> one to enter formed by a bold sweep of the shore
+
+predicted continuation:
+the whole body of the leviathan is a little dark and a sort of a sort of square years ago a month or two after the entire length of the ship is a little old and lofty and peculiar to one of the most delicate of the world and the entire body of the whale is the only one a little is the case that the whale is in the act of the most part in the fishery the most remarkable article and the less the case in the end is the only mode of being a question which is 
+
+----------
+
+
+test sequence 63
+input string:
+to me though not to others but an event occurred about this period which in removing by far the most pitiable cases of suffering tended to make less grating to my feelings the subsequent conduct of the crew we had been at sea about twenty days when two of the sick who had rapidly grown worse died one night within an hour of each other one occupied a <unk> right next to mine and for several days had not risen from it during this period he was often delirious starting up and glaring around him and sometimes wildly tossing his
+
+predicted continuation:
+arms upon the mats and then looking at the sight of the day and after a moments pause he was a little reserved saying that the young man was a man of a singularly interesting nature and the captain of a family was not a little interested in the service of the more fortunate person in the face of the more fortunate person than his own and the same reason that he would not have been otherwise than a man of a less temperate and charitable one was a man of a great degree of style in the valley he 
+
+----------
+
+
+test sequence 64
+input string:
+to eat aboard <unk> now turned <unk> and he was assailed by a perfect hurricane of yells in which the oaths fell like <unk> <unk> this what dye mean he cried upon the first lull who told you all to speak at once here you man with the knife youll be putting <unk> eyes out yet dye hear you sir you seem to have a good deal to say who are you pray where did you ship im nothing more nor a bloody <unk> retorted <unk> stepping forward <unk> and eyeing him and if you want to know i shipped
+
+predicted continuation:
+the same time to be sure you are a little better than a man and a wicked one can not be a little better than a man but a man of a friend and a friend to a man who is a man who is a man who is a man who is a man who is a man who is a man who is not a man of a man who is a man who is a man who is not a man of a man who is a man who is not a man of a man who 
+
+----------
+
+
+test sequence 65
+input string:
+over with verdure and waving with trees the valley itself is a wilderness of woodland with links of streams flashing through and narrow <unk> fairly <unk> through masses of foliage all alone in this wild place was the abode of the <unk> the only one back from the <unk> sole <unk> the few fishermen and their families dwelling in a small grove of cocoanut trees whose roots were washed by the sea the cleared tract which they occupied comprised some thirty acres level as a prairie part of which was under <unk> the whole being fenced in by a stout
+
+predicted continuation:
+the white whale seemed to be seen the long narrow distance of the sea was a little decorated with a large cocoanut yellow and stately and stately and stately jet it was the first time that the entire ships company were made to be seen in the american navy but the whale was not yet the case with the captain in the american navy he was a very fine man and the whale the captain of the american navy are the same and most probably of a naval service that the american american american whalers are to be found in 
+
+----------
+
+
+test sequence 66
+input string:
+the benevolent native to whom he was going would set a good table the next morning we were all <unk> his fortune when of a sudden he bolted in upon us looking <unk> out of humour hang it he cried im worse off than ever let me have some breakfast we lowered our slender bag of <unk> from a <unk> and handed him a biscuit while this was being <unk> he went on and told us his story after leaving here they <unk> me back into a valley and left me in a hut where an old woman lived by
+
+predicted continuation:
+name of a man is a very fine man and a sort of queer sort of steel which was to be seen in the most bland and most interesting manner of his nature is not a whit more wonderful and charitable to the fact that he is a great man in the world and if he be a great man in the world and if he be a great man he is not a little interested in the morning he is a great man in the fishery and if he be a great man in the world and if he 
+
+----------
+
+
+test sequence 67
+input string:
+some twenty or thirty natives armed with spears which through the glass looked like <unk> had just come out of the grove and were apparently shouting to the strangers not to be in such a hurry but return and be sociable but they were somewhat <unk> for the boat paused about its length from the beach when the captain standing up in its head delivered an address in <unk> the object of which seemed to be that the islanders should draw near one of them stepped forward and made answer seemingly again urging the strangers not to be <unk> but
+
+predicted continuation:
+soon as they were going to pass the night when the ship was in readiness to be sailing in the boats stern and then we were soon in the boat and then the ship was now in readiness to be sailing in the boat and then to be sure but the next day we were sailing in the boat and so at last we came to a boat with the utmost delight we had been brought to the bottom of the boat which had been thrown up by the mainmast that the water was now in readiness to be sailing 
+
+----------
+
+
+test sequence 68
+input string:
+no telling what they might have done for the nonce <unk> was captain and so far as mere seamanship was concerned he was as competent to command as <unk> in truth a better seaman never swore this <unk> by the <unk> together with a surprising familiarity with most nautical names and phrases comprised about all the english he knew being a <unk> and as such having <unk> to the cabin this man though not yet civilized was according to sea usages which know no exceptions held superior to the sailors and therefore nothing was said against his being left in
+
+predicted continuation:
+cabin and the captain of the forecastle was a man of a very fine and most beautiful and charitable man the true man of the king and the whale the great whale fishery in the fishery the people of the south seas are the most valuable and men of the present day and as in the case of the present day the same is the reason why the captain of the neversink is a fine and most interesting character to be found in the navy but as it may be deemed that the whale is in the habit of a 
+
+----------
+
+
+test sequence 69
+input string:
+means to retain his original <unk> meaning as he maintained in the <unk> language of the island something <unk> to one who had got himself into a scrape the mate put an end to the discussion by <unk> the poor fellow with a bucket of salt water and <unk> upon him the nautical appellation of luff though a certain <unk> succeeded his first pangs at leaving home <unk> will call him <unk> <unk> into his former mood and became very melancholy often i noticed him crouching apart in the forecastle his strange eyes gleaming <unk> and watching the slightest movement
+
+predicted continuation:
+the first time i had been a little surprised by the person of the unfortunate man who had been a man of a great deal of gingernuts and anxiety and having been a little more than one hundred and sixty of them in the south seas and the captain of the neversink was a man of a very different service and the captain of the american navy the captain of the american navy are so much as he did to be a little more than one hundred and sixty thousand dollars in the american navy and the captain of the 
+
+----------
+
+
+test sequence 70
+input string:
+the <unk> language of the island something <unk> to one who had got himself into a scrape the mate put an end to the discussion by <unk> the poor fellow with a bucket of salt water and <unk> upon him the nautical appellation of luff though a certain <unk> succeeded his first pangs at leaving home <unk> will call him <unk> <unk> into his former mood and became very melancholy often i noticed him crouching apart in the forecastle his strange eyes gleaming <unk> and watching the slightest movement of the men many a time he must have been thinking
+
+predicted continuation:
+the more than a thousand miles to be seen but the next day after the first lieutenant in the afternoon was the first lieutenant and i had a good mind to say that he was a very useful man and a sailor of the scrivener to be sure he was a very useful man and a little interested in his own person as a man of the sea and the man with a weed in his hand and a few words of his head and his eyes were as a most miserable of all sorts of gingernuts and gestures and 
+
+----------
+
+
+test sequence 71
+input string:
+until some event turned up more <unk> to our <unk> so that very day we sallied out on an <unk> to the ship which lying <unk> far up the bay yet remained to be visited passing on our route a long low shed a voice hailed <unk> men ahoy turning round who should we see but a <unk> englishman you could tell his country at a glance up to his knees in shavings and <unk> away at a bench he turned out to be a runaway ships carpenter recently from tahiti and now doing a <unk> business in <unk> by
+
+predicted continuation:
+way of any sort of interest which is to be done and so saying he slowly rose and turned down the ladder to the deck and then with a sort of involuntary expression he seemed to think that he was not a little interested in the first place he had been a man of a great age and a man of a very fine little girl and a little more than a thousand miles in length and a week or two after the rest of the crew were now in the hands of the captain and the captain of the 
+
+----------
+
+
+test sequence 72
+input string:
+way i <unk> his <unk> by this i escaped the <unk> of the rest for be it known that though little inclined to jealousy in love matters the <unk> will hear of no <unk> in his friendship <unk> running over his <unk> as a friend first of all informed me that he was a <unk> thus declaring his <unk> with the church the way this <unk> of mine expressed his regard was by assuring me over and over again that the love he bore me was nuee nuee nuee or <unk> extensive all over these seas the word nuee is
+
+predicted continuation:
+very fine thing in which the captain of the neversink was a man of a very fine and most beautiful and charitable man the true man of the king and the whale the great whale fishery in the fishery the people of the south seas are the most valuable and men of the present day and as in the case of the present day the same is the reason why the captain of the neversink is a fine man of a very fine and most beautiful and most valuable and charitable man the original the judge and the captain of 
+
+----------
+
+
+test sequence 73
+input string:
+was <unk> by a shallow brook which dividing its waters flowed on both sides until united below twisting its roots round the rock a <unk> <unk> spread itself overhead in a wilderness of foliage the elastic <unk> <unk> from the larger boughs <unk> themselves into every cleft thus forming <unk> to the parent stem in some places these <unk> branches <unk> had not yet reached the rock swinging their loose <unk> ends in the air like <unk> <unk> hut a mere <unk> of bamboos was perched upon a level part of the rock the ridgepole resting at one end in
+
+predicted continuation:
+distance the two still stood still more the sight of the lower jaw the stranger was now seen in the middle of the boat and then it was the first time that the boat was now in the middle of the boat and the ship was now a little distance from the boat and the ship was now a little distance from the sea and the wind was now in readiness to be hoisted out of the boat and then the ship was now a little distance from the boat and then the ship was now a little distance from 
+
+----------
+
+
+test sequence 74
+input string:
+he takes the <unk> view of the subject one thing was certain when <unk> spoke all listened a great deal more than could be said for the rest for under the discipline of two or three i could mention some of the audience <unk> others <unk> a few yawned and one irritable old gentleman in a <unk> of cocoanut leaves used to clutch his long staff in a state of excessive nervousness and <unk> out of the church making all the noise he could to <unk> his disgust right adjoining the chapel is an immense <unk> building with windows and
+
+predicted continuation:
+few inches in length and at the same time the last encounter was a sort of thing but it was a very pleasant thing to be seen at the time of the day at the time and the last of the two two boats were engaged in the boat and the ship was now a little distance from the boat and the ship was now a little distance from the sea and the wind was now in readiness to be hoisted out of the boat and then the ship was now a little distance from the boat and then the 
+
+----------
+
+
+test sequence 75
+input string:
+in this here <unk> <unk> he observed a <unk> cant keep the run of the months <unk> cause theres no seasons no summer and winter to go by ones <unk> <unk> its always july its so <unk> hot a <unk> provided we cast about for some means of getting to <unk> the island of <unk> is very nearly surrounded by a regular <unk> of coral extending within a mile or less of the shore the smooth canal within furnishes the best means of communication with the different settlements all of which with the exception of <unk> are right upon the
+
+predicted continuation:
+of the deep the south sea the sea is in the middle of the house the first lieutenant of the frigate has been regarded by a whale in the water and the whale is the only one a circumstance which the captain of the american navy are so much as the same with the same sort of social affairs and as for the present case he has seen a good deal more than a thousand years ago the whale was a fine and a seaman and a few years of a hundred years it was a curious sight that the 
+
+----------
+
+
+test sequence 76
+input string:
+tropical <unk> heightened by the palmtrees waving here and there and the <unk> groves of the breadfruit in the background the <unk> <unk> of the common people are out of sight and there is nothing to <unk> the prospect all round the water <unk> a wide smooth beach of mixed pebbles and fragments of coral this forms the <unk> of the village the <unk> houses all facing <unk> <unk> of the tides being so inconsiderable that they cause no <unk> the <unk> <unk> fine large <unk> a site on one side of the bay a green <unk> slopes off to
+
+predicted continuation:
+surface and the sea is the only one that is the only one that is the most precious of all the men in the fishery the sperm whale is a very fine thing and the whale is the only one of the most remarkable and most intelligent and most conspicuous of the most part of the fishery and the other and more than a thousand other parts of the world is a very fine thing and the only other person in the fishery the most remarkable article of whaling is the most important of the articles of war in the 
+
+----------
+
+
+test sequence 77
+input string:
+nothing but idle <unk> got up by the sailors for the purpose of <unk> us away so as to <unk> the captain who was in want of more hands to lie the longer in a pleasant harbour the next time the <unk> came ashore we flung ourselves in his path when informed of our desire to sail with him he wanted to know our history and above all what countrymen we were we said that we had left a whaler in tahiti some time previous and since then had <unk> the most <unk> <unk> upon a plantation as for our
+
+predicted continuation:
+we should be a little more than a mile from the bottom of the sea and the sea is not yet the case that the captain is not the least of the people of the chase but it is not so easy to be the case of the captain of the neversink and in that case he was a man of a very fine and most beautiful and charitable to all the events he had been a most handsome and gentlemanly and gentlemanly and gentlemanly and he is a very fine man and a most miserable and gentlemanly and handsome 
+
+----------
+
+
+test sequence 78
+input string:
+as the <unk> sailors came on his <unk> eye rolled and his <unk> <unk> over his head down with him strike him down hang him at the mainyard such were the shouts now raised but he stood <unk> and for a single instant they absolutely <unk> cowards cried <unk> and he flung himself upon him the steel descended like a ray of light but did no harm for the sailors heart was beating against the <unk> before he was aware they both fell to the deck when the knife was instantly seized and <unk> secured <unk> <unk> with him was
+
+predicted continuation:
+very strong thing to be seen at the next moment the ship was now in the act of taking a long and start from the boat the boat was now in the chase of the boat but the whale was not yet seen in the afternoon the ship was now a little distance from the boat and the ship was now a little distance from the sea and the wind was now in readiness to be hoisted out of the boat and then the ship was now a little distance from the boat and then the ship was now a 
+
+----------
+
+
+test sequence 79
+input string:
+little to <unk> satisfaction i thought he slung his <unk> over his shoulder and we started <unk> was at once sent on in advance and leaving the plantation he struck into a path which led toward the mountains after hurrying through the thickets for some time we came out into the sunlight in an open glade just under the shadow of the hills here <unk> pointed aloft to a <unk> crag far distant where a <unk> with horns thrown back stood like a statue chapter <unk> some account of the wild cattle in polynesia before we proceed further a word
+
+predicted continuation:
+the last and it is not so easy to be said of the old man the sage with a high degree of air that it was only to be doubted that the man with a certain degree of air was not wholly exempt from the fact that he was a very useful man and a little better than a man and a very simple man i am not acquainted with the fact that he is not so much as to be a sort of thing but he has no other side of the world and if he be not so 
+
+----------
+
+
+test sequence 80
+input string:
+them habits of industry <unk> by this principle the <unk> are less civilized now than formerly true their constitutional <unk> is excessive but surely if the spirit of christianity is among them so <unk> a vice ought to be at least partially <unk> but the reverse is the fact instead of <unk> new <unk> old ones have been <unk> as previously remarked the manufacture of tappa is nearly obsolete in many parts of the island so too with that of the native tools and domestic <unk> very few of which are now <unk> since the superiority of european <unk> has
+
+predicted continuation:
+made by the inhabitants of the american frigate and in the american navy i have seen them in the american navy and i have no doubt that the inhabitants of the navy have been made to the memory of the american navy in the navy but it is not a little resembled a most curious of all sorts of men and in the same way that the inhabitants of the valley are so small and as the inhabitants of the valley are the most valuable and most extravagant and i have no doubt that the inhabitants of the valley are 
+
+----------
+
+
+test sequence 81
+input string:
+the lady he wedded being a near <unk> of the queen he became a permanent member of her majestys household this adventurer rose late dressed <unk> in calico and trinkets assumed a <unk> tone in conversation and was evidently upon excellent terms with himself we found him reclining on a mat smoking a <unk> of tobacco in the midst of an admiring circle of chiefs and ladies he must have noticed our approach but instead of rising and offering <unk> he went on talking and smoking without even <unk> to look at us his highness feels his <unk> carelessly observed
+
+predicted continuation:
+stranger with a sort of gesture in his hand and with a sort of involuntary expression he seemed to think that he was not a little interested in the first place of the voyage and the man who had been a man of a great age and a man of a good but a little man in his life and the other he was a man of a great age and a man who was a very fine man and a man of a very fine old age nor was his son of his own but i am not to 
+
+----------
+
+
+test sequence 82
+input string:
+chapter <unk> queen <unk> it is well to learn something about people before being introduced to them and so we will here give some account of <unk> and her family every reader of cooks voyages must remember <unk> who in that <unk> time was king of the larger <unk> of tahiti subsequently assisted by the muskets of the <unk> men he extended his rule over the entire island this <unk> before his death had his name changed into <unk> which has ever since been the royal <unk> he was succeeded by his son <unk> ii the most famous prince in
+
+predicted continuation:
+world that he was a man of a very fine and most beautiful and charitable man the true man of the king and the whale the great whale fishery in the valley of the sea the people of the south seas are not the least among the people of the south but the same is the reason why the people of the south have been most tame and most as the officers are the only other among the islands of the south seas where the people of the south seas are the most extraordinary of the navy and the greatest 
+
+----------
+
+
+test sequence 83
+input string:
+in her sunny eyes and the outline of that arm of hers peeping forth from a capricious tappa robe was the very <unk> of beauty though there was no end to <unk> <unk> not a syllable did he ever breathe of reward but sometimes he looked very knowing at last the day came for sailing and with it also his canoe loaded down to the gunwale with a sea stock of fruits giving him all i could spare from my chest i went on deck to take my place at the windlass for the anchor was weighing <unk> followed and
+
+predicted continuation:
+next day i was in a great hurry to get rid of the scene and i was not a little surprised by myself to my consternation it was not for me to be wondered at that day i had been a little surprised by the islanders that i could not avoid comparing my mind with the idea of the islanders that i could not avoid comparing the mind of the matter in which i was obliged to remain in the valley and i felt perfectly familiar with a man of course it was a mere favourite of the fact that 
+
+----------
+
+
+test sequence 84
+input string:
+eat aboard answer me you man who spoke before well i dont know as to that said the cooper looking <unk> uneasy and trying to edge back but pushed forward again some of that salt horse aint as sweet as it might be thats not what i asked you shouted the <unk> growing brave quite fast answer my questions as i put them or ill find a way to make you this was going a little too far the <unk> into which the coopers <unk> had thrown the sailors now <unk> no <unk> and one of <unk> young american who
+
+predicted continuation:
+the end of the day had been a little in the habit of a man of a certain age and a man of a very fine nature in the end of the day it was a very fine sight and a sort of thing in the house the other was not the least among the people of the world and if he could not but be able to return to the consideration of his knowledge that he would not be able to do so to speak of him as a general thing he was a very useful man and a 
+
+----------
+
+
+test sequence 85
+input string:
+the beach the <unk> are spread to dry passing by the <unk> <unk> on the roadside you find their occupants idle as usual but less disposed to gossip after service repose <unk> over the whole island the valleys reaching inland look <unk> than ever in short it is <unk> taboo day the very word formerly expressing the <unk> of their pagan <unk> now <unk> the sanctity of the christian <unk> chapter <unk> something about the <unk> a worthy young man formerly a friend of mine i speak of <unk> with all possible courtesy since after our <unk> there would be
+
+predicted continuation:
+special knowledge of the world to be sure i am not acquainted with the fact that i have seen it in the case of the first lieutenant that he is a mere favourite he is a great man in the valley of typee and the american american whalers are not to be found in the american navy and though the only creature is the case in the navy are the most valuable and the men in the navy are the most valuable and the men in the navy are the most valuable and the men in the navy are the 
+
+----------
+
+
+test sequence 86
+input string:
+their religion sat lightly upon them we had been told even that many heathenish games and <unk> still secretly lingered in their valley now the prospect of seeing an oldfashioned <unk> or <unk> reel was one of the <unk> which brought us here and so finding <unk> rather liberal in his religious ideas we disclosed our desire at first he <unk> and <unk> his shoulders like a frenchman declared it could not be brought <unk> a dangerous matter to attempt and might bring all concerned into trouble but we <unk> all this convinced him that the thing could be done
+
+predicted continuation:
+the most part that we might be seen in the valley we had not been long in the valley and as soon as we had been sailing in the valley and in the brigantine we were obliged to sail to the westward and at the time we had been sailing on the gundeck we had just emerged from the vessel we had to do with our sails and were all eagerness to be sailing on the deck and was soon at the ti they came to the deck and the yards were now in readiness to be seen and then 
+
+----------
+
+
+test sequence 87
+input string:
+to be sure the natives about the <unk> had abundance of <unk> and <unk> but what were these good for except to impart a still <unk> edge to <unk> which there was so little else to gratify during the height of the breadfruit season they fare better but at other times the demands of the shipping <unk> the <unk> resources of the island and the lands being mostly owned by the chiefs the inferior orders have to suffer for their <unk> deprived of their <unk> many of them would starve as captain <unk> insensibly <unk> his <unk> and we began
+
+predicted continuation:
+feel the least and most anxious of our labours we had not failed to be the case of the islanders to be sure they were not so much as to be sure i was to be seen at the ti and the natives were all the time as we drew near to the house of the bay and after a few moments we were obliged to discover the natives of the watch were now in the habit of our canoes the islanders made to be a little more than one hundred and fifty feet in length and at intervals the 
+
+----------
+
+
+test sequence 88
+input string:
+brown hand was on the boats gunwale and he was hauled aboard in the very midst of the mad bubbles that burst under the bows such a man or devil if you will was <unk> chapter xx the round <unk> from shore after the captain left the <unk> died away and as is usual about these islands toward noon it fell a dead calm there was nothing to do but haul up the courses run down the <unk> and lay and roll upon the swells the repose of the elements seemed to communicate itself to the men and for a
+
+predicted continuation:
+the stranger was now the first time and the last cutter in the course of the ship was a most curious and most conspicuous and amiable and far more agreeable to the point of the more than a thousand miles to be seen in the valley the other and three hours after the lapse of the neversink was a great variety of these articles of war a certain number of the natives were of a great hue and a little more than a mile a mile from the sea and the valley of typee were not so much more so 
+
+----------
+
+
+test sequence 89
+input string:
+porpoises with loud cries of taboo taboo they turned about and made for the shore the night of our arrival the mate and the <unk> were to stand watch and watch relieving each other every four hours the crew as is sometimes customary when lying at an anchor being allowed to remain all night below a distrust of the men however was in the present instance the principal reason for this proceeding indeed it was all but certain that some kind of attempt would be made at <unk> and therefore when <unk> first watch came on at eight bells <unk>
+
+predicted continuation:
+the morning of the morning and the next day the ship was now a little surprised by the people of the chase but the whale was not yet the case with the captain in the cabin he was a very fine man who had been a man of a great whale and a man of a very fine man and a man of a very fine little girl and a little like a man who had been a man of a great age and he had been a little more than one and all the time he was a very 
+
+----------
+
+
+test sequence 90
+input string:
+right and left with all the ease of an accomplished <unk> paul said he at last you dont seem to be getting along why dont you try the <unk> <unk> and by way of example he steeped a morsel of food into his <unk> of seawater on following suit i found it quite <unk> though rather bitter but on the whole a capital substitute for salt the <unk> invariably use seawater in this way deeming it quite a treat and considering that their country is surrounded by an ocean of <unk> the luxury cannot be deemed an <unk> one the
+
+predicted continuation:
+of the most simple and most beautiful and most beautiful creatures in the fishery the other of the american whalers are as much as the other and the same with the same sort of power to be ascribed to the most singular entertainment of the whale and the right whale is the only one who has a fancy to do with the same sort of deference to be ascribed to the most singular entertainment in which the sperm whale is a very fine man of the whale is a very fine thing in which the captain of the neversink was 
+
+----------
+
+
+test sequence 91
+input string:
+<unk> several <unk> and <unk> ay even <unk> but all these are owned and used be it observed by whites there are tailors and blacksmiths and carpenters also but not one of them is a native the fact is that the mechanical and <unk> employment of civilized life require a kind of exertion altogether too steady and sustained to agree with an indolent people like the polynesians calculated for a state of nature in a climate <unk> adapted to it they are <unk> for any other nay as a race they cannot otherwise long exist the following statement speaks for
+
+predicted continuation:
+present the seamen are not to be found in the south seas to the south seas and the whale is not yet the case that the captain is not to be found in the south seas the captain of the pequod was a man of the captains and the captain of the forecastle and the captain of the last chapter and a few days after the same day the day was a fine man of a fine warrior who had been a long time with the rest of the ship and the american captain had been a long time with 
+
+----------
+
+
+test sequence 92
+input string:
+to mark for himself what <unk> improvement if any has taken place nor must it be overlooked that of these authorities the two first in order are largely quoted by the right reverend <unk> <unk> in a work composed for the express purpose of <unk> information on the subject of christian <unk> in polynesia and he frankly <unk> moreover that they are such as cannot fail to have great weight with the public after <unk> to the manifold evils <unk> upon the natives by foreigners and their singularly inert condition and after somewhat too severely denouncing the undeniable errors of
+
+predicted continuation:
+south seas was not the least among the people of the south seas the great sperm whale is a very fine thing and the right whale and the right whale and the right whale and the right whale and the right whale and the right whale and the right whale and the right whale and the right whale and the right whale and the right whale and the right whale and the right whale and the right whale and the right whale and the right whale and the right whale and the right whale and the right whale and the 
+
+----------
+
+
+test sequence 93
+input string:
+his heels and a third in a cocked hat and feather in addition to these articles they merely wore the ordinary costume of their <unk> slip of native cloth about the loins <unk> as their behaviour was these worthies turned out to be a <unk> from the reverend the <unk> of the island and the object of their visit was to put our ship under a <unk> taboo to prevent the <unk> scenes and <unk> for <unk> which would ensue were the <unk> and <unk> to come off to us freely there was little ceremony about the matter the priests
+
+predicted continuation:
+the rest were soon revealed to me as i was in the habit of a sudden and cold air and a little while the other end of the house was a little distance from the ground and was soon left to the top of the house and the next moment i was about to see the operation i was about to see the operation i was in a great hurry to get rid of the scene and i was not disposed to do with my own request i was not to be seen i was a little reserved on the 
+
+----------
+
+
+test sequence 94
+input string:
+not doing so about which he could talk by the hour and no one be any the wiser probably he was a discreet man and thought it best to waive an interview with the lords of the <unk> for some time past this extremely suspicious character had been carrying on the <unk> trade in french wines and <unk> smuggled over from the menofwar lately touching at tahiti in a grove near the anchorage he had a rustic <unk> and <unk> where in quiet times when no ships were in <unk> a stray native once in a while got <unk> and
+
+predicted continuation:
+of the sea and the sea was a very fine man a little a little and rather a little down with his head in a calm and a little down with his teeth he was a small and handsome one his head was a very strong one with a strange look of gold and a little girl and a little girl with a long roll of old cheese and a bit of a window in his hand and with a kind of involuntary teeth the other was not a little surprised by the operation of the two at the time 
+
+----------
+
+
+test sequence 95
+input string:
+then were our views and such our hopes in projecting a trip to <unk> but in our most lofty aspirations we by no means lost sight of any minor matters which might help us to <unk> the doctor had informed me that he <unk> in playing the <unk> i now suggested that as soon as we arrived at <unk> we should endeavour to <unk> a <unk> for him or if this could not be done that he should manufacture some kind of a substitute and thus <unk> apply for an audience of the queen her wellknown passion for music would
+
+predicted continuation:
+been more than a century than ever after the lapse of time i had been able to believe that the typees were not wholly exempt from the fact that the typees were not wholly exempt from their existence and the natives in the course of the island were the same and most extravagant and if not a single syllable could not be otherwise than a hundred years i was not a little surprised in the valley i was not able to believe that the typees were not altogether far from the ti but i was not a little inclined to 
+
+----------
+
+
+test sequence 96
+input string:
+to the <unk> and wished to know whether all things considered we thought it best for any of them to join the <unk> anxious to pack the ship off as soon as possible we answered by all means some went so far as to <unk> the <unk> to the skies as the best and <unk> of ships <unk> too as a good fellow and a sailor every inch came in for his share of praise and as for the <unk> man he would never trouble <unk> in short every inducement we could think of was presented and <unk> jack ended
+
+predicted continuation:
+captain and the captain of the forecastle and the captain of the watch and the two sailors were engaged in the same cabin with a large party of the same captains who had been captured by the captain and the captain of the ship and the two officers of the ship and the ship was now a little distance from the boat and the ship was now a little distance from the sea and the wind was now in readiness to be hoisted to the mast where the vessel was the first and second party to sail and the wind 
+
+----------
+
+
+test sequence 97
+input string:
+was said be it observed while strolling along over a soft carpet of grass a little moist even at midday from the shade of the wood through which we were passing emerging from this we entered upon a blank <unk> tract upon which the suns rays fairly flashed making the loose <unk> under foot well nigh as hot as the floor of an oven such yelling and leaping as there was in getting over this ground would be hard to surpass we could not have crossed at <unk> toward <unk> it not been for a few small <unk> bushes growing
+
+predicted continuation:
+of the water and the whole body of which was a very great variety of men who had been brought to the house of the ship and the two islanders in the course of the valley were in the very place of the taboo groves and the sea all round us with a view of the air we had been brought to the bottom of the bay of nukuheva and i was half inclined to believe that the islanders were not altogether far from the ti but i was not a little surprised at the ti i had been a 
+
+----------
+
+
+test sequence 98
+input string:
+a few of the <unk> into service <unk> come here he shouted to several who reclining on a bank had hitherto been critical observers of our proceedings and among other things had been particularly <unk> by the performance with the <unk> after making these fellows load their baskets together the yankee filled his own and then drove them before him down to the beach probably he had seen the herds of <unk> <unk> driven in this way by mounted indians along the great callao to lima the boat at last loaded the yankee taking with him a couple of natives
+
+predicted continuation:
+various sorts of desperadoes who had been killed by the captain and the masteratarms and his mates and the mates were being engaged in the boat and were soon broken into the boat and then the ship was now a little distance from the boat and the ship was now a little distance from the sea and the wind was now in readiness to be hoisted out of the water and the ship was still in the act of being so much as to be seen at the helm but the ship was now in the chase of the line 
+
+----------
+
+
+test sequence 99
+input string:
+papers for which he said he would be much obliged and give me a good dinner of roast pig and indian <unk> in the <unk> now <unk> was one of those who board the shipping for their washing and the <unk> being very great the <unk> chiefs not <unk> to <unk> custom in person though the work is done by their <unk> he had decided upon a course suggested by a knowing sailor a friend of his he wished to have <unk> a set of <unk> <unk> to come from certain manofwar and merchant captains known to have visited the
+
+predicted continuation:
+of the world and the more so by the people of the fishery the captain of the forecastle was a man of a very fine and most intelligent and amiable and gentlemanly and charitable man the true man of the king and the whale the great whale fishery in the fishery the other and his subjects are not to be found in the american navy and the captain of the american navy are so much as in the navy he has a right to say to himself the other with his own words and his right hand he is a 
+
+----------
+
+

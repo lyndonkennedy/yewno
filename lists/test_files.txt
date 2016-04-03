@@ -1,0 +1,704 @@
+547	data/www.gutenberg.lib.md.us//5/4/547/547.zip	19	12493	Emile Gaboriau	Baron Trigault's Vengeance
+9656	data/www.gutenberg.lib.md.us//9/6/5/9656/9656.zip	19	4795	G. K. Chesterton	Alarms and Discursions
+etext97	data/www.gutenberg.lib.md.us//etext97/wtrbs10.zip	39	7674	Charles Kingsley	The Water-Babies
+27834	data/www.gutenberg.lib.md.us//2/7/8/3/27834/27834.zip	20	6075	Sara Ware Bassett	Paul and the Printing Press
+32847	data/www.gutenberg.lib.md.us//3/2/8/4/32847/32847.zip	18	1755	Edmond Hamilton	The Door into Infinity
+31269	data/www.gutenberg.lib.md.us//3/1/2/6/31269/31269.zip	20	5864	Olive Thorne Miller	Upon The Tree-Tops
+3525	data/www.gutenberg.lib.md.us//3/5/2/3525/3525.zip	19	2039	Henry van Dyke	Music and Other Poems
+16471	data/www.gutenberg.lib.md.us//1/6/4/7/16471/16471.zip	19	20531	Robert Kerr	A General History and Collection of Voyages and Travels, Volume 16
+4939	data/www.gutenberg.lib.md.us//4/9/3/4939/4939.zip	20	7897	James Huneker	Chopin: The Man and His Music
+32329	data/www.gutenberg.lib.md.us//3/2/3/2/32329/32329.zip	19	8672	William Murray Graydon	Guy in the Jungle
+4005	data/www.gutenberg.lib.md.us//4/0/0/4005/4005.zip	20	15037	Rosa Nouchette Carey	Herb of Grace
+30759	data/www.gutenberg.lib.md.us//3/0/7/5/30759/30759.zip	26	5692	Grace Livingston Hill	Exit Betty
+8152	data/www.gutenberg.lib.md.us//8/1/5/8152/8152.zip	19	5214	Edmund Gosse	Henrik Ibsen
+7700	data/www.gutenberg.lib.md.us//7/7/0/7700/7700.zip	22	3545	Aristophanes	Lysistrata
+etext02	data/www.gutenberg.lib.md.us//etext02/tecom10.zip	0	4796	Lyof N. Tolstoi	The Moscow Census - From "What to do?"
+32225	data/www.gutenberg.lib.md.us//3/2/2/2/32225/32225.zip	26	7455	Martha Finley	Elsie at Viamede
+852	data/www.gutenberg.lib.md.us//8/5/852/852.zip	20	12889	John Dewey	Democracy and Education
+6982	data/www.gutenberg.lib.md.us//6/9/8/6982/6982.zip	19	9053	Julian Hawthorne	Hawthorne and His Circle
+5824	data/www.gutenberg.lib.md.us//5/8/2/5824/5824.zip	19	2518	Mark Twain (Samuel Clemens) and Charles Dudley Warner	The Gilded Age, Part 7.
+32537	data/www.gutenberg.lib.md.us//3/2/5/3/32537/32537.zip	19	5818	Frank V. Webster	The Newsboy Partners
+30881	data/www.gutenberg.lib.md.us//3/0/8/8/30881/30881.zip	18	8318	Carolyn Wells	Two Little Women
+383	data/www.gutenberg.lib.md.us//3/8/383/383.zip	20	3433	Oliver Goldsmith	She Stoops to Conquer
+32867	data/www.gutenberg.lib.md.us//3/2/8/6/32867/32867.zip	18	5026	Jean Ingelow	Mopsa the Fairy
+6127	data/www.gutenberg.lib.md.us//6/1/2/6127/6127.zip	19	6055	Frank R. Stockton	The Great Stone of Sardis
+2634	data/www.gutenberg.lib.md.us//2/6/3/2634/2634.zip	21	2150	Thomas Henry Huxley	The Evolution of Theology: An Anthropological Study
+9628	data/www.gutenberg.lib.md.us//9/6/2/9628/9628.zip	18	3231	Jennie Hall	Buried Cities: Pompeii, Olympia, Mycenae
+6014	data/www.gutenberg.lib.md.us//6/0/1/6014/6014.zip	19	11301	George Barr McCutcheon	West Wind Drift
+7486	data/www.gutenberg.lib.md.us//7/4/8/7486/7486.zip	19	3219	Irving Bacheller	The Master of Silence
+16567	data/www.gutenberg.lib.md.us//1/6/5/6/16567/16567.zip	27	5604	Edith Van Dyne	Aunt Jane's Nieces in the Red Cross
+31989	data/www.gutenberg.lib.md.us//3/1/9/8/31989/31989.zip	28	6519	Edward Stratemeyer	To Alaska for Gold
+6763	data/www.gutenberg.lib.md.us//6/7/6/6763/6763.zip	23	1922	Aristotle	The Poetics
+28179	data/www.gutenberg.lib.md.us//2/8/1/7/28179/28179.zip	19	9261	Margaret Murray Robertson	The Inglises
+982	data/www.gutenberg.lib.md.us//9/8/982/982.zip	19	1297	Edward Lear	Book of Nonsense
+3854	data/www.gutenberg.lib.md.us//3/8/5/3854/3854.zip	19	14113	Madame La Marquise De Montespan	The Memoirs of Madame de Montespan, Complete
+31623	data/www.gutenberg.lib.md.us//3/1/6/2/31623/31623.zip	18	14475	John Ruskin	Modern Painters, Volume IV (of V)
+30190	data/www.gutenberg.lib.md.us//3/0/1/9/30190/30190.zip	21	16658	Marietta Holley	Around the World with Josiah Allen's Wife
+29358	data/www.gutenberg.lib.md.us//2/9/3/5/29358/29358.zip	21	10978	Virgil	The AEneids of Virgil
+30495	data/www.gutenberg.lib.md.us//3/0/4/9/30495/30495.zip	20	7630	Henry Smith Williams	A History of Science, Volume 5(of 5)
+4615	data/www.gutenberg.lib.md.us//4/6/1/4615/4615.zip	20	7062	Arthur Christopher Benson	The Upton Letters
+32843	data/www.gutenberg.lib.md.us//3/2/8/4/32843/32843.zip	27	8469	Evelyn Raymond	The Sun Maid
+4253	data/www.gutenberg.lib.md.us//4/2/5/4253/4253.zip	21	6059	Robert Browning	Dramatic Romances
+3629	data/www.gutenberg.lib.md.us//3/6/2/3629/3629.zip	20	20663	Theodore Dreiser	The Titan
+30764	data/www.gutenberg.lib.md.us//3/0/7/6/30764/30764.zip	20	1121	James H. Schmitz	Ham Sandwich
+30445	data/www.gutenberg.lib.md.us//3/0/4/4/30445/30445.zip	19	2238	E. V. Lucas	The Flamp, The Ameliorator, and The Schoolboy's Apprentice
+491	data/www.gutenberg.lib.md.us//4/9/491/491.zip	19	6630	Gertrude Atherton	Rezanov
+5977	data/www.gutenberg.lib.md.us//5/9/7/5977/5977.zip	20	7564	Horatio Alger	Bound to Rise
+5167	data/www.gutenberg.lib.md.us//5/1/6/5167/5167.zip	19	2482	William Butler Yeats	The Countess Cathleen
+6864	data/www.gutenberg.lib.md.us//6/8/6/6864/6864.zip	19	9946	Samuel Hopkins Adams	Average Jones
+904	data/www.gutenberg.lib.md.us//9/0/904/904.zip	19	13607	Gene Stratton-Porter	Her Father's Daughter
+3600	data/www.gutenberg.lib.md.us//3/6/0/3600/3600.zip	19	52196	Michel de Montaigne	The Essays of Montaigne, Complete
+4520	data/www.gutenberg.lib.md.us//4/5/2/4520/4520.zip	19	14501	D. H. Lawrence	Aaron's Rod
+28574	data/www.gutenberg.lib.md.us//2/8/5/7/28574/28574.zip	18	6863	James B. Hendryx	Connie Morgan in the Fur Country
+13990	data/www.gutenberg.lib.md.us//1/3/9/9/13990/13990.zip	20	2744	American Anti-Slavery Society	The Fugitive Slave Law and Its Victims
+2898	data/www.gutenberg.lib.md.us//2/8/9/2898/2898.zip	23	4968	Mary Johnston	Pioneers of the Old South
+28871	data/www.gutenberg.lib.md.us//2/8/8/7/28871/28871.zip	22	537	George Rawlinson	The Seven Great Monarchies Of The Ancient Asian World
+7549	data/www.gutenberg.lib.md.us//7/5/4/7549/7549.zip	21	653	Guy de Maupassant	Quotes and Images From The Short Stories of Maupassant
+32513	data/www.gutenberg.lib.md.us//3/2/5/1/32513/32513.zip	19	1212	Frances Elizabeth Barrow	The Third Little Pet Book, with the Tale of Mop and Frisk
+996	data/www.gutenberg.lib.md.us//9/9/996/996.zip	19	39650	Miguel de Cervantes Saavedra	Don Quixote
+7894	data/www.gutenberg.lib.md.us//7/8/9/7894/7894.zip	19	13898	Wilkie Collins	The Fallen Leaves
+93	data/www.gutenberg.lib.md.us//9/93/93.zip	21	2540	Mark Twain (Samuel Clemens)	Tom Sawyer, Detective
+5240	data/www.gutenberg.lib.md.us//5/2/4/5240/5240.zip	19	20203	Charles James Lever (1806-1872)	The Confessions of Harry Lorrequer, Complete
+32142	data/www.gutenberg.lib.md.us//3/2/1/4/32142/32142.zip	18	713	Alan Edward Nourse	Marley's Chain
+8945	data/www.gutenberg.lib.md.us//8/9/4/8945/8945.zip	20	11317	Anthony Trollope	Life of Cicero
+7923	data/www.gutenberg.lib.md.us//7/9/2/7923/7923.zip	19	72	John Jay Smith and John F. Watson	American Historical and Literary Antiquities, Part 23.
+27813	data/www.gutenberg.lib.md.us//2/7/8/1/27813/27813.zip	27	6145	Sir Arthur Thomas Quiller-Couch	Merry-Garden and Other Stories
+31499	data/www.gutenberg.lib.md.us//3/1/4/9/31499/31499.zip	18	4689	Jane L. Stewart	A Campfire Girl's Happiness
+829	data/www.gutenberg.lib.md.us//8/2/829/829.zip	27	9354	Jonathan Swift	Gulliver's Travels
+22811	data/www.gutenberg.lib.md.us//2/2/8/1/22811/22811.zip	20	676	Anna Katharine Green (Mrs. Charles Rohlfs)	The Staircase At The Hearts Delight
+7510	data/www.gutenberg.lib.md.us//7/5/1/7510/7510.zip	19	8362	Randall Parrish	Keith of the Border
+30318	data/www.gutenberg.lib.md.us//3/0/3/1/30318/30318.zip	19	11304	Hamlin Garland	Money Magic
+32609	data/www.gutenberg.lib.md.us//3/2/6/0/32609/32609.zip	18	8242	Jacob A. Riis	The Children of the Poor
+29760	data/www.gutenberg.lib.md.us//2/9/7/6/29760/29760.zip	20	8853	Anna Chapin Ray	The Dominant Strain
+357	data/www.gutenberg.lib.md.us//3/5/357/357.zip	18	3035	William Morris	A Dream of John Ball, A King's Lesson
+29644	data/www.gutenberg.lib.md.us//2/9/6/4/29644/29644.zip	18	8466	George A. Birmingham	The Island Mystery
+9499	data/www.gutenberg.lib.md.us//9/4/9/9499/9499.zip	20	8742	Emile Zola	The Dream
+414	data/www.gutenberg.lib.md.us//4/1/414/414.zip	26	653	Richard Jefferies	The Pageant of Summer
+98	data/www.gutenberg.lib.md.us//9/98/98.zip	22	15914	Charles Dickens	A Tale of Two Cities
+7986	data/www.gutenberg.lib.md.us//7/9/8/7986/7986.zip	22	9373	Anton Chekhov	Plays by Chekhov, Second Series
+3462	data/www.gutenberg.lib.md.us//3/4/6/3462/3462.zip	19	7825	J. Henri Fabre	More Hunting Wasps
+31879	data/www.gutenberg.lib.md.us//3/1/8/7/31879/31879.zip	18	13615	Hannah More	Coelebs In Search of a Wife
+27438	data/www.gutenberg.lib.md.us//2/7/4/3/27438/27438.zip	20	8863	Caroline Lockhart	'Me-Smith'
+20728	data/www.gutenberg.lib.md.us//2/0/7/2/20728/20728.zip	18	8264	Henry Beam Piper	Space Viking
+30322	data/www.gutenberg.lib.md.us//3/0/3/2/30322/30322.zip	20	1220	Tom Godwin	The Helpful Hand of God
+753	data/www.gutenberg.lib.md.us//7/5/753/753.zip	19	7852	Stewart Edward White	Arizona Nights
+24435	data/www.gutenberg.lib.md.us//2/4/4/3/24435/24435.zip	19	1821	Henry A. Beers	Four Americans
+28409	data/www.gutenberg.lib.md.us//2/8/4/0/28409/28409.zip	28	42	Sam Vaknin	Facts and Fictions in The Securities Industry
+32905	data/www.gutenberg.lib.md.us//3/2/9/0/32905/32905.zip	18	1424	Paul Ernst	Mask of Death
+32906	data/www.gutenberg.lib.md.us//3/2/9/0/32906/32906.zip	20	1002	Bryce Walton	Thy Name Is Woman
+938	data/www.gutenberg.lib.md.us//9/3/938/938.zip	19	8725	B. M. Bower	Good Indian
+22047	data/www.gutenberg.lib.md.us//2/2/0/4/22047/22047.zip	18	3678	Lilian Bell	The Love Affairs of an Old Maid
+32684	data/www.gutenberg.lib.md.us//3/2/6/8/32684/32684.zip	18	355	Alfred Coppel	The Invader
+30290	data/www.gutenberg.lib.md.us//3/0/2/9/30290/30290.zip	27	3969	Sidney Heath	Our Homeland Churches and How to Study Them
+3846	data/www.gutenberg.lib.md.us//3/8/4/3846/3846.zip	19	9316	Jean Francois Paul de Gondi, Cardinal de Retz	The Memoirs of Cardinal de Retz, Complete
+5352	data/www.gutenberg.lib.md.us//5/3/5/5352/5352.zip	19	957	Louisa May Alcott	Marjorie's Three Gifts
+489	data/www.gutenberg.lib.md.us//4/8/489/489.zip	19	5511	Edna Ferber	One Basket
+30951	data/www.gutenberg.lib.md.us//3/0/9/5/30951/30951.zip	19	7329	Clair W. Hayes	The Boy Allies with the Cossacks
+625	data/www.gutenberg.lib.md.us//6/2/625/625.zip	18	3206	Thomas Bailey Aldrich	Ponkapog Papers
+9616	data/www.gutenberg.lib.md.us//9/6/1/9616/9616.zip	21	5918	Pierre Loti	Ramuntcho
+4693	data/www.gutenberg.lib.md.us//4/6/9/4693/4693.zip	21	14007	Lyndon Orr	Famous Affinities of History,  Vol 1-4, Complete
+32024	data/www.gutenberg.lib.md.us//3/2/0/2/32024/32024.zip	19	6736	Margaret Penrose	The Motor Girls on the Coast
+22101	data/www.gutenberg.lib.md.us//2/2/1/0/22101/22101.zip	18	4460	William J. Long	Wood Folk at School
+23246	data/www.gutenberg.lib.md.us//2/3/2/4/23246/23246.zip	20	11120	Temple Bailey	Mistress Anne
+5827	data/www.gutenberg.lib.md.us//5/8/2/5827/5827.zip	19	4017	Bertrand Russell	The Problems of Philosophy
+3752	data/www.gutenberg.lib.md.us//3/7/5/3752/3752.zip	20	3898	Richard Hakluyt	Voyager's Tales
+4382	data/www.gutenberg.lib.md.us//4/3/8/4382/4382.zip	20	14347	Frank Norris	The Pit
+29401	data/www.gutenberg.lib.md.us//2/9/4/0/29401/29401.zip	18	1337	Sterner St. Paul Meek	The Solar Magnet
+5650	data/www.gutenberg.lib.md.us//5/6/5/5650/5650.zip	19	6676	Robert Seymour	The Sketches of Seymour (Illustrated), Complete
+2374	data/www.gutenberg.lib.md.us//2/3/7/2374/2374.zip	19	11767	Charlotte M. Braeme	Dora Thorne
+29524	data/www.gutenberg.lib.md.us//2/9/5/2/29524/29524.zip	18	13520	Mrs. Georgie Sheldon	The Masked Bridal
+31470	data/www.gutenberg.lib.md.us//3/1/4/7/31470/31470.zip	18	15968	George W. Cable	John March, Southerner
+5128	data/www.gutenberg.lib.md.us//5/1/2/5128/5128.zip	20	11667	G.A. Henty	The Young Carthaginian
+29690	data/www.gutenberg.lib.md.us//2/9/6/9/29690/29690.zip	21	3673	Geraldine Edith Mitton	Hampstead and Marylebone
+910	data/www.gutenberg.lib.md.us//9/1/910/910.zip	24	7306	Jack London	White Fang
+840	data/www.gutenberg.lib.md.us//8/4/840/840.zip	19	25721	R. D. Blackmore	Lorna Doone, A Romance of Exmoor
+238	data/www.gutenberg.lib.md.us//2/3/238/238.zip	19	7984	Jean Webster	Dear Enemy
+18964	data/www.gutenberg.lib.md.us//1/8/9/6/18964/18964.zip	26	7240	Jackson Gregory	Wolf Breed
+21832	data/www.gutenberg.lib.md.us//2/1/8/3/21832/21832.zip	27	7496	Roger Thompson Finlay	The Wonder Island Boys: Conquest of the Savages
+5122	data/www.gutenberg.lib.md.us//5/1/2/5122/5122.zip	21	10735	John Fox, Jr.	The Trail of the Lonesome Pine
+877	data/www.gutenberg.lib.md.us//8/7/877/877.zip	19	516	Washington Irving	Little Britain
+5315	data/www.gutenberg.lib.md.us//5/3/1/5315/5315.zip	19	8345	Talbot Mundy	Told in the East
+5333	data/www.gutenberg.lib.md.us//5/3/3/5333/5333.zip	20	9027	Ben Jonson	Every Man In His Humor
+19799	data/www.gutenberg.lib.md.us//1/9/7/9/19799/19799.zip	19	390	US Government	The Rural Motor Express
+24632	data/www.gutenberg.lib.md.us//2/4/6/3/24632/24632.zip	20	13682	Talbot Baines Reed	The Fifth Form at Saint Dominic's
+5758	data/www.gutenberg.lib.md.us//5/7/5/5758/5758.zip	18	9119	W.W. Jacobs	Project Gutenberg, Many Cargoes, by W.W. Jacobs
+28262	data/www.gutenberg.lib.md.us//2/8/2/6/28262/28262.zip	21	2975	Annie Besant	Avataras
+3809	data/www.gutenberg.lib.md.us//3/8/0/3809/3809.zip	21	5242	Jules Verne	The Master of the World
+4694	data/www.gutenberg.lib.md.us//4/6/9/4694/4694.zip	18	10795	William Le Queux	Mademoiselle of Monte Carlo
+19445	data/www.gutenberg.lib.md.us//1/9/4/4/19445/19445.zip	20	1942	H. Beam Piper	Omnilingual
+26540	data/www.gutenberg.lib.md.us//2/6/5/4/26540/26540.zip	19	6387	G. Harvey Ralphson	Boy Scouts in the Canal Zone
+9745	data/www.gutenberg.lib.md.us//9/7/4/9745/9745.zip	19	9784	Joseph A. Altsheler	The Rock of Chickamauga
+23475	data/www.gutenberg.lib.md.us//2/3/4/7/23475/23475.zip	21	30941	Lord Byron	The Works of Lord Byron
+32520	data/www.gutenberg.lib.md.us//3/2/5/2/32520/32520.zip	18	6130	Laura E. Richards	Hildegarde's Harvest
+4733	data/www.gutenberg.lib.md.us//4/7/3/4733/4733.zip	18	9506	Holman Day	When Egypt Went Broke
+862	data/www.gutenberg.lib.md.us//8/6/862/862.zip	20	1373	Owen Wister	Philosophy 4
+27439	data/www.gutenberg.lib.md.us//2/7/4/3/27439/27439.zip	26	10505	Irvin S. Cobb	Sundry Accounts
+19312	data/www.gutenberg.lib.md.us//1/9/3/1/19312/19312.zip	25	27122	'Abdu'l-Baha	Tablets of Abdul-Baha Abbas
+4394	data/www.gutenberg.lib.md.us//4/3/9/4394/4394.zip	20	10669	Marie Corelli	A Romance of Two Worlds
+7949	data/www.gutenberg.lib.md.us//7/9/4/7949/7949.zip	20	8252	Rafael Sabatini	The Historical Nights Entertainment, Second Series
+543	data/www.gutenberg.lib.md.us//5/4/543/543.zip	19	19665	Sinclair Lewis	Main Street
+31410	data/www.gutenberg.lib.md.us//3/1/4/1/31410/31410.zip	18	12218	Mayne Reid	The Boy Slaves
+5738	data/www.gutenberg.lib.md.us//5/7/3/5738/5738.zip	19	10682	Peter B. Kyne	Cappy Ricks
+22276	data/www.gutenberg.lib.md.us//2/2/2/7/22276/22276.zip	18	16263	David Christie Murray	Despair's Last Journey
+7552	data/www.gutenberg.lib.md.us//7/5/5/7552/7552.zip	21	3123	John Lothrop Motley	Quotes and Images From Motley's History of the Netherlands
+7550	data/www.gutenberg.lib.md.us//7/5/5/7550/7550.zip	21	4601	George Meredith	Quotes and Images From The Works of George Meredith
+28334	data/www.gutenberg.lib.md.us//2/8/3/3/28334/28334.zip	25	11963	William Shakespeare	The New Hudson Shakespeare: Julius Caesar
+995	data/www.gutenberg.lib.md.us//9/9/995/995.zip	19	6332	Robert W. Service	Ballads of a Bohemian
+3619	data/www.gutenberg.lib.md.us//3/6/1/3619/3619.zip	20	6471	Mary J. Holmes	Cousin Maude
+30876	data/www.gutenberg.lib.md.us//3/0/8/7/30876/30876.zip	18	1089	Henry Drummond	Eternal Life
+8667	data/www.gutenberg.lib.md.us//8/6/6/8667/8667.zip	19	10161	H. Rider Haggard	Cetywayo and his White Neighbours
+954	data/www.gutenberg.lib.md.us//9/5/954/954.zip	21	5821	Victor Appleton	Tom Swift and his War Tank
+32828	data/www.gutenberg.lib.md.us//3/2/8/2/32828/32828.zip	20	1240	Winston Marks	Backlash
+28017	data/www.gutenberg.lib.md.us//2/8/0/1/28017/28017.zip	18	15085	Meredith Nicholson	Otherwise Phyllis
+31831	data/www.gutenberg.lib.md.us//3/1/8/3/31831/31831.zip	18	9022	Harry Castlemon	Marcy The Refugee
+2760	data/www.gutenberg.lib.md.us//2/7/6/2760/2760.zip	22	62655	Alexandre Dumas, Pere	Celebrated Crimes, Complete
+506	data/www.gutenberg.lib.md.us//5/0/506/506.zip	18	22677	Frances Hodgson Burnett	The Shuttle
+30707	data/www.gutenberg.lib.md.us//3/0/7/0/30707/30707.zip	19	5723	Jacob Abbott	Cyrus the Great
+978	data/www.gutenberg.lib.md.us//9/7/978/978.zip	19	955	Mary E. Wilkins Freeman	The Yates Pride
+33040	data/www.gutenberg.lib.md.us//3/3/0/4/33040/33040.zip	26	9333	Robert Smythe Hichens	Bye-Ways
+32272	data/www.gutenberg.lib.md.us//3/2/2/7/32272/32272.zip	21	1541	Jesse Franklin Bone	Insidekick
+693	data/www.gutenberg.lib.md.us//6/9/693/693.zip	19	2879	S. Weir Mitchell	The Autobiography of a Quack And The Case Of George Dedlow
+28879	data/www.gutenberg.lib.md.us//2/8/8/7/28879/28879.zip	26	910	Francois Pierre Guillaume Guizot	A History Of France From The Earliest Times
+31784	data/www.gutenberg.lib.md.us//3/1/7/8/31784/31784.zip	19	9035	H. A. Cody	The Frontiersman
+16751	data/www.gutenberg.lib.md.us//1/6/7/5/16751/16751.zip	19	17215	William Holmes McGuffey	McGuffey's Sixth Eclectic Reader
+26702	data/www.gutenberg.lib.md.us//2/6/7/0/26702/26702.zip	18	6684	Marie Belloc Lowndes	Studies in love and in terror
+511	data/www.gutenberg.lib.md.us//5/1/511/511.zip	19	4472	Joseph Sheridan Le Fanu	The Purcell Papers
+7545	data/www.gutenberg.lib.md.us//7/5/4/7545/7545.zip	22	1173	Oliver Wendell Holmes, Sr.	Quotes and Images From Oliver Wendell Holmes, Sr.
+17705	data/www.gutenberg.lib.md.us//1/7/7/0/17705/17705.zip	24	5992	Margaret, Queen Of Navarre	The Tales Of The Heptameron, Vol. V. (of V.)
+33015	data/www.gutenberg.lib.md.us//3/3/0/1/33015/33015.zip	19	3705	Dwight Moody	The Overcoming Life
+33038	data/www.gutenberg.lib.md.us//3/3/0/3/33038/33038.zip	19	9599	Maturin M. Ballou	Due North or Glimpses of Scandinavia and Russia
+9312	data/www.gutenberg.lib.md.us//9/3/1/9312/9312.zip	23	3738	Robert Barr	From Whose Bourne
+24210	data/www.gutenberg.lib.md.us//2/4/2/1/24210/24210.zip	18	22873	Harriet Martineau	Deerbrook
+367	data/www.gutenberg.lib.md.us//3/6/367/367.zip	18	4105	Sarah Orne Jewett	The Country of the Pointed Firs
+25556	data/www.gutenberg.lib.md.us//2/5/5/5/25556/25556.zip	19	3198	Mary Hartwell Catherwood	Heroes of the Middle West
+27114	data/www.gutenberg.lib.md.us//2/7/1/1/27114/27114.zip	22	21190	John Lord	Ancient States and Empires
+32575	data/www.gutenberg.lib.md.us//3/2/5/7/32575/32575.zip	20	8153	Angela Brazil	The Head Girl at the Gables
+2939	data/www.gutenberg.lib.md.us//2/9/3/2939/2939.zip	20	729	Thomas H. Huxley	William Harvey And The Discovery Of The Circulation Of The Blood
+32026	data/www.gutenberg.lib.md.us//3/2/0/2/32026/32026.zip	20	2070	Clifford Donald Simak	The World That Couldn't Be
+8150	data/www.gutenberg.lib.md.us//8/1/5/8150/8150.zip	18	632	Honore De Balzac	A Street Of Paris And Its Inhabitant
+484	data/www.gutenberg.lib.md.us//4/8/484/484.zip	20	6075	Oliver Optic	Poor and Proud
+6902	data/www.gutenberg.lib.md.us//6/9/0/6902/6902.zip	23	6879	Ivan Turgenev	On the Eve
+29888	data/www.gutenberg.lib.md.us//2/9/8/8/29888/29888.zip	21	1139	Lewis Carroll	The Hunting of the Snark
+32864	data/www.gutenberg.lib.md.us//3/2/8/6/32864/32864.zip	20	914	William Morrison	Bedside Manner
+4006	data/www.gutenberg.lib.md.us//4/0/0/4006/4006.zip	26	4113	Ella Wheeler Wilcox	Yesterdays
+30095	data/www.gutenberg.lib.md.us//3/0/0/9/30095/30095.zip	20	11974	Harriet T. Comstock	At the Crossroads
+32510	data/www.gutenberg.lib.md.us//3/2/5/1/32510/32510.zip	23	27130	John Morley	The Life of William Ewart Gladstone (Vol 2 of 3)
+7478	data/www.gutenberg.lib.md.us//7/4/7/7478/7478.zip	19	5376	James Otis	Toby Tyler
+8732	data/www.gutenberg.lib.md.us//8/7/3/8732/8732.zip	20	10435	G. A. Henty	Through the Fray
+28896	data/www.gutenberg.lib.md.us//2/8/8/9/28896/28896.zip	21	723	William Carleton	Stories And Tales Of The Irish
+6761	data/www.gutenberg.lib.md.us//6/7/6/6761/6761.zip	19	15574	Tobias Smollett	The Adventures of Ferdinand Count Fathom, Complete
+32932	data/www.gutenberg.lib.md.us//3/2/9/3/32932/32932.zip	18	6071	George Manville Fenn	Seven Frozen Sailors
+32818	data/www.gutenberg.lib.md.us//3/2/8/1/32818/32818.zip	20	2209	Thomas Moore	Theory and Practice, Applied to the Cultivation of the Cucumber in the Winter Season
+1987	data/www.gutenberg.lib.md.us//1/9/8/1987/1987.zip	19	8302	Andy Adams	The Outlet
+7554	data/www.gutenberg.lib.md.us//7/5/5/7554/7554.zip	21	2232	Samuel Pepys	Quotes and Images From The Diary of Samuel Pepys
+28514	data/www.gutenberg.lib.md.us//2/8/5/1/28514/28514.zip	20	8027	Arthur Stringer	The Prairie Child
+4363	data/www.gutenberg.lib.md.us//4/3/6/4363/4363.zip	21	6146	Friedrich Nietzsche	Beyond Good and Evil
+24751	data/www.gutenberg.lib.md.us//2/4/7/5/24751/24751.zip	18	1327	Amy Walton	The Kitchen Cat and Other Stories
+14584	data/www.gutenberg.lib.md.us//1/4/5/8/14584/14584.zip	20	8434	James D. Richardson	A Compilation of the Messages and Papers of the Presidents
+4560	data/www.gutenberg.lib.md.us//4/5/6/4560/4560.zip	20	3795	Susan Coolidge	Verses
+943	data/www.gutenberg.lib.md.us//9/4/943/943.zip	19	4311	George Bernard Shaw	Misalliance
+29400	data/www.gutenberg.lib.md.us//2/9/4/0/29400/29400.zip	27	10296	Coningsby Dawson	Murder Point
+24808	data/www.gutenberg.lib.md.us//2/4/8/0/24808/24808.zip	27	4707	William Wood	All Afloat
+31942	data/www.gutenberg.lib.md.us//3/1/9/4/31942/31942.zip	26	3073	Mór Jókai	A Christian But a Roman
+32337	data/www.gutenberg.lib.md.us//3/2/3/3/32337/32337.zip	19	7522	Vernon Lee	Belcaro
+9600	data/www.gutenberg.lib.md.us//9/6/0/9600/9600.zip	21	81684	John Greenleaf Whittier	The Complete Works of Whittier
+etext01	data/www.gutenberg.lib.md.us//etext01/rmlav10.zip	0	7687	George Borrow	Gypsy Dictionary
+4260	data/www.gutenberg.lib.md.us//4/2/6/4260/4260.zip	18	5715	John McElroy	Andersonville, Volume 4
+29840	data/www.gutenberg.lib.md.us//2/9/8/4/29840/29840.zip	19	464	L. Leslie Brooke	A Nursery Rhyme Picture Book
+32552	data/www.gutenberg.lib.md.us//3/2/5/5/32552/32552.zip	19	837	Daniel G. Brinton	American Languages, and Why We Should Study Them
+30352	data/www.gutenberg.lib.md.us//3/0/3/5/30352/30352.zip	19	4320	Thomas A. Janvier	Santa Fe's Partner
+21241	data/www.gutenberg.lib.md.us//2/1/2/4/21241/21241.zip	18	11469	Captain Mayne Reid	The Rifle Rangers
+4597	data/www.gutenberg.lib.md.us//4/5/9/4597/4597.zip	21	5459	Orison Swett Marden	Eclectic School Readings: Stories from Life
+29545	data/www.gutenberg.lib.md.us//2/9/5/4/29545/29545.zip	20	4579	Maurice Hewlett	The Spanish Jade
+27430	data/www.gutenberg.lib.md.us//2/7/4/3/27430/27430.zip	18	11099	John Fiske	The Critical Period of American History
+32302	data/www.gutenberg.lib.md.us//3/2/3/0/32302/32302.zip	27	10346	Louis Joseph Vance	The Destroying Angel
+16431	data/www.gutenberg.lib.md.us//1/6/4/3/16431/16431.zip	19	10954	John F. Runciman	Richard Wagner
+25714	data/www.gutenberg.lib.md.us//2/5/7/1/25714/25714.zip	19	574	Walter Crane	Mother Hubbard Picture Book
+7805	data/www.gutenberg.lib.md.us//7/8/0/7805/7805.zip	19	8658	A. A. Milne	First Plays
+32461	data/www.gutenberg.lib.md.us//3/2/4/6/32461/32461.zip	20	10516	Felix Dahn	The Scarlet Banner
+30094	data/www.gutenberg.lib.md.us//3/0/0/9/30094/30094.zip	19	5660	Allen Chapman	Fred Fenton Marathon Runner
+33002	data/www.gutenberg.lib.md.us//3/3/0/0/33002/33002.zip	21	6065	Parker Fillmore	The Shoemaker's Apron
+743	data/www.gutenberg.lib.md.us//7/4/743/743.zip	21	11572	William Godwin	Thoughts on Man
+704	data/www.gutenberg.lib.md.us//7/0/704/704.zip	19	977	Henry Van Dyke	The Mansion
+412	data/www.gutenberg.lib.md.us//4/1/412/412.zip	19	818	Elbert Hubbard	John Jacob Astor
+17619	data/www.gutenberg.lib.md.us//1/7/6/1/17619/17619.zip	27	3546	Richard Le Gallienne	A Jongleur Strayed
+25525	data/www.gutenberg.lib.md.us//2/5/5/2/25525/25525.zip	20	529	Edgar Allan Poe	The Works of Edgar Allan Poe, The Raven Edition
+19298	data/www.gutenberg.lib.md.us//1/9/2/9/19298/19298.zip	26	7345	Shoghi Effendi	The World Order of Baha'u'llah
+32728	data/www.gutenberg.lib.md.us//3/2/7/2/32728/32728.zip	19	11361	James Anthony Froude	The English in the West Indies
+32362	data/www.gutenberg.lib.md.us//3/2/3/6/32362/32362.zip	29	11297	Giorgio Vasari	Lives of the Most Eminent Painters, Sculptors & Architects
+7469	data/www.gutenberg.lib.md.us//7/4/6/7469/7469.zip	19	31926	George Eliot	Daniel Deronda
+32842	data/www.gutenberg.lib.md.us//3/2/8/4/32842/32842.zip	21	1368	Alice Meynell	London Impressions
+27750	data/www.gutenberg.lib.md.us//2/7/7/5/27750/27750.zip	18	9826	A. T. Mahan	Admiral Farragut
+4378	data/www.gutenberg.lib.md.us//4/3/7/4378/4378.zip	20	4270	Edith Nesbit	In Homespun
+28970	data/www.gutenberg.lib.md.us//2/8/9/7/28970/28970.zip	22	1640	George W. Peck	Works Of George W. Peck
+976	data/www.gutenberg.lib.md.us//9/7/976/976.zip	19	6335	Nathaniel Hawthorne	Tanglewood Tales
+3031	data/www.gutenberg.lib.md.us//3/0/3/3031/3031.zip	20	5097	Ernest Thompson Seton	Wild Animals I Have  Known
+32764	data/www.gutenberg.lib.md.us//3/2/7/6/32764/32764.zip	20	877	Horace Brown Fyfe	Manners of the Age
+3753	data/www.gutenberg.lib.md.us//3/7/5/3753/3753.zip	20	2256	Walter de la Mare	Peacock Pie, A Book of Rhymes
+30336	data/www.gutenberg.lib.md.us//3/0/3/3/30336/30336.zip	19	10607	Leslie Stephen	Hours in a Library
+27097	data/www.gutenberg.lib.md.us//2/7/0/9/27097/27097.zip	19	6100	Willard F. Baker	The Boy Ranchers in Death Valley
+32545	data/www.gutenberg.lib.md.us//3/2/5/4/32545/32545.zip	21	7013	Charles G. D. Roberts	The Haunters of the Silences
+32525	data/www.gutenberg.lib.md.us//3/2/5/2/32525/32525.zip	21	6498	Howard R. Garis	The Curlytops at Uncle Frank's Ranch
+9931	data/www.gutenberg.lib.md.us//9/9/3/9931/9931.zip	19	12295	Mary Roberts Rinehart	K
+6355	data/www.gutenberg.lib.md.us//6/3/5/6355/6355.zip	19	6168	John Burroughs	Locusts and Wild Honey
+32618	data/www.gutenberg.lib.md.us//3/2/6/1/32618/32618.zip	18	963	Gerald Vance	Monsoons of Death
+4555	data/www.gutenberg.lib.md.us//4/5/5/4555/4555.zip	20	5568	John Addington Symonds	Percy Bysshe Shelley
+5865	data/www.gutenberg.lib.md.us//5/8/6/5865/5865.zip	19	8005	Ulysses S. Grant	The Memoirs of General Ulysses S. Grant, Part 6.
+25316	data/www.gutenberg.lib.md.us//2/5/3/1/25316/25316.zip	19	9517	Burt L. Standish	Frank Merriwell's Son
+23374	data/www.gutenberg.lib.md.us//2/3/3/7/23374/23374.zip	21	9190	G. Manville Fenn	The Dingo Boys
+16654	data/www.gutenberg.lib.md.us//1/6/6/5/16654/16654.zip	19	15748	Evelyn Everett-Green	The Lost Treasure of Trevlyn
+28486	data/www.gutenberg.lib.md.us//2/8/4/8/28486/28486.zip	20	2240	Everett B. Cole	The Weakling
+974	data/www.gutenberg.lib.md.us//9/7/974/974.zip	28	9802	Joseph Conrad	The Secret Agent
+29296	data/www.gutenberg.lib.md.us//2/9/2/9/29296/29296.zip	19	6161	Andrew Murray	The Ministry of Intercession
+29696	data/www.gutenberg.lib.md.us//2/9/6/9/29696/29696.zip	18	10583	Norman Duncan	The Cruise of the Shining Light
+26149	data/www.gutenberg.lib.md.us//2/6/1/4/26149/26149.zip	20	7260	Ralph Henry Barbour	Left Guard Gilbert
+31139	data/www.gutenberg.lib.md.us//3/1/1/3/31139/31139.zip	18	11798	Eleanor Gates	The Plow-Woman
+4091	data/www.gutenberg.lib.md.us//4/0/9/4091/4091.zip	20	2842	Lucy Fitch Perkins	The French Twins
+9450	data/www.gutenberg.lib.md.us//9/4/5/9450/9450.zip	20	8186	Josiah Allen's Wife (Marietta Holley)	Samantha Among the Brethren, Complete
+32390	data/www.gutenberg.lib.md.us//3/2/3/9/32390/32390.zip	20	5146	Dallas McCord Reynolds	Black Man's Burden
+8737	data/www.gutenberg.lib.md.us//8/7/3/8737/8737.zip	19	30533	Mrs. Humphry Ward	Robert Elsmere
+28682	data/www.gutenberg.lib.md.us//2/8/6/8/28682/28682.zip	18	1260	Madeline Leslie	Minnie's Pet Cat
+19400	data/www.gutenberg.lib.md.us//1/9/4/0/19400/19400.zip	23	9637	G. Maspero	History Of Egypt, Chaldaea, Syria, Babylonia, and Assyria, Volume 1 (of 12)
+7560	data/www.gutenberg.lib.md.us//7/5/6/7560/7560.zip	20	213	Anthony Hamilton	Quotes and Images From Memoirs of Count Grammont
+7863	data/www.gutenberg.lib.md.us//7/8/6/7863/7863.zip	18	4543	Gertrude Franklin Horn Atherton	The Avalanche
+718	data/www.gutenberg.lib.md.us//7/1/718/718.zip	18	14930	H. G. Wells	Tono Bungay
+29433	data/www.gutenberg.lib.md.us//2/9/4/3/29433/29433.zip	18	1610	Ralph Waldo Emerson	Nature
+897	data/www.gutenberg.lib.md.us//8/9/897/897.zip	18	3352	William Makepeace Thackeray	The Rose and the Ring
+30656	data/www.gutenberg.lib.md.us//3/0/6/5/30656/30656.zip	18	842	Gelett Burgess	The Purple Cow!
+73	data/www.gutenberg.lib.md.us//7/73/73.zip	19	5342	Stephen Crane	The Red Badge of Courage
+7430	data/www.gutenberg.lib.md.us//7/4/3/7430/7430.zip	19	9301	W. D. Howells	Familiar Spanish Travels
+23931	data/www.gutenberg.lib.md.us//2/3/9/3/23931/23931.zip	20	635	George Oliver Smith	Instinct
+25070	data/www.gutenberg.lib.md.us//2/5/0/7/25070/25070.zip	18	5960	Alice Hegan Rice	Mr. Opp
+17310	data/www.gutenberg.lib.md.us//1/7/3/1/17310/17310.zip	26	6700	Baha'u'llah	Tablets of Baha'u'llah Revealed after the Kitab-i-Aqdas
+8441	data/www.gutenberg.lib.md.us//8/4/4/8441/8441.zip	19	2257	Robert W. Chambers	Between Friends
+2664	data/www.gutenberg.lib.md.us//2/6/6/2664/2664.zip	18	16528	Edward Bulwer Lytton	Zanoni
+18587	data/www.gutenberg.lib.md.us//1/8/5/8/18587/18587.zip	27	4414	Donald Ferguson	The Chums of Scranton High
+19000	data/www.gutenberg.lib.md.us//1/9/0/0/19000/19000.zip	29	125	Cory Doctorow	Printcrime
+32551	data/www.gutenberg.lib.md.us//3/2/5/5/32551/32551.zip	20	534	Charles V. De Vet	Big Stupe
+7548	data/www.gutenberg.lib.md.us//7/5/4/7548/7548.zip	21	227	Charles James Lever	Quotes and Images From The Confessions of Harry Lorrequer
+24670	data/www.gutenberg.lib.md.us//2/4/6/7/24670/24670.zip	19	2325	William Curtis	The Botanical Magazine Vol. 8
+24201	data/www.gutenberg.lib.md.us//2/4/2/0/24201/24201.zip	19	11220	R. Austin Freeman	The Eye of Osiris
+10706	data/www.gutenberg.lib.md.us//1/0/7/0/10706/10706.zip	24	90214	Theodor Mommsen	The History of Rome (Volumes 1-5)
+32112	data/www.gutenberg.lib.md.us//3/2/1/1/32112/32112.zip	20	522	Sydney Anderson	Records of Harvest Mice, Reithrodontomys, from Central America, with Description of a New Subspecies from Nicaragua
+30107	data/www.gutenberg.lib.md.us//3/0/1/0/30107/30107.zip	23	25931	John Stuart Mill	Principles Of Political Economy
+3859	data/www.gutenberg.lib.md.us//3/8/5/3859/3859.zip	19	8826	Elizabeth-Charlotte, Duchesse d'Orleans	The Memoirs of the Louis XIV. and The Regency, Complete
+31646	data/www.gutenberg.lib.md.us//3/1/6/4/31646/31646.zip	18	7477	Agnes C. Laut	Through Our Unknown Southwest
+33077	data/www.gutenberg.lib.md.us//3/3/0/7/33077/33077.zip	20	695	Mark Twain	The Treaty With China, its Provisions Explained
+32696	data/www.gutenberg.lib.md.us//3/2/6/9/32696/32696.zip	18	2011	Robert Moore Williams	Planet of the Gods
+5697	data/www.gutenberg.lib.md.us//5/6/9/5697/5697.zip	19	10622	Sax Rohmer	Tales of Chinatown
+6718	data/www.gutenberg.lib.md.us//6/7/1/6718/6718.zip	18	12269	Joseph C. Lincoln	Cap'n Dan's Daughter
+29459	data/www.gutenberg.lib.md.us//2/9/4/5/29459/29459.zip	21	86	Xenophon	The Project Gutenberg Works Of Xenophon
+4705	data/www.gutenberg.lib.md.us//4/7/0/4705/4705.zip	20	21637	David Hume	A Treatise of Human Nature
+31801	data/www.gutenberg.lib.md.us//3/1/8/0/31801/31801.zip	20	9415	Charles Egbert Craddock	The Story of Old Fort Loudon
+30689	data/www.gutenberg.lib.md.us//3/0/6/8/30689/30689.zip	27	8376	F. Anstey	The Brass Bottle
+28709	data/www.gutenberg.lib.md.us//2/8/7/0/28709/28709.zip	20	10763	Maria Edgeworth	Practical Education, Volume II
+32311	data/www.gutenberg.lib.md.us//3/2/3/1/32311/32311.zip	27	7953	Charles King	A Soldier's Trial
+9070	data/www.gutenberg.lib.md.us//9/0/7/9070/9070.zip	29	3585	Molière	The Imaginary Invalid
+7052	data/www.gutenberg.lib.md.us//7/0/5/7052/7052.zip	27	3482	Edward Bellamy	Dr. Heidenhoff's Process
+31927	data/www.gutenberg.lib.md.us//3/1/9/2/31927/31927.zip	20	7132	Charles Neville Buck	The Portal of Dreams
+31324	data/www.gutenberg.lib.md.us//3/1/3/2/31324/31324.zip	21	16169	George Griffith	The Angel of the Revolution
+30578	data/www.gutenberg.lib.md.us//3/0/5/7/30578/30578.zip	18	7347	Dane Coolidge	Wunpost
+30301	data/www.gutenberg.lib.md.us//3/0/3/0/30301/30301.zip	21	14053	Basil King	The Side Of The Angels
+21675	data/www.gutenberg.lib.md.us//2/1/6/7/21675/21675.zip	20	4954	Henry M. Brooks	The Olden Time Series, Vol. 4: Quaint and Curious Advertisements
+etext02	data/www.gutenberg.lib.md.us//etext02/tecom10.zip	0	4796	Lyof N. Tolstoi	The Moscow Census - From "What to do?"
+8153	data/www.gutenberg.lib.md.us//8/1/5/8153/8153.zip	20	6769	H. Irving Hancock	The Young Engineers in Arizona
+6866	data/www.gutenberg.lib.md.us//6/8/6/6866/6866.zip	19	8246	James Baldwin	The Story of Siegfried
+7513	data/www.gutenberg.lib.md.us//7/5/1/7513/7513.zip	20	10555	Hans Christian Andersen	O. T.
+8875	data/www.gutenberg.lib.md.us//8/8/7/8875/8875.zip	24	9857	August Strindberg	The Road to Damascus
+9807	data/www.gutenberg.lib.md.us//9/8/0/9807/9807.zip	20	8372	J. S. Fletcher	Scarhaven Keep
+4679	data/www.gutenberg.lib.md.us//4/6/7/4679/4679.zip	22	5934	Samuel Johnson	Lives of the Poets: Addison, Savage, and Swift
+24916	data/www.gutenberg.lib.md.us//2/4/9/1/24916/24916.zip	21	9884	John Conroy Hutcheson	Crown and Anchor
+29486	data/www.gutenberg.lib.md.us//2/9/4/8/29486/29486.zip	19	10685	Charles Major	A Forest Hearth: A Romance of Indiana in the Thirties
+30760	data/www.gutenberg.lib.md.us//3/0/7/6/30760/30760.zip	23	1333	Theophile Gautier	My Private Menagerie
+4541	data/www.gutenberg.lib.md.us//4/5/4/4541/4541.zip	21	14009	George Gissing	The Crown of Life
+28991	data/www.gutenberg.lib.md.us//2/8/9/9/28991/28991.zip	27	6547	Scott Nearing	The Next Step
+28266	data/www.gutenberg.lib.md.us//2/8/2/6/28266/28266.zip	19	8156	Justin Huntly McCarthy	The Duke's Motto
+27436	data/www.gutenberg.lib.md.us//2/7/4/3/27436/27436.zip	20	9981	William MacLeod Raine	Brand Blotters
+18644	data/www.gutenberg.lib.md.us//1/8/6/4/18644/18644.zip	27	13731	Ethel M. Dell	The Swindler and Other Stories
+7870	data/www.gutenberg.lib.md.us//7/8/7/7870/7870.zip	20	5502	George Alfred Henty	Tales of Daring and Danger
+838	data/www.gutenberg.lib.md.us//8/3/838/838.zip	19	9540	Samuel Smiles	Jasmin: Barber, Poet, Philanthropist
+6686	data/www.gutenberg.lib.md.us//6/6/8/6686/6686.zip	19	2262	Rabindranath Tagore	The Gardener
+19510	data/www.gutenberg.lib.md.us//1/9/5/1/19510/19510.zip	27	9781	Bertrand W. Sinclair	North of Fifty-Three
+31331	data/www.gutenberg.lib.md.us//3/1/3/3/31331/31331.zip	20	770	Archibald H. Grimke	The Ballotless Victim of One-Party Governments
+4056	data/www.gutenberg.lib.md.us//4/0/5/4056/4056.zip	20	1357	Eliza Lee Follen	Two Festivals
+7884	data/www.gutenberg.lib.md.us//7/8/8/7884/7884.zip	19	2256	Richard Harding Davis	In the Fog
+etext03	data/www.gutenberg.lib.md.us//etext03/prhg10.zip	0	2365	Ambrose Bierce	Present at a Hanging and Other Ghost Stories
+32347	data/www.gutenberg.lib.md.us//3/2/3/4/32347/32347.zip	20	275	Gordon Randall Garrett	Time Fuze
+17756	data/www.gutenberg.lib.md.us//1/7/7/5/17756/17756.zip	23	5725	Victor G. Durham	The Submarine Boys and the Middies
+31522	data/www.gutenberg.lib.md.us//3/1/5/2/31522/31522.zip	19	13508	Harriet Beecher Stowe	The Pearl of Orr's Island
+32779	data/www.gutenberg.lib.md.us//3/2/7/7/32779/32779.zip	18	5322	Romain Rolland	Above the Battle
+921	data/www.gutenberg.lib.md.us//9/2/921/921.zip	26	1544	Oscar Wilde	De Profundis
+3427	data/www.gutenberg.lib.md.us//3/4/2/3427/3427.zip	20	6496	Ellis Parker Butler	Kilo
+32745	data/www.gutenberg.lib.md.us//3/2/7/4/32745/32745.zip	20	1789	Raymond F. Jones	The Unlearned
+4355	data/www.gutenberg.lib.md.us//4/3/5/4355/4355.zip	21	7819	John S. C. Abbott	David Crockett: His Life and Adventures
+31244	data/www.gutenberg.lib.md.us//3/1/2/4/31244/31244.zip	18	4022	Amy E. Blanchard	A Dear Little Girl
+3454	data/www.gutenberg.lib.md.us//3/4/5/3454/3454.zip	19	10663	Andrew Lang	The Lilac Fairy Book
+4783	data/www.gutenberg.lib.md.us//4/7/8/4783/4783.zip	19	1899	James Whitcomb Riley	Riley Farm-Rhymes
+7895	data/www.gutenberg.lib.md.us//7/8/9/7895/7895.zip	20	17662	Charles Reade	A Terrible Temptation
+870	data/www.gutenberg.lib.md.us//8/7/870/870.zip	19	342	Jerome K. Jerome	The Love of Ulrich Nebendahl
+10966	data/www.gutenberg.lib.md.us//1/0/9/6/10966/10966.zip	18	6465	William Hope Hodgson	The Ghost Pirates
+26159	data/www.gutenberg.lib.md.us//2/6/1/5/26159/26159.zip	19	11826	Thomas Carlyle	Past and Present
+7540	data/www.gutenberg.lib.md.us//7/5/4/7540/7540.zip	21	275	Filson Young	Quotes and Images From Christopher Columbus by Filson Young
+9362	data/www.gutenberg.lib.md.us//9/3/6/9362/9362.zip	21	17296	M. E. Braddon	Birds of Prey
+7544	data/www.gutenberg.lib.md.us//7/5/4/7544/7544.zip	21	438	John Galsworthy	Quotes and Images From The Works of John Galsworthy
+32795	data/www.gutenberg.lib.md.us//3/2/7/9/32795/32795.zip	18	1741	Anna Katharine Green	Three Thousand Dollars
+33062	data/www.gutenberg.lib.md.us//3/3/0/6/33062/33062.zip	19	25619	George Saintsbury	A Short History of French Literature
+8457	data/www.gutenberg.lib.md.us//8/4/5/8457/8457.zip	19	6029	Stephen Leacock	Frenzied Fiction
+32292	data/www.gutenberg.lib.md.us//3/2/2/9/32292/32292.zip	19	10872	Charles Morris	Historic Tales, Vol 14  (of 15)
+32256	data/www.gutenberg.lib.md.us//3/2/2/5/32256/32256.zip	20	4486	Fritz Reuter Leiber	The Big Time
+28915	data/www.gutenberg.lib.md.us//2/8/9/1/28915/28915.zip	20	9325	Hezekiah Butterworth	ZigZag Journeys in Northern Lands;
+24094	data/www.gutenberg.lib.md.us//2/4/0/9/24094/24094.zip	19	10238	William Black	The Beautiful Wretch; The Pupil of Aurelius; and The Four Macnicols
+986	data/www.gutenberg.lib.md.us//9/8/986/986.zip	21	2210	Leo Tolstoy	Master and Man
+27377	data/www.gutenberg.lib.md.us//2/7/3/7/27377/27377.zip	21	5006	Alice Turner Curtis	A Little Maid of Massachusetts Colony
+32760	data/www.gutenberg.lib.md.us//3/2/7/6/32760/32760.zip	20	1068	Mari Wolf	The First Day of Spring
+29316	data/www.gutenberg.lib.md.us//2/9/3/1/29316/29316.zip	22	9846	Cyrus Townsend Brady	Sir Henry Morgan, Buccaneer
+31604	data/www.gutenberg.lib.md.us//3/1/6/0/31604/31604.zip	21	16359	Martin Luther	Works of Martin Luther
+4349	data/www.gutenberg.lib.md.us//4/3/4/4349/4349.zip	20	4808	Maurice Maeterlinck	Wisdom and Destiny
+30333	data/www.gutenberg.lib.md.us//3/0/3/3/30333/30333.zip	18	9696	L. T. Meade	Daddy's Girl
+31659	data/www.gutenberg.lib.md.us//3/1/6/5/31659/31659.zip	20	9460	Sewell Ford	Side-stepping with Shorty
+32858	data/www.gutenberg.lib.md.us//3/2/8/5/32858/32858.zip	27	1765	J. Ewing Ritchie	The Cruise of the Elena
+29441	data/www.gutenberg.lib.md.us//2/9/4/4/29441/29441.zip	21	113	Plato	The Project Gutenberg Works Of Plato
+87	data/www.gutenberg.lib.md.us//8/87/87.zip	20	83604	United States.  Central Intelligence Agency.	The 1993 CIA World Factbook
+4903	data/www.gutenberg.lib.md.us//4/9/0/4903/4903.zip	20	9694	Grant Allen	Hilda Wade
+31686	data/www.gutenberg.lib.md.us//3/1/6/8/31686/31686.zip	20	1866	Evelyn E. Smith	Collector's Item
+2062	data/www.gutenberg.lib.md.us//2/0/6/2062/2062.zip	19	4709	John Dryden	All for Love
+32936	data/www.gutenberg.lib.md.us//3/2/9/3/32936/32936.zip	18	8799	Mrs. George de Horne Vaizey	An Unknown Lover
+3781	data/www.gutenberg.lib.md.us//3/7/8/3781/3781.zip	21	8893	Bram Stoker	The Jewel of Seven Stars
+6400	data/www.gutenberg.lib.md.us//6/4/0/6400/6400.zip	20	23081	C. Suetonius Tranquillus	The Lives Of The Twelve Caesars, Complete
+940	data/www.gutenberg.lib.md.us//9/4/940/940.zip	18	15429	James Fenimore Cooper	The Last of the Mohicans
+4393	data/www.gutenberg.lib.md.us//4/3/9/4393/4393.zip	21	5309	Kirk Munroe	Wakulla
+32322	data/www.gutenberg.lib.md.us//3/2/3/2/32322/32322.zip	18	7898	Francis Rolt-Wheeler	The Boy With the U.S. Miners
+27288	data/www.gutenberg.lib.md.us//2/7/2/8/27288/27288.zip	21	14962	George Mueller	The Life of Trust: Being a Narrative of the Lord's Dealings With George Mueller
+33112	data/www.gutenberg.lib.md.us//3/3/1/1/33112/33112.zip	18	2051	Madison J. Cawein	Shapes and Shadows
+5268	data/www.gutenberg.lib.md.us//5/2/6/5268/5268.zip	19	7005	Arthur Train	Courts and Criminals
+32007	data/www.gutenberg.lib.md.us//3/2/0/0/32007/32007.zip	18	10263	Allan Pinkerton	The Spiritualists and the Detectives
+761	data/www.gutenberg.lib.md.us//7/6/761/761.zip	19	926	Max Beerbohm	A. V. Laider
+29432	data/www.gutenberg.lib.md.us//2/9/4/3/29432/29432.zip	18	959	Frank Belknap Long	The Man the Martians Made
+2725	data/www.gutenberg.lib.md.us//2/7/2/2725/2725.zip	19	5062	Grace S. Richmond	Red Pepper Burns
+7555	data/www.gutenberg.lib.md.us//7/5/5/7555/7555.zip	21	482	Jean Jacques Rousseau	Quotes and Images From The Confessions of J. J. Rousseau
+25215	data/www.gutenberg.lib.md.us//2/5/2/1/25215/25215.zip	18	2444	Elinor Glyn	Three Things
+32395	data/www.gutenberg.lib.md.us//3/2/3/9/32395/32395.zip	20	579	Lester del Rey	No Strings Attached
+31632	data/www.gutenberg.lib.md.us//3/1/6/3/31632/31632.zip	20	639	Marie Lebert	Project Gutenberg (1971-2009)
+27212	data/www.gutenberg.lib.md.us//2/7/2/1/27212/27212.zip	20	1822	Irvin Shrewsbury Cobb	The Life of the Party
+32436	data/www.gutenberg.lib.md.us//3/2/4/3/32436/32436.zip	18	836	Poul William Anderson	Duel on Syrtis
+31272	data/www.gutenberg.lib.md.us//3/1/2/7/31272/31272.zip	21	7261	Myrtle Reed	Threads of Grey and Gold
+8939	data/www.gutenberg.lib.md.us//8/9/3/8939/8939.zip	19	13423	Henry Seton Merriman	With Edged Tools
+7447	data/www.gutenberg.lib.md.us//7/4/4/7447/7447.zip	19	3344	Henry Lawson	The Rising of the Court
+5790	data/www.gutenberg.lib.md.us//5/7/9/5790/5790.zip	19	1196	Edna St. Vincent Millay	Aria da Capo
+30825	data/www.gutenberg.lib.md.us//3/0/8/2/30825/30825.zip	19	7410	Hildegard G. Frey	The Campfire Girls on Ellen's Isle
+9301	data/www.gutenberg.lib.md.us//9/3/0/9301/9301.zip	18	7831	George MacDonald	Ranald Bannerman's Boyhood
+7140	data/www.gutenberg.lib.md.us//7/1/4/7140/7140.zip	18	25591	John Alexander Logan	The Great Conspiracy, Complete
+23731	data/www.gutenberg.lib.md.us//2/3/7/3/23731/23731.zip	18	1191	Stanley Grauman Weinbaum	A Martian Odyssey
+32706	data/www.gutenberg.lib.md.us//3/2/7/0/32706/32706.zip	18	10526	Edward Elmer Smith	Triplanetary
+31019	data/www.gutenberg.lib.md.us//3/1/0/1/31019/31019.zip	26	3670	Mrs. Molesworth	Four Ghost Stories
+31792	data/www.gutenberg.lib.md.us//3/1/7/9/31792/31792.zip	20	3106	Margaret Deland	An Old Chester Secret
+30471	data/www.gutenberg.lib.md.us//3/0/4/7/30471/30471.zip	19	5596	Alice B. Emerson	Betty Gordon in the Land of Oil
+32708	data/www.gutenberg.lib.md.us//3/2/7/0/32708/32708.zip	21	9554	Mor Jokai	The Golden Age in Transylvania
+7557	data/www.gutenberg.lib.md.us//7/5/5/7557/7557.zip	21	1364	Charles Dudley Warner	Quotes and Images From The Works of Charles Dudley Warner
+32832	data/www.gutenberg.lib.md.us//3/2/8/3/32832/32832.zip	18	1089	Philip K. Dick	Piper in the Woods
+19470	data/www.gutenberg.lib.md.us//1/9/4/7/19470/19470.zip	21	14739	John Hartley	Yorkshire Lyrics
+7832	data/www.gutenberg.lib.md.us//7/8/3/7832/7832.zip	19	10014	David Graham Phillips	The Deluge
+8800	data/www.gutenberg.lib.md.us//8/8/0/8800/8800.zip	24	15594	Dante Alighieri	The Divine Comedy, Complete
+etext97	data/www.gutenberg.lib.md.us//etext97/wtrbs10.zip	39	7674	Charles Kingsley	The Water-Babies
+32532	data/www.gutenberg.lib.md.us//3/2/5/3/32532/32532.zip	20	1659	John Masefield	King Cole
+31361	data/www.gutenberg.lib.md.us//3/1/3/6/31361/31361.zip	18	10379	Hulbert Footner	The Deaves Affair
+23656	data/www.gutenberg.lib.md.us//2/3/6/5/23656/23656.zip	20	6512	Northern Nut Growers Association	Northern Nut Growers Association, Report of the Proceedings at the Third Annual Meeting
+32641	data/www.gutenberg.lib.md.us//3/2/6/4/32641/32641.zip	18	1817	Milton Lesser	Earthsmith
+27401	data/www.gutenberg.lib.md.us//2/7/4/0/27401/27401.zip	20	4864	Algernon Charles Swinburne	Poems & Ballads (Second Series)
+977	data/www.gutenberg.lib.md.us//9/7/977/977.zip	19	2791	Rudyard Kipling	American Notes
+20781	data/www.gutenberg.lib.md.us//2/0/7/8/20781/20781.zip	25	6406	Johanna Spyri	Heidi
+16946	data/www.gutenberg.lib.md.us//1/6/9/4/16946/16946.zip	18	3555	Kate Langley Bosher	Kitty Canary
+27839	data/www.gutenberg.lib.md.us//2/7/8/3/27839/27839.zip	18	3150	Mrs. Hungerford	Only an Irish Girl
+29948	data/www.gutenberg.lib.md.us//2/9/9/4/29948/29948.zip	20	166	Fredric Brown	Two Timer
+31984	data/www.gutenberg.lib.md.us//3/1/9/8/31984/31984.zip	19	17220	Adeline Sergeant	A Life Sentence
+7987	data/www.gutenberg.lib.md.us//7/9/8/7987/7987.zip	19	19185	Sir Walter Scott	The Fair Maid of Perth
+26240	data/www.gutenberg.lib.md.us//2/6/2/4/26240/26240.zip	19	11706	Thomas Dixon	The Clansman
+27525	data/www.gutenberg.lib.md.us//2/7/5/2/27525/27525.zip	18	8824	Edgar Wallace	Bones in London
+7091	data/www.gutenberg.lib.md.us//7/0/9/7091/7091.zip	21	5991	John Muir	The Yosemite
+31836	data/www.gutenberg.lib.md.us//3/1/8/3/31836/31836.zip	18	4404	Mabel Quiller-Couch	Better than Play
+30847	data/www.gutenberg.lib.md.us//3/0/8/4/30847/30847.zip	19	1547	Frederick W. Hamilton	Compound Words
+443	data/www.gutenberg.lib.md.us//4/4/443/443.zip	19	4099	Eugene Field	The Love Affairs of a Bibliomaniac
+32059	data/www.gutenberg.lib.md.us//3/2/0/5/32059/32059.zip	18	5309	Harold Leland Goodwin	The Pirates of Shan
+32802	data/www.gutenberg.lib.md.us//3/2/8/0/32802/32802.zip	18	697	Roger Phillips Graham	Tillie
+440	data/www.gutenberg.lib.md.us//4/4/440/440.zip	20	7508	Eleanor H. Porter	Just David
+31951	data/www.gutenberg.lib.md.us//3/1/9/5/31951/31951.zip	19	1571	John A. White	Geographic Distribution and Taxonomy of the Chipmunks of Wyoming
+30351	data/www.gutenberg.lib.md.us//3/0/3/5/30351/30351.zip	21	14841	Rupert Hughes	The Cup of Fury
+4734	data/www.gutenberg.lib.md.us//4/7/3/4734/4734.zip	20	7978	Arnold Bennett	The Grim Smile of the Five Towns
+19393	data/www.gutenberg.lib.md.us//1/9/3/9/19393/19393.zip	18	4728	Lord Dunsany	Plays of Near & Far
+29448	data/www.gutenberg.lib.md.us//2/9/4/4/29448/29448.zip	18	4447	Murray Leinster	Pariah Planet
+31427	data/www.gutenberg.lib.md.us//3/1/4/2/31427/31427.zip	23	18031	Mary Baker Eddy	Miscellaneous Writings, 1883-1896
+32344	data/www.gutenberg.lib.md.us//3/2/3/4/32344/32344.zip	20	873	Roger Dee	Pet Farm
+27866	data/www.gutenberg.lib.md.us//2/7/8/6/27866/27866.zip	18	3253	Jeffery Farnol	Great Britain at War
+29019	data/www.gutenberg.lib.md.us//2/9/0/1/29019/29019.zip	18	374	Andre Alice Norton	All Cats Are Gray
+16469	data/www.gutenberg.lib.md.us//1/6/4/6/16469/16469.zip	20	11064	Theophilus Cibber	The Lives of the Poets of Great Britain and Ireland (1753)
+28303	data/www.gutenberg.lib.md.us//2/8/3/0/28303/28303.zip	27	3348	Clyde Fitch	The Smart Set
+25268	data/www.gutenberg.lib.md.us//2/5/2/6/25268/25268.zip	18	2064	Estelle M. Hurll	Child-life in Art
+4228	data/www.gutenberg.lib.md.us//4/2/2/4228/4228.zip	20	583	Walter Horatio Pater	Giordano Bruno
+3818	data/www.gutenberg.lib.md.us//3/8/1/3818/3818.zip	20	4371	Louis Becke	By Reef and Palm
+4744	data/www.gutenberg.lib.md.us//4/7/4/4744/4744.zip	20	6844	T. S. Arthur	Ten Nights in a Bar Room
+7546	data/www.gutenberg.lib.md.us//7/5/4/7546/7546.zip	21	624	William Dean Howells	Quotes and Images From The Works of William Dean Howells
+16662	data/www.gutenberg.lib.md.us//1/6/6/6/16662/16662.zip	26	14289	Mary Jane Holmes	Bad Hugh
+3663	data/www.gutenberg.lib.md.us//3/6/6/3663/3663.zip	19	11135	Harold Bindloss	The Girl From Keller's
+30210	data/www.gutenberg.lib.md.us//3/0/2/1/30210/30210.zip	19	263	George W. Foote	Comic Bible Sketches
+3745	data/www.gutenberg.lib.md.us//3/7/4/3745/3745.zip	20	5364	Maria Thompson Daviess	The Road to Providence
+27575	data/www.gutenberg.lib.md.us//2/7/5/7/27575/27575.zip	20	9529	Gustave Flaubert	Madame Bovary
+8110	data/www.gutenberg.lib.md.us//8/1/1/8110/8110.zip	19	201	Abraham Lincoln	Lincoln Letters
+18896	data/www.gutenberg.lib.md.us//1/8/8/9/18896/18896.zip	27	9881	Mrs. A. D. T. Whitney	Faith Gartney's Girlhood
+30864	data/www.gutenberg.lib.md.us//3/0/8/6/30864/30864.zip	19	8455	Arthur M. Winfield	The Missing Tin Box
+8170	data/www.gutenberg.lib.md.us//8/1/7/8170/8170.zip	21	4983	Francois Rabelais	Gargantua and Pantagruel, Book V.
+30123	data/www.gutenberg.lib.md.us//3/0/1/2/30123/30123.zip	20	1025	Voltaire	Romans -- Volume 3: Micromegas
+5172	data/www.gutenberg.lib.md.us//5/1/7/5172/5172.zip	19	5667	Gouverneur Morris	Aladdin O'Brien
+4045	data/www.gutenberg.lib.md.us//4/0/4/4045/4045.zip	21	11667	Herman Melville	Omoo: Adventures in the South Seas
+3495	data/www.gutenberg.lib.md.us//3/4/9/3495/3495.zip	19	7171	Padraic Colum	The King of Ireland's Son
+21559	data/www.gutenberg.lib.md.us//2/1/5/5/21559/21559.zip	18	2602	Captain Frederick Marryat	The Three Cutters
+32338	data/www.gutenberg.lib.md.us//3/2/3/3/32338/32338.zip	22	17850	Victor Hugo	Toilers of the Sea
+3350	data/www.gutenberg.lib.md.us//3/3/5/3350/3350.zip	19	60912	Eugene Sue	The Wandering Jew, Complete
+4034	data/www.gutenberg.lib.md.us//4/0/3/4034/4034.zip	20	10703	George Moore	The Untilled Field
+780	data/www.gutenberg.lib.md.us//7/8/780/780.zip	20	10560	Herbert George Wells	The War in the Air
+28648	data/www.gutenberg.lib.md.us//2/8/6/4/28648/28648.zip	27	12248	Amanda Minnie Douglas	A Little Girl in Old Philadelphia
+29059	data/www.gutenberg.lib.md.us//2/9/0/5/29059/29059.zip	18	1674	Raymond King Cummings	The World Beyond
+4748	data/www.gutenberg.lib.md.us//4/7/4/4748/4748.zip	20	6438	James Oliver Curwood	Baree, Son of Kazan
+31786	data/www.gutenberg.lib.md.us//3/1/7/8/31786/31786.zip	20	3313	Lillian Elizabeth Roy	Five Little Starrs in the Canadian Forest
+21476	data/www.gutenberg.lib.md.us//2/1/4/7/21476/21476.zip	21	10382	W. H. G. Kingston	Salt Water
+7471	data/www.gutenberg.lib.md.us//7/4/7/7471/7471.zip	22	8907	P. G. Wodehouse	The Man with Two Left Feet
+19697	data/www.gutenberg.lib.md.us//1/9/6/9/19697/19697.zip	18	21928	Robert Hugh Benson	By What Authority?
+24023	data/www.gutenberg.lib.md.us//2/4/0/2/24023/24023.zip	19	12203	E. Benjamin Andrews	History of the United States, Volume 6 (of 6)
+6467	data/www.gutenberg.lib.md.us//6/4/6/6467/6467.zip	20	4853	Theodore Roosevelt	Letters to His Children
+etext01	data/www.gutenberg.lib.md.us//etext01/rmlav10.zip	0	7687	George Borrow	Gypsy Dictionary
+30687	data/www.gutenberg.lib.md.us//3/0/6/8/30687/30687.zip	28	3701	Alfred Noyes	The Lord of Misrule
+27591	data/www.gutenberg.lib.md.us//2/7/5/9/27591/27591.zip	18	12270	Joseph Hocking	The Birthright
+24574	data/www.gutenberg.lib.md.us//2/4/5/7/24574/24574.zip	19	11984	John Henry Newman	Loss and Gain
+32501	data/www.gutenberg.lib.md.us//3/2/5/0/32501/32501.zip	20	4154	Kenneth Grahame	The Golden Age
+2892	data/www.gutenberg.lib.md.us//2/8/9/2892/2892.zip	19	8362	James Stephens	Irish Fairy Tales
+32363	data/www.gutenberg.lib.md.us//3/2/3/6/32363/32363.zip	27	6086	Kate Dickinson Sweetser	Ten Girls from History
+9398	data/www.gutenberg.lib.md.us//9/3/9/9398/9398.zip	39	1572	Annie Hamilton Donnell	Gloria and Treeless Street
+16086	data/www.gutenberg.lib.md.us//1/6/0/8/16086/16086.zip	25	8506	Emma Helen Blair	The Philippine Islands, 1493-1898
+10759	data/www.gutenberg.lib.md.us//1/0/7/5/10759/10759.zip	25	91	Roger McGuinn	Audio: Tarrytown
+18507	data/www.gutenberg.lib.md.us//1/8/5/0/18507/18507.zip	21	12135	Emanuel Swedenborg	Angelic Wisdom about Divine Providence
+27225	data/www.gutenberg.lib.md.us//2/7/2/2/27225/27225.zip	20	10639	Anne Warner	A Woman's Will
+5265	data/www.gutenberg.lib.md.us//5/2/6/5265/5265.zip	19	8618	G.K. Chesterton	The Ball and The Cross
+31568	data/www.gutenberg.lib.md.us//3/1/5/6/31568/31568.zip	20	5037	Thomas De Quincey	Walladmor:
+850	data/www.gutenberg.lib.md.us//8/5/850/850.zip	19	4290	F. Hopkinson Smith	Tom Grogan
+31607	data/www.gutenberg.lib.md.us//3/1/6/0/31607/31607.zip	20	5877	Ridgwell Cullum	In the Brooding Wild
+18510	data/www.gutenberg.lib.md.us//1/8/5/1/18510/18510.zip	20	4573	James Runciman	The Chequers
+33008	data/www.gutenberg.lib.md.us//3/3/0/0/33008/33008.zip	20	7882	Berthold Auerbach	Landolin
+707	data/www.gutenberg.lib.md.us//7/0/707/707.zip	20	6182	E. W. Hornung	Raffles
+6872	data/www.gutenberg.lib.md.us//6/8/7/6872/6872.zip	21	14135	Ellen Glasgow	The Battle Ground
+3658	data/www.gutenberg.lib.md.us//3/6/5/3658/3658.zip	21	11971	Ralph Connor	The Prospector
+32357	data/www.gutenberg.lib.md.us//3/2/3/5/32357/32357.zip	18	5991	Louisa M. Alcott	Lulu's Library, Volume II
+30149	data/www.gutenberg.lib.md.us//3/0/1/4/30149/30149.zip	18	9333	Susan Warner	Trading
+895	data/www.gutenberg.lib.md.us//8/9/895/895.zip	23	22684	Edward Gibbon	The History of The Decline and Fall of the Roman Empire
+6130	data/www.gutenberg.lib.md.us//6/1/3/6130/6130.zip	22	25686	Homer	The Iliad of Homer
+31579	data/www.gutenberg.lib.md.us//3/1/5/7/31579/31579.zip	18	14038	Frederick Marryat	Olla Podrida
+3791	data/www.gutenberg.lib.md.us//3/7/9/3791/3791.zip	21	7077	James Lane Allen	The Reign of Law
+3601	data/www.gutenberg.lib.md.us//3/6/0/3601/3601.zip	20	20830	Hugh Walpole	The Captives
+4735	data/www.gutenberg.lib.md.us//4/7/3/4735/4735.zip	21	8595	Harold Bell Wright	The Shepherd of the Hills
+32324	data/www.gutenberg.lib.md.us//3/2/3/2/32324/32324.zip	20	914	William Fitzgerald Jenkins	Sam, This is You
+27918	data/www.gutenberg.lib.md.us//2/7/9/1/27918/27918.zip	18	2277	W.H.G. Kingston	The Mines and its Wonders
+671	data/www.gutenberg.lib.md.us//6/7/671/671.zip	18	6224	Horatio Alger, Jr.	Phil the Fiddler
+32886	data/www.gutenberg.lib.md.us//3/2/8/8/32886/32886.zip	20	7083	Frank Gee Patchin	The Battleship Boys' First Step Upward
+28110	data/www.gutenberg.lib.md.us//2/8/1/1/28110/28110.zip	21	1378	Leona Dalrymple	Jimsy
+29353	data/www.gutenberg.lib.md.us//2/9/3/5/29353/29353.zip	18	1069	Sewell Peaslee Wright	Vampires of Space
+23944	data/www.gutenberg.lib.md.us//2/3/9/4/23944/23944.zip	27	1095	Amy Le Feuvre	Bulbs and Blossoms
+17465	data/www.gutenberg.lib.md.us//1/7/4/6/17465/17465.zip	19	5585	George T. Ferris	Great Singers, Second Series
+8079	data/www.gutenberg.lib.md.us//8/0/7/8079/8079.zip	19	4069	Honore de Balzac	Pamela Giraud
+961	data/www.gutenberg.lib.md.us//9/6/961/961.zip	19	4834	L. Frank Baum	Glinda of Oz
+29023	data/www.gutenberg.lib.md.us//2/9/0/2/29023/29023.zip	18	8902	Marian Keith	Treasure Valley
+24340	data/www.gutenberg.lib.md.us//2/4/3/4/24340/24340.zip	19	5728	John Spargo	The Common Sense of Socialism
+8407	data/www.gutenberg.lib.md.us//8/4/0/8407/8407.zip	22	22767	Hall Caine	The Christian
+7559	data/www.gutenberg.lib.md.us//7/5/5/7559/7559.zip	20	326	Lewis Goldsmith	Quotes and Images From The Court of St. Cloud
+941	data/www.gutenberg.lib.md.us//9/4/941/941.zip	19	4631	Edgar A. Guest	Just Folks
+32270	data/www.gutenberg.lib.md.us//3/2/2/7/32270/32270.zip	18	6203	John Blaine	The Golden Skull
+30555	data/www.gutenberg.lib.md.us//3/0/5/5/30555/30555.zip	20	2571	Hesba Stretton	Little Meg's Children
+11996	data/www.gutenberg.lib.md.us//1/1/9/9/11996/11996.zip	23	20257	An English Lady	A Residence in France During the Years 1792, 1793, 1794 and 1795,
+4536	data/www.gutenberg.lib.md.us//4/5/3/4536/4536.zip	20	6722	Elizabeth Gaskell	Sylvia's Lovers, Vol. III
+23012	data/www.gutenberg.lib.md.us//2/3/0/1/23012/23012.zip	18	2092	Frank Harris	Elder Conklin
+973	data/www.gutenberg.lib.md.us//9/7/973/973.zip	18	7350	Howard Pyle	Howard Pyle's Book of Pirates
+8121	data/www.gutenberg.lib.md.us//8/1/2/8121/8121.zip	22	3684	Henrik Ibsen	Ghosts
+9833	data/www.gutenberg.lib.md.us//9/8/3/9833/9833.zip	19	4115	Percy Keese Fitzhugh	Pee-wee Harris
+6600	data/www.gutenberg.lib.md.us//6/6/0/6600/6600.zip	18	6266	E. Pauline Johnson	The Moccasin Maker
+7539	data/www.gutenberg.lib.md.us//7/5/3/7539/7539.zip	22	679	The Earl of Chesterfield	Quotes and Images From Chesterfield's Letters to His Son
+6450	data/www.gutenberg.lib.md.us//6/4/5/6450/6450.zip	19	16930	J. Fenimore Cooper	The Prairie
+14771	data/www.gutenberg.lib.md.us//1/4/7/7/14771/14771.zip	24	3748	Francis Beaumont and John Fletcher	The False One
+71	data/www.gutenberg.lib.md.us//7/71/71.zip	20	996	Henry David Thoreau	On the Duty of Civil Disobedience
+3875	data/www.gutenberg.lib.md.us//3/8/7/3875/3875.zip	19	39186	Duc de Saint-Simon	The Memoirs of Louis XIV., His Court and The Regency, Complete
+24980	data/www.gutenberg.lib.md.us//2/4/9/8/24980/24980.zip	18	26617	John Holland Rose	William Pitt and the Great War
+3052	data/www.gutenberg.lib.md.us//3/0/5/3052/3052.zip	20	30248	Plutarch	Essays and Miscellanies
+7926	data/www.gutenberg.lib.md.us//7/9/2/7926/7926.zip	18	18047	Benjamin Disraeli	Endymion
+2866	data/www.gutenberg.lib.md.us//2/8/6/2866/2866.zip	19	13683	William Harrison Ainsworth	Windsor Castle
+2808	data/www.gutenberg.lib.md.us//2/8/0/2808/2808.zip	22	2651	Marcus Tullius Cicero	Treatises on Friendship and Old Age
+9881	data/www.gutenberg.lib.md.us//9/8/8/9881/9881.zip	19	11603	Samuel Richardson	Clarissa, Volume 3 (of 9)
+32057	data/www.gutenberg.lib.md.us//3/2/0/5/32057/32057.zip	19	6972	Ralph Bonehill	Boys of The Fort
+946	data/www.gutenberg.lib.md.us//9/4/946/946.zip	20	2563	Jane Austen	Lady Susan
+4790	data/www.gutenberg.lib.md.us//4/7/9/4790/4790.zip	20	10961	Harold MacGrath	Half a Rogue
+18323	data/www.gutenberg.lib.md.us//1/8/3/2/18323/18323.zip	18	3185	Grenville Kleiser	Model Speeches for Practise
+33114	data/www.gutenberg.lib.md.us//3/3/1/1/33114/33114.zip	21	5408	Eugène Sue	The Iron Pincers
+9901	data/www.gutenberg.lib.md.us//9/9/0/9901/9901.zip	20	6025	Jessie Graham Flower	Grace Harlowe's Return to Overton Campus
+32243	data/www.gutenberg.lib.md.us//3/2/2/4/32243/32243.zip	18	902	James McKimmey	Confidence Game
+717	data/www.gutenberg.lib.md.us//7/1/717/717.zip	19	2873	Lafcadio Hearn	Chita: A Memory of Last Island
+15737	data/www.gutenberg.lib.md.us//1/5/7/3/15737/15737.zip	25	9040	Eden Phillpotts	The Torch and Other Tales
+23038	data/www.gutenberg.lib.md.us//2/3/0/3/23038/23038.zip	19	6683	S. D. Gordon	Quiet Talks on the Crowned Christ of Revelation
+26399	data/www.gutenberg.lib.md.us//2/6/3/9/26399/26399.zip	19	5644	Eleanor Hallowell Abbott	Fairy Prince and Other Stories
+3530	data/www.gutenberg.lib.md.us//3/5/3/3530/3530.zip	19	9704	Raphael Sabatini	Love-at-Arms
+29617	data/www.gutenberg.lib.md.us//2/9/6/1/29617/29617.zip	18	13729	George Gibbs	The Vagrant Duke
+29700	data/www.gutenberg.lib.md.us//2/9/7/0/29700/29700.zip	20	15343	William Cullen Bryant	Poetical Works of William Cullen Bryant
+29434	data/www.gutenberg.lib.md.us//2/9/4/3/29434/29434.zip	22	71	Flavius Josephus	The Project Gutenberg Works Of Flavius Josephus
+9973	data/www.gutenberg.lib.md.us//9/9/7/9973/9973.zip	18	6061	Gordon Home	Yorkshire Painted And Described
+25322	data/www.gutenberg.lib.md.us//2/5/3/2/25322/25322.zip	20	2326	George Ade	Fables in Slang
+4674	data/www.gutenberg.lib.md.us//4/6/7/4674/4674.zip	20	561	Bret Harte	Tennessee's Partner
+24674	data/www.gutenberg.lib.md.us//2/4/6/7/24674/24674.zip	28	22282	Alexander Maclaren	Expositions of Holy Scripture
+30667	data/www.gutenberg.lib.md.us//3/0/6/6/30667/30667.zip	20	2190	Arthur Scott Bailey	The Tale of Old Dog Spot
+5110	data/www.gutenberg.lib.md.us//5/1/1/5110/5110.zip	19	1758	Thornton W. Burgess	The Adventures of Jerry Muskrat
+5067	data/www.gutenberg.lib.md.us//5/0/6/5067/5067.zip	20	11112	Zane Grey	The Rainbow Trail
+23369	data/www.gutenberg.lib.md.us//2/3/3/6/23369/23369.zip	18	680	Josephine Daskam	Mrs. Dud's Sister
+3704	data/www.gutenberg.lib.md.us//3/7/0/3704/3704.zip	20	22879	Charles Darwin	A Naturalist's Voyage Round the World
+482	data/www.gutenberg.lib.md.us//4/8/482/482.zip	19	15038	Thomas Hardy	The Woodlanders
+3882	data/www.gutenberg.lib.md.us//3/8/8/3882/3882.zip	22	2353	Madame du Hausset, and of an Unknown English Girl and the Princess Lamballe	The Memoirs of Louis XV. and XVI., Volume 7
+4250	data/www.gutenberg.lib.md.us//4/2/5/4250/4250.zip	20	2744	Edgar Saltus	Imperial Purple
+32067	data/www.gutenberg.lib.md.us//3/2/0/6/32067/32067.zip	18	968	Charles Louis Fontenay	Atom Drive
+6425	data/www.gutenberg.lib.md.us//6/4/2/6425/6425.zip	20	14023	Rex Beach	Flowing Gold
+9774	data/www.gutenberg.lib.md.us//9/7/7/9774/9774.zip	19	16719	Edward Bulwer-Lytton	Alice, or The Mysteries, Complete
+9808	data/www.gutenberg.lib.md.us//9/8/0/9808/9808.zip	20	7326	Edgar Jepson	The Loudwater Mystery
+3816	data/www.gutenberg.lib.md.us//3/8/1/3816/3816.zip	18	14434	F. Marion Crawford	The Witch of Prague
+21092	data/www.gutenberg.lib.md.us//2/1/0/9/21092/21092.zip	21	7222	Carey Rockwell	On the Trail of the Space Pirates
+20840	data/www.gutenberg.lib.md.us//2/0/8/4/20840/20840.zip	22	7143	Andre Norton	Rebel Spurs
+23500	data/www.gutenberg.lib.md.us//2/3/5/0/23500/23500.zip	23	13177	C. N. Williamson and A. M. Williamson	The Car of Destiny
+95	data/www.gutenberg.lib.md.us//9/95/95.zip	19	6769	Anthony Hope	The Prisoner of Zenda
+2981	data/www.gutenberg.lib.md.us//2/9/8/2981/2981.zip	25	55605	Jacques Casanova de Seingalt	The Memoires of Casanova, Complete
+32805	data/www.gutenberg.lib.md.us//3/2/8/0/32805/32805.zip	20	1201	Floyd L. Wallace	The Impossible Voyage Home
+561	data/www.gutenberg.lib.md.us//5/6/561/561.zip	28	8373	Daniel Defoe	The Further Adventures of Robinson Crusoe
+24713	data/www.gutenberg.lib.md.us//2/4/7/1/24713/24713.zip	27	6056	Frank Richard Stockton	Stories of New Jersey
+3755	data/www.gutenberg.lib.md.us//3/7/5/3755/3755.zip	22	2050	Thomas Paine	Common Sense
+3527	data/www.gutenberg.lib.md.us//3/5/2/3527/3527.zip	19	3001	Laurence Housman	The Blue Moon
+18047	data/www.gutenberg.lib.md.us//1/8/0/4/18047/18047.zip	28	9483	Cassius Dio	Dio's Rome, Volume 1 (of 6)
+22090	data/www.gutenberg.lib.md.us//2/2/0/9/22090/22090.zip	26	12583	Havelock Ellis	The Task of Social Hygiene
+23007	data/www.gutenberg.lib.md.us//2/3/0/0/23007/23007.zip	19	804	Heman White Chaplin	The Village Convict
+28877	data/www.gutenberg.lib.md.us//2/8/8/7/28877/28877.zip	28	6950	Kate Douglas Smith Wiggin	Penelope's Progress
+33145	data/www.gutenberg.lib.md.us//3/3/1/4/33145/33145.zip	21	6115	Alice Duer Miller	Come Out of the Kitchen!
+2496	data/www.gutenberg.lib.md.us//2/4/9/2496/2496.zip	21	4830	Mary Russell Mitford	Our Village
+28040	data/www.gutenberg.lib.md.us//2/8/0/4/28040/28040.zip	19	12779	Emily Sarah Holt	Robin Tremayne
+20863	data/www.gutenberg.lib.md.us//2/0/8/6/20863/20863.zip	18	10621	A. T. Quiller-Couch	Major Vigoureux
+30736	data/www.gutenberg.lib.md.us//3/0/7/3/30736/30736.zip	18	11828	Robert Herrick	Clark's Field
+33076	data/www.gutenberg.lib.md.us//3/3/0/7/33076/33076.zip	22	1575	Warren Hilton	Applied Psychology: Driving Power of Thought
+31949	data/www.gutenberg.lib.md.us//3/1/9/4/31949/31949.zip	18	8221	Louis Tracy	The Bartlett Mystery
+4787	data/www.gutenberg.lib.md.us//4/7/8/4787/4787.zip	19	15388	Kathleen Norris	The Story Of Julia Page
+31219	data/www.gutenberg.lib.md.us//3/1/2/1/31219/31219.zip	19	9634	Work Projects Administration	Slave Narratives: a Folk History of Slavery in the United States From Interviews with Former Slaves, North Carolina Narratives, Part 2
+7924	data/www.gutenberg.lib.md.us//7/9/2/7924/7924.zip	20	80	John Jay Smith	American Historical and Literary Antiquities
+25536	data/www.gutenberg.lib.md.us//2/5/5/3/25536/25536.zip	28	4798	John Richard Green	History of the English People, Volume VIII (of 8)
+14487	data/www.gutenberg.lib.md.us//1/4/4/8/14487/14487.zip	18	13031	E. Arnold Bennett	The Lion's Share
+8073	data/www.gutenberg.lib.md.us//8/0/7/8073/8073.zip	19	3929	Francis Lynde	A Fool For Love
+3815	data/www.gutenberg.lib.md.us//3/8/1/3815/3815.zip	28	9160	O. Henry	Rolling Stones
+32144	data/www.gutenberg.lib.md.us//3/2/1/4/32144/32144.zip	27	7174	Amelia Edith Huddleston Barr	Jan Vedder's Wife
+837	data/www.gutenberg.lib.md.us//8/3/837/837.zip	19	8919	E. Nesbit	The Story of the Amulet
+715	data/www.gutenberg.lib.md.us//7/1/715/715.zip	19	7107	John Buchan	The Moon Endureth--Tales and Fancies
+27168	data/www.gutenberg.lib.md.us//2/7/1/6/27168/27168.zip	19	12001	Edward Eggleston	The Faith Doctor
+25748	data/www.gutenberg.lib.md.us//2/5/7/4/25748/25748.zip	21	1798	Ann Wilson	Zeta Exchange
+3922	data/www.gutenberg.lib.md.us//3/9/2/3922/3922.zip	19	9021	Anatole France	The Red Lily, Complete
+32780	data/www.gutenberg.lib.md.us//3/2/7/8/32780/32780.zip	18	1665	Raymond Zinke Gallun	Asteroid of Fear
+5815	data/www.gutenberg.lib.md.us//5/8/1/5815/5815.zip	21	9709	E. Phillips Oppenheim	The Great Impersonation
+15304	data/www.gutenberg.lib.md.us//1/5/3/0/15304/15304.zip	19	8245	Thomas Clarkson	A Portraiture of Quakerism, Volume III (of 3)
+32346	data/www.gutenberg.lib.md.us//3/2/3/4/32346/32346.zip	21	1005	Robert Sheckley	Keep Your Shape
+32426	data/www.gutenberg.lib.md.us//3/2/4/2/32426/32426.zip	19	4347	E. Raymond Hall	A Synopsis of the North American Lagomorpha
+30795	data/www.gutenberg.lib.md.us//3/0/7/9/30795/30795.zip	19	7080	Henry Wadsworth Longfellow	The Song of Hiawatha
+32931	data/www.gutenberg.lib.md.us//3/2/9/3/32931/32931.zip	18	8854	Bertram Mitford	Harley Greenoak's Charge
+3033	data/www.gutenberg.lib.md.us//3/0/3/3033/3033.zip	24	3589	Emerson Hough	The Passing of the Frontier
+15906	data/www.gutenberg.lib.md.us//1/5/9/0/15906/15906.zip	25	992	Mary Raymond Shipman Andrews	A Good Samaritan
+24502	data/www.gutenberg.lib.md.us//2/4/5/0/24502/24502.zip	22	6734	William H. G. Kingston	Owen Hartley; or, Ups and Downs
+4046	data/www.gutenberg.lib.md.us//4/0/4/4046/4046.zip	20	2351	Algernon Blackwood	The Garden of Survival
+32964	data/www.gutenberg.lib.md.us//3/2/9/6/32964/32964.zip	27	3582	David Cory	Puss in Boots, Jr., and the Good Gray Horse
+31131	data/www.gutenberg.lib.md.us//3/1/1/3/31131/31131.zip	19	10215	Edwin L. Sabin	Boys' Book of Indian Warriors
+etext03	data/www.gutenberg.lib.md.us//etext03/prhg10.zip	0	2365	Ambrose Bierce	Present at a Hanging and Other Ghost Stories
+32960	data/www.gutenberg.lib.md.us//3/2/9/6/32960/32960.zip	18	10390	Montague Glass	The Competitive Nephew
+33150	data/www.gutenberg.lib.md.us//3/3/1/5/33150/33150.zip	27	241	James Parkerson	A Poem to the Memory of our late lamented Queen Caroline of England
+26372	data/www.gutenberg.lib.md.us//2/6/3/7/26372/26372.zip	18	4771	Roy J. Snell	Panther Eye
+2079	data/www.gutenberg.lib.md.us//2/0/7/2079/2079.zip	20	8467	Stanley Weyman	From the Memoirs of a Minister of France
+31512	data/www.gutenberg.lib.md.us//3/1/5/1/31512/31512.zip	20	8413	Charles Alden Seltzer	The Coming of the Law
+980	data/www.gutenberg.lib.md.us//9/8/980/980.zip	19	10292	Booth Tarkington	Alice Adams
+332	data/www.gutenberg.lib.md.us//3/3/332/332.zip	18	5066	Thomas Nelson Page	The Burial of the Guns
+4021	data/www.gutenberg.lib.md.us//4/0/2/4021/4021.zip	20	3550	J. M. Barrie	Dear Brutus
+528	data/www.gutenberg.lib.md.us//5/2/528/528.zip	18	7148	Horatio Alger Jr.	Joe The Hotel Boy
+30798	data/www.gutenberg.lib.md.us//3/0/7/9/30798/30798.zip	20	849	Rick Raphael	Sonny
+32428	data/www.gutenberg.lib.md.us//3/2/4/2/32428/32428.zip	22	10068	C. N. Williamson	The Brightener
+7882	data/www.gutenberg.lib.md.us//7/8/8/7882/7882.zip	19	6351	Edward S. Ellis	The Life of Kit Carson
+6133	data/www.gutenberg.lib.md.us//6/1/3/6133/6133.zip	21	7818	Maurice Leblanc	The Extraordinary Adventures of Arsene Lupin, Gentleman-Burglar
+24200	data/www.gutenberg.lib.md.us//2/4/2/0/24200/24200.zip	18	10244	Burton E. Stevenson	American Men of Mind
+33066	data/www.gutenberg.lib.md.us//3/3/0/6/33066/33066.zip	26	9519	Max Brand	The Garden of Eden
+30201	data/www.gutenberg.lib.md.us//3/0/2/0/30201/30201.zip	21	4196	Desiderius Erasmus	In Praise of Folly
+5859	data/www.gutenberg.lib.md.us//5/8/5/5859/5859.zip	19	3638	P. H. Sheridan	The Memoirs of General Philip H. Sheridan, Vol. II., Part 6
+27910	data/www.gutenberg.lib.md.us//2/7/9/1/27910/27910.zip	21	10102	Harry Collingwood	Under the Ensign of the Rising Sun
+9320	data/www.gutenberg.lib.md.us//9/3/2/9320/9320.zip	18	2272	Ian Maclaren	A Doctor of the Old School, Complete
+28046	data/www.gutenberg.lib.md.us//2/8/0/4/28046/28046.zip	27	24802	Thomas Babington Macaulay	Critical and Historical Essays, Volume III (of 3)
+3980	data/www.gutenberg.lib.md.us//3/9/8/3980/3980.zip	19	9829	Alphonse Daudet	Fromont and Risler, Complete
+993	data/www.gutenberg.lib.md.us//9/9/993/993.zip	20	5045	Thomas Wentworth Higginson	Malbone
+7479	data/www.gutenberg.lib.md.us//7/4/7/7479/7479.zip	29	5103	Amy Brooks	Dorothy Dainty at Glenmore
+25710	data/www.gutenberg.lib.md.us//2/5/7/1/25710/25710.zip	21	7702	Juliana Horatia Ewing	Last Words
+6615	data/www.gutenberg.lib.md.us//6/6/1/6615/6615.zip	19	15076	Charles M. Skinner	Myths And Legends Of Our Own Land, Complete
+4745	data/www.gutenberg.lib.md.us//4/7/4/4745/4745.zip	21	8674	A. E. W. Mason	At the Villa Rose
+3463	data/www.gutenberg.lib.md.us//3/4/6/3463/3463.zip	18	8902	Albert Bigelow Paine	The Boys' Life of Mark Twain
+26331	data/www.gutenberg.lib.md.us//2/6/3/3/26331/26331.zip	18	557	Oliver Herford	A Child's Primer Of Natural History
+26139	data/www.gutenberg.lib.md.us//2/6/1/3/26139/26139.zip	19	10467	Ontario Ministry of Education	Ontario Teachers' Manuals: Nature Study
+4249	data/www.gutenberg.lib.md.us//4/2/4/4249/4249.zip	22	3193	Christopher Morley	In the Sweet Dry and Dry
+7553	data/www.gutenberg.lib.md.us//7/5/5/7553/7553.zip	21	1231	Gilbert Parker	Quotes and Images From The Works of Gilbert Parker
+2308	data/www.gutenberg.lib.md.us//2/3/0/2308/2308.zip	26	7058	Alexander Whyte	Bunyan Characters - Third Series
+16748	data/www.gutenberg.lib.md.us//1/6/7/4/16748/16748.zip	20	1531	Raphael Holinshed	Chronicles of England, Scotland and Ireland (2 of 6): England (2 of 12)
+3472	data/www.gutenberg.lib.md.us//3/4/7/3472/3472.zip	20	11779	Harry Leon Wilson	Merton of the Movies
+2173	data/www.gutenberg.lib.md.us//2/1/7/2173/2173.zip	28	4297	Edmund Burke	Thoughts on the Present Discontents
+9504	data/www.gutenberg.lib.md.us//9/5/0/9504/9504.zip	21	17524	Arthur Conan Doyle	Micah Clarke
+88	data/www.gutenberg.lib.md.us//8/88/88.zip	19	19857	United States	Price/Cost Indexes from 1875 to 1989
+30019	data/www.gutenberg.lib.md.us//3/0/0/1/30019/30019.zip	20	296	Harry Harrison	Navy Day
+4385	data/www.gutenberg.lib.md.us//4/3/8/4385/4385.zip	20	2585	Annie Payson Call	As A Matter of Course
+23350	data/www.gutenberg.lib.md.us//2/3/3/5/23350/23350.zip	18	251	Beatrix Potter	Cecily Parsley's Nursery Rhymes
+32967	data/www.gutenberg.lib.md.us//3/2/9/6/32967/32967.zip	20	190	Randolph Caldecott	A Sketch-Book of R. Caldecott's
+23608	data/www.gutenberg.lib.md.us//2/3/6/0/23608/23608.zip	20	10015	Maurus Jokai	The Day of Wrath
+2802	data/www.gutenberg.lib.md.us//2/8/0/2802/2802.zip	19	15268	Helen Hunt Jackson	Ramona
+3891	data/www.gutenberg.lib.md.us//3/8/9/3891/3891.zip	22	15063	Madame Campan	Memoirs Of The Court Of Marie Antoinette, Queen Of France, Complete
+5421	data/www.gutenberg.lib.md.us//5/4/2/5421/5421.zip	20	10215	Upton Sinclair	The Metropolis
+32226	data/www.gutenberg.lib.md.us//3/2/2/2/32226/32226.zip	27	2343	Abbie Farwell Brown	The Flower Princess
+20054	data/www.gutenberg.lib.md.us//2/0/0/5/20054/20054.zip	27	8951	Lily Dougall	The Mermaid
+20610	data/www.gutenberg.lib.md.us//2/0/6/1/20610/20610.zip	21	22477	Martin Farquhar Tupper	The Complete Prose Works of Martin Farquhar Tupper
+96	data/www.gutenberg.lib.md.us//9/96/96.zip	19	6333	Edgar Rice Burroughs	The Monster Men
+4531	data/www.gutenberg.lib.md.us//4/5/3/4531/4531.zip	20	10957	Fergus Hume	The Secret Passage
+27321	data/www.gutenberg.lib.md.us//2/7/3/2/27321/27321.zip	18	3018	Sophie May	Fairy Book
+31821	data/www.gutenberg.lib.md.us//3/1/8/2/31821/31821.zip	20	9643	Vicente Blasco Ibanez	Sonnica
+33058	data/www.gutenberg.lib.md.us//3/3/0/5/33058/33058.zip	19	12303	Joel Chandler Harris	Gabriel Tolliver
+30885	data/www.gutenberg.lib.md.us//3/0/8/8/30885/30885.zip	18	820	Henry Slesar	Heart
+6709	data/www.gutenberg.lib.md.us//6/7/0/6709/6709.zip	21	9183	James De Mille	A Strange Manuscript Found in a Copper Cylinder
+29513	data/www.gutenberg.lib.md.us//2/9/5/1/29513/29513.zip	30	1475	John Marshall	Opinion of the Supreme Court of the United States, at January Term, 1832, Delivered by Mr. Chief Justice Marshall in the Case of Samuel A. Worcester, Plaintiff in Error, versus the State of Georgia
+4019	data/www.gutenberg.lib.md.us//4/0/1/4019/4019.zip	20	8299	Dillon Wallace	The Lure of the Labrador Wild
+2582	data/www.gutenberg.lib.md.us//2/5/8/2582/2582.zip	25	11017	Hippolyte A. Taine	The Origins of Contemporary France, Volume 6 (of 6)
+28527	data/www.gutenberg.lib.md.us//2/8/5/2/28527/28527.zip	20	1940	Henry Fisk Carlton	The Story of Nathan Hale
+880	data/www.gutenberg.lib.md.us//8/8/880/880.zip	19	711	James Russell Lowell	My Garden Acquaintance
+51	data/www.gutenberg.lib.md.us//5/51/51.zip	19	8977	Lucy Maud Montgomery	Anne Of The Island
+44	data/www.gutenberg.lib.md.us//4/44/44.zip	19	15288	Willa Cather	Song of the Lark
+4376	data/www.gutenberg.lib.md.us//4/3/7/4376/4376.zip	20	6940	Nellie L. McClung	Sowing Seeds in Danny
+5051	data/www.gutenberg.lib.md.us//5/0/5/5051/5051.zip	19	10473	William J. Locke	The Morals of Marcus Ordeyne
+7373	data/www.gutenberg.lib.md.us//7/3/7/7373/7373.zip	19	9342	Hilaire Belloc	The Path to Rome
+24617	data/www.gutenberg.lib.md.us//2/4/6/1/24617/24617.zip	21	10227	R.M. Ballantyne	The Wild Man of the West
+7542	data/www.gutenberg.lib.md.us//7/5/4/7542/7542.zip	21	1509	Georg Ebers	Quotes and Images From The Novels of Georg Ebers
+5853	data/www.gutenberg.lib.md.us//5/8/5/5853/5853.zip	19	12644	William T. Sherman	The Memoirs of General W. T. Sherman, Vol. II., Part 4
+621	data/www.gutenberg.lib.md.us//6/2/621/621.zip	26	19667	William James	The Varieties of Religious Experience
+24800	data/www.gutenberg.lib.md.us//2/4/8/0/24800/24800.zip	21	12528	George John Romanes	Darwin, and After Darwin (Vol. 1 and 3, of 3)
+24078	data/www.gutenberg.lib.md.us//2/4/0/7/24078/24078.zip	27	9211	George Washington Cable	Bonaventure
+28860	data/www.gutenberg.lib.md.us//2/8/8/6/28860/28860.zip	22	1164	Thomas Jefferson	The Memoirs, Correspondence, And Miscellanies, From The Papers Of Thomas Jefferson
+8549	data/www.gutenberg.lib.md.us//8/5/4/8549/8549.zip	19	11739	Robert Hichens	The Woman With The Fan
+9407	data/www.gutenberg.lib.md.us//9/4/0/9407/9407.zip	19	2448	Annie Fellows Johnston	The Little Colonel
+29656	data/www.gutenberg.lib.md.us//2/9/6/5/29656/29656.zip	20	6403	Frank H. Spearman	The Mountain Divide
+6800	data/www.gutenberg.lib.md.us//6/8/0/6800/6800.zip	19	126254	Frederich Schiller	The Project Gutenberg Works of Frederich Schiller in English
+5400	data/www.gutenberg.lib.md.us//5/4/0/5400/5400.zip	21	189327	Winston Churchill	The Complete PG Edition of The Works of Winston Churchill
+32004	data/www.gutenberg.lib.md.us//3/2/0/0/32004/32004.zip	20	2075	Frederik Pohl	The Knights of Arthur
+541	data/www.gutenberg.lib.md.us//5/4/541/541.zip	19	11602	Edith Wharton	The Age of Innocence
+30440	data/www.gutenberg.lib.md.us//3/0/4/4/30440/30440.zip	18	6682	Elliott O'Donnell	Byways of Ghost-Land
+32401	data/www.gutenberg.lib.md.us//3/2/4/0/32401/32401.zip	28	8022	Amy Bell Marlowe	The Girls of Hillcrest Farm
+288	data/www.gutenberg.lib.md.us//2/8/288/288.zip	18	6296	James Branch Cabell	The Certain Hour
+737	data/www.gutenberg.lib.md.us//7/3/737/737.zip	19	5061	Laura Lee Hope	The Bobbsey Twins at School
+32115	data/www.gutenberg.lib.md.us//3/2/1/1/32115/32115.zip	20	13303	Alice Brown	Rose MacLeod
+25171	data/www.gutenberg.lib.md.us//2/5/1/7/25171/25171.zip	27	6007	Paul Laurence Dunbar	The Uncalled
+5225	data/www.gutenberg.lib.md.us//5/2/2/5225/5225.zip	18	10295	Petronius Arbiter	The Satyricon, Complete
+24946	data/www.gutenberg.lib.md.us//2/4/9/4/24946/24946.zip	19	9243	Arthur Thomas Quiller-Couch	From a Cornish Window
+31595	data/www.gutenberg.lib.md.us//3/1/5/9/31595/31595.zip	18	12817	May Sinclair	The Return of the Prodigal
+608	data/www.gutenberg.lib.md.us//6/0/608/608.zip	20	1643	John Milton	Areopagitica
+11945	data/www.gutenberg.lib.md.us//1/1/9/4/11945/11945.zip	18	7100	Arthur Schopenhauer	Essays of Schopenhauer
+721	data/www.gutenberg.lib.md.us//7/2/721/721.zip	19	1362	Kate Douglas Wiggin	The Birds' Christmas Carol
+901	data/www.gutenberg.lib.md.us//9/0/901/901.zip	19	4700	Christopher Marlowe	The Jew of Malta
+31515	data/www.gutenberg.lib.md.us//3/1/5/1/31515/31515.zip	20	206	Paul Cameron Brown	The Rake's Progress
+30980	data/www.gutenberg.lib.md.us//3/0/9/8/30980/30980.zip	27	8168	Laura Jean Libbey	Kidnapped at the Altar
