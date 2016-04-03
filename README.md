@@ -18,6 +18,18 @@ To evaluate, I used a subset of 1000 of the ebooks (to keep model loading time s
 
 I run this using queries of 10, 100, and 1000 terms and noise levels at 0%, 1%, 10%, and 50%.
 
+Length	|	Noise	|	% Correct
+------	|	-----	|	---------
+10	|	0	|	0.752
+10	|	0.01	|	0.741
+10	|	0.1	|	0.467
+10	|	0.5	|	0.007
+100	|	0	|	0.876
+100	|	0.01	|	0.867
+100	|	0.1	|	0.86
+100	|	0.5	|	0.178
+
+
 At 0% noise, the system is highly accurate with only a few query terms. As noise increases, system performance degrades, however. The trade-off is between query length and noise level. Even if 50% of characters are being switched, overall performance remains strong. (High frequency of character-level swapping leads to an even higher level of terms being corrupted). I estimate that if ~5 terms make it through the noise process, then retrieval should be fairly robust.
 
 I further observed that in a significant portion of the errors in low-noise retrieval, the correct match was ranked 2nd. This might be due to noisy data: some segments of text are duplicated between books, such as individual short stories and collections.
@@ -36,8 +48,6 @@ Predicting the author of a passage of text can be achieved by using some sort of
 
 To evaluate, I created an index using all of the available training books (this model is lighter-weight than the Document Matching model and experimentation can happen faster with this larger model). I then query the model using each of the books in the test set. I select a random continuous segment of words from the book and then apply a random character-level noise addition (as above).
 
-Given more time and/or clearer targets to achieve, I might have explored using bigram or trigrams instead of the single terms that I had used to see if these might model the peculiarities of individual authors better. Another approach that might work would be building discriminative models on top of these vector space representations and applying these models to test sequences. Recurrent neural networks (discussed below) trained individually for each author might also give language-modeling scores for each test sequence against each author.
-
 ```
 # train
 python buildAuthorModels.py
@@ -50,18 +60,20 @@ Length	|	Noise	|	% Correct
 ------	|	-----	|	---------
 10	|	0	|	0.0553977272727
 10	|	0.01	|	0.0440340909091
+10	|	0.1	|	0.0284090909091
+10	|	0.5	|	0.00426136363636
+100	|	0	|	0.167142857143
+100	|	0.01	|	0.125714285714
+100	|	0.1	|	0.0542857142857
+100	|	0.5	|	0.00428571428571
+1000	|	0	|	0.250363901019
+1000	|	0.01	|	0.213973799127
+1000	|	0.1	|	0.113537117904
+1000	|	0.5	|	0.00436681222707
 
-10	0.1	0.0284090909091
-10	0.5	0.00426136363636
-100	0	0.167142857143
-100	0.01	0.125714285714
-100	0.1	0.0542857142857
-100	0.5	0.00428571428571
-1000	0	0.250363901019
-1000	0.01	0.213973799127
-1000	0.1	0.113537117904
-1000	0.5	0.00436681222707
+Given queries of 1000 terms, we can achieve 25% accuracy in selecting the correct author (random chance is less than .1%). Adding noise degrades this performance rapidly. It is difficult to model authors with only 10 or 100 terms.
 
+Given more time and/or clearer targets to achieve, I might have explored using bigram or trigrams instead of the single terms that I had used to see if these might model the peculiarities of individual authors better. Another approach that might work would be building discriminative models on top of these vector space representations and applying these models to test sequences. Recurrent neural networks (discussed below) trained individually for each author might also give language-modeling scores for each test sequence against each author.
 
 ##Task 3: Continuation Prediction
 
@@ -135,7 +147,11 @@ scores = FOREACH grouped_offsets GENERATE
 	MAX(joined.n) as score;
 ```	
 
-This returns
+This returns a bag of tuples specifying the score similarity between any document and any query. We can then further manipulated this to return the closest match or threshold to reject.
+
+We could apply a similar modeling approach to predicting authors for query strings but by counting term frequencies rather than locations. A more reasonable approach, however, might be to distribute the search sets by authors across many mappers. The mappers can then return the top-N closest authors and scores within their sets and a reducer can aggregate these with a guarantee of finding the true top-N closest authors.
+
+It would probably be premature to consider parallelizing the continuation prediction framework, but models like this can be applied to any input directly on the mappers.
 
 
 ##Feature Selection
@@ -144,7 +160,7 @@ The way that I have set up these models, there is less opportunity for feature s
 
 For the matching task we have tried to omit stopwords since they might add more noise in the offset counting than signal. We could analytically generate such a list by finding the terms that have high entropy in their locations and therefore don't provide much signal.
 
-Similarly, if we were to revisit the 
+Similarly, if we were to revisit the author prediction task as a more traditional supervised/discriminative task, we might be able to see which terms are most predictive through standard methods.
 
 
 ##Performance Assessment
