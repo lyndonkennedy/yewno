@@ -28,6 +28,7 @@ Length	|	Noise	|	% Correct
 100	|	0.01	|	0.867
 100	|	0.1	|	0.86
 100	|	0.5	|	0.178
+1000	|	0	|	0.893
 
 
 At 0% noise, the system is highly accurate with only a few query terms. As noise increases, system performance degrades, however. The trade-off is between query length and noise level. Even if 50% of characters are being switched, overall performance remains strong. (High frequency of character-level swapping leads to an even higher level of terms being corrupted). I estimate that if ~5 terms make it through the noise process, then retrieval should be fairly robust.
@@ -79,7 +80,7 @@ Given more time and/or clearer targets to achieve, I might have explored using b
 
 Since this part was optional, I took it as an opportunity to step outside of my comfort zone and learn a bit about techniques that I had not previously had any experience in. I thought the task seemed like a good fit for recurrent neural networks and I had been recently starting to learn more about TensorFlow, so I dove in a tried to train a network. I thought author-specific prediction seemed like the most feasible task to undertake. I trained one network for Herman Melville using the books he had in my training set. My personal machine is a mid-2010 iMac (and TensorFlow doesn't support GPUs for Mac), so it took ~6 hours to train a fairly small network on Herman Melville books. 
 
-The basis for this modeling was somewhat different than the above two tasks, since stopwords are important for natural language here. I prepare the texts by cutting them down to their most frequent 10000 terms, encoding unknown terms as "<unk>". These functions are done in the "createRNNDataFiles.py" script.
+The basis for this modeling was somewhat different than the above two tasks, since stopwords are important for natural language here. I prepare the texts by cutting them down to their most frequent 10000 terms, encoding unknown terms as `<unk>`. These functions are done in the `createRNNDataFiles.py` script.
 
 I evaluated this qualitatively by feeding in a randomly-selected contiguous sequence from the test Melville book, "Omoo: Adventures in the South Seas," and then generating the next most likely term returned by the network. I then continuously feed the next predicted term back into the network to get the following term. I repeat this to get a predicted string of equal length to the input string. The resulting strings are amusing to look at and seem somewhat Melville-ian in that they are often about whales, ships, and the sea and have some semblance of english grammar.
 
