@@ -21,9 +21,10 @@ At 0% noise, the system is highly accurate with only a few query terms. As noise
 I further observed that in a significant portion of the errors in low-noise retrieval, the correct match was ranked 2nd. This might be due to noisy data: some segments of text are duplicated between books, such as individual short stories and collections.
 
 ```
-\# train
+# train
 python buildMatchingModels.py
-\# test
+
+# test
 python testMatchingModels.py
 ```
 
@@ -36,14 +37,15 @@ To evaluate, I created an index using all of the available training books (this 
 Given more time and/or clearer targets to achieve, I might have explored using bigram or trigrams instead of the single terms that I had used to see if these might model the peculiarities of individual authors better. Another approach that might work would be building discriminative models on top of these vector space representations and applying these models to test sequences. Recurrent neural networks (discussed below) trained individually for each author might also give language-modeling scores for each test sequence against each author.
 
 ```
-\# train
+# train
 python buildAuthorModels.py
-\# test
+
+# test
 python testAuthorModels.py
 ```
 
 
-Task 3: Continuation Prediction
+##Task 3: Continuation Prediction
 
 Since this part was optional, I took it as an opportunity to step outside of my comfort zone and learn a bit about techniques that I had not previously had any experience in. I thought the task seemed like a good fit for recurrent neural networks and I had been recently starting to learn more about TensorFlow, so I dove in a tried to train a network. I thought author-specific prediction seemed like the most feasible task to undertake. I trained one network for Herman Melville using the books he had in my training set. My personal machine is a mid-2010 iMac (and TensorFlow doesn't support GPUs for Mac), so it took ~6 hours to train a fairly small network on Herman Melville books. 
 
@@ -55,38 +57,43 @@ We could evaluate quantitatively by measuring word error rate or perplexity agai
 
 The RNNs are adapted directly from the example code provided in the TensorFlow tutorial (I didn't even change the filenames). I added a function to iteratively feed through the output to generate longer output predictions. I also added functionality to save the learned model and to directly access the vocabulary from the numerical representations.
 
+```
 # train
 python ptb_word_lm.py --data_path=../data/rnn/melville/ --train=True
 
 # test
 python ptb_word_lm.py --data_path=../data/rnn/melville/ > ../outputs/predicted_continuations.txt
+```
 
 Included below is some sample output.
 
+```
 test sequence 38
 input string:
 manilla hat large and portly he was also hale and fifty with a complexion like an autumnal <unk> blue <unk> teeth and a <unk> <unk> <unk> in short he was an <unk> father <unk> by name and as such pretty well known and very thoroughly <unk> throughout all the <unk> missionary settlements in polynesia in early youth he had been sent to a religious <unk> in france and taking orders there had but once or twice afterwards <unk> his native land father <unk> marched up to us briskly and the first words he uttered were to ask whether there were
 
 predicted continuation:
 one of the people of the crew that they were not very long in the morning and the next day we were engaged in the course of the vessel we had been sailing in the valley and in the same direction the islanders in the course of the island were the most remarkable of all the islands of the natives who had not been so much inclined to believe that the inhabitants of the valley were in the habit of a free tribe and the only one was the most famous of their number and with them all that was 
-
+```
 
 I didn't implement it, but in the case that Task 1 is able to find a matching document for the sequence, we will also know the offset at which the query string begins in the document. From there, we can deterministically continue the string until the end of the document is reached.
 
 
-Scalability Issues
+##Scalability Issues
 
 As mentioned above, these experiments were conducted using an old machine on relatively small amounts of data. Some of these functions can be implemented efficiently for large-scale batch operations on a Hadoop cluster.
 
 Consider having an entire library represented as a series of tuples <document_id>,<term_id>,<position>:
 
+```
 moby_dick,call,1
 moby_dick,me,2
 moby_dick,ishmael,3
 ....
-
+```
 Then having a series of queries represented in the same format, we could execute batch matching between queries and documents using a PIG script not unlike this pseudocode:
 
+```
 queries = LOAD queries USING LoaderMethod AS (q_id,q_term_id,q_offset);
 docs = LOAD docs USING LoaderMethod AS (docid,doc_term_id,doc_offset);
 
@@ -108,12 +115,12 @@ scores = FOREACH grouped_offsets GENERATE
 	group.$0 as docid,
 	group.$1 as qid,
 	MAX(joined.n) as score;
-	
+```	
 
 This returns
 
 
-Feature Selection
+##Feature Selection
 
 The way that I have set up these models, there is less opportunity for feature selection. 
 
@@ -122,7 +129,7 @@ For the matching task we have tried to omit stopwords since they might add more 
 Similarly, if we were to revisit the 
 
 
-Performance Assessment
+##Performance Assessment
 
 I have broken out the evaluations, both actually-done and speculatively-conceived-of, of each task directly in the corresponding notes above.
 
