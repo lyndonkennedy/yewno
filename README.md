@@ -28,7 +28,7 @@ Length	|	Noise	|	% Correct
 100	|	0.01	|	0.867
 100	|	0.1	|	0.86
 100	|	0.5	|	0.178
-1000	|	0	|	0.893
+1000	|	0	|	0.907
 
 
 At 0% noise, the system is highly accurate with only a few query terms. As noise increases, system performance degrades, however. The trade-off is between query length and noise level. Even if 50% of characters are being switched, overall performance remains strong. (High frequency of character-level swapping leads to an even higher level of terms being corrupted). I estimate that if ~5 terms make it through the noise process, then retrieval should be fairly robust.
