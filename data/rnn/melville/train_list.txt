@@ -1,0 +1,12 @@
+10712	data/www.gutenberg.lib.md.us//1/0/7/1/10712/10712.zip	20	15502	Herman Melville	White Jacket
+11231	data/www.gutenberg.lib.md.us//1/1/2/3/11231/11231.zip	20	1588	Herman Melville	Bartleby, The Scrivener
+12384	data/www.gutenberg.lib.md.us//1/2/3/8/12384/12384.zip	18	5622	Herman Melville	Battle-Pieces and Aspects of the War
+12841	data/www.gutenberg.lib.md.us//1/2/8/4/12841/12841.zip	18	4169	Herman Melville	John Marr and Other Poems
+13720	data/www.gutenberg.lib.md.us//1/3/7/2/13720/13720.zip	20	11480	Herman Melville	Mardi: and A Voyage Thither, Vol. I (of 2)
+13721	data/www.gutenberg.lib.md.us//1/3/7/2/13721/13721.zip	20	13145	Herman Melville	Mardi: and A Voyage Thither, Vol. II (of 2)
+15422	data/www.gutenberg.lib.md.us//1/5/4/2/15422/15422.zip	19	7517	Herman Melville	Israel Potter
+15859	data/www.gutenberg.lib.md.us//1/5/8/5/15859/15859.zip	27	8623	Herman Melville	The Piazza Tales
+1900	data/www.gutenberg.lib.md.us//1/9/0/1900/1900.zip	22	11223	Herman Melville	Typee
+21816	data/www.gutenberg.lib.md.us//2/1/8/1/21816/21816.zip	19	11064	Herman Melville	The Confidence-Man
+2694	data/www.gutenberg.lib.md.us//2/6/9/2694/2694.zip	19	1205	Herman Melville	I and My Chimney
+2701	data/www.gutenberg.lib.md.us//2/7/0/2701/2701.zip	20	21750	Herman Melville	Moby Dick; or The Whale
