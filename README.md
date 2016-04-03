@@ -33,7 +33,7 @@ Length	|	Noise	|	% Correct
 1000	|	0.1	|	0.900
 1000	|	0.5	|	0.893
 
-At 0% noise, the system is highly accurate with only a few query terms. As noise increases, system performance degrades, however. The trade-off is between query length and noise level. Even if 50% of characters are being switched, overall performance remains strong. (High frequency of character-level swapping leads to an even higher level of terms being corrupted). I estimate that if ~5 terms make it through the noise process, then retrieval should be fairly robust.
+At 0% noise, the system is highly accurate with only a few query terms. As noise increases, system performance degrades, however. The trade-off is between query length and noise level. Even if 50% of characters are being switched with 1000 query words, overall performance remains strong. (High frequency of character-level swapping leads to an even higher level of terms being corrupted). I estimate that if ~10 terms make it through the noise process and stopword removal, then retrieval should be fairly robust.
 
 I further observed that in a significant portion of the errors in low-noise retrieval, the correct match was ranked 2nd. This might be due to noisy data: some segments of text are duplicated between books, such as individual short stories and collections.
 
