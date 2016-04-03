@@ -3,9 +3,11 @@
 ##Data Preparation
 
 I started by gathering a collection of ebooks from Project Gutenberg. I ran this wget command to get plain text copies of ebooks in English:
+```
 wget -w 2 -m -H "http://www.gutenberg.org/robot/harvest?filetypes[]=txt&langs[]=en"
+```
 
-This ended up returning 36563 files. I then ran my "splitData.py" script to extract metadata about each book (author, title) and to detect the beginning and end points of the actual body text using simple heuristics. I counted the number of books that each author had written in the dataset and kept books by authors who had written 5 or more books. This yielded 704 unique authors (excluding "Anonymous," "Various," "Unknown," etc.) contributing 8510 total books. I held out one book for each author for a test set and used the remaining books to build a training set.
+This ended up returning 36563 files. I then ran my `splitData.py` script to extract metadata about each book (author, title) and to detect the beginning and end points of the actual body text using simple heuristics. I counted the number of books that each author had written in the dataset and kept books by authors who had written 5 or more books. This yielded 704 unique authors (excluding "Anonymous," "Various," "Unknown," etc.) contributing 8510 total books. I held out one book for each author for a test set and used the remaining books to build a training set.
 
 
 ##Task 1: Document Matching
@@ -43,6 +45,22 @@ python buildAuthorModels.py
 # test
 python testAuthorModels.py
 ```
+
+Length	|	Noise	|	% Correct
+------	|	-----	|	---------
+10	|	0	|	0.0553977272727
+10	|	0.01	|	0.0440340909091
+
+10	0.1	0.0284090909091
+10	0.5	0.00426136363636
+100	0	0.167142857143
+100	0.01	0.125714285714
+100	0.1	0.0542857142857
+100	0.5	0.00428571428571
+1000	0	0.250363901019
+1000	0.01	0.213973799127
+1000	0.1	0.113537117904
+1000	0.5	0.00436681222707
 
 
 ##Task 3: Continuation Prediction
