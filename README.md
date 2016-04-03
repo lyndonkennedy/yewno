@@ -1,4 +1,6 @@
-#Data Preparation
+#Data Modeling for Sequence Matching
+
+##Data Preparation
 
 I started by gathering a collection of ebooks from Project Gutenberg. I ran this wget command to get plain text copies of ebooks in English:
 wget -w 2 -m -H "http://www.gutenberg.org/robot/harvest?filetypes[]=txt&langs[]=en"
@@ -6,7 +8,7 @@ wget -w 2 -m -H "http://www.gutenberg.org/robot/harvest?filetypes[]=txt&langs[]=
 This ended up returning 36563 files. I then ran my "splitData.py" script to extract metadata about each book (author, title) and to detect the beginning and end points of the actual body text using simple heuristics. I counted the number of books that each author had written in the dataset and kept books by authors who had written 5 or more books. This yielded 704 unique authors (excluding "Anonymous," "Various," "Unknown," etc.) contributing 8510 total books. I held out one book for each author for a test set and used the remaining books to build a training set.
 
 
-#Task 1: Document Matching
+##Task 1: Document Matching
 
 This noisy exact-match retrieval problem reminded me of audio fingerprinting and Shazam. Shazam detects audio landmark events in sound files and uses the main insight that the correct match to a query will have a lot of matches that have the same temporal offset from the query. I mapped this formulation onto the text matching problem by treating words as the "landmarks" and indexing the word positions in each document (omitting a standard stopword list, stripping punctuations, and going to lowercase). For each term in a query, we then look up its corresponding locations(s) in each document and tabulate a histogram of offsets between the document location of matching terms and their locations in the query string.
 
@@ -18,14 +20,14 @@ At 0% noise, the system is highly accurate with only a few query terms. As noise
 
 I further observed that in a significant portion of the errors in low-noise retrieval, the correct match was ranked 2nd. This might be due to noisy data: some segments of text are duplicated between books, such as individual short stories and collections.
 
+```
 \# train
 python buildMatchingModels.py
-
 \# test
 python testMatchingModels.py
+```
 
-
-#Task 2: Author Prediction
+##Task 2: Author Prediction
 
 Predicting the author of a passage of text can be achieved by using some sort of vector space representation of the terms. To approach this, I counted the frequency with which each author uses that term. I further keep track of the total number of terms used by each author and the number of documents that each term appears in. I leave out a standard stopword list.
 
@@ -33,12 +35,12 @@ To evaluate, I created an index using all of the available training books (this 
 
 Given more time and/or clearer targets to achieve, I might have explored using bigram or trigrams instead of the single terms that I had used to see if these might model the peculiarities of individual authors better. Another approach that might work would be building discriminative models on top of these vector space representations and applying these models to test sequences. Recurrent neural networks (discussed below) trained individually for each author might also give language-modeling scores for each test sequence against each author.
 
-# train
+```
+\# train
 python buildAuthorModels.py
-
-# test
+\# test
 python testAuthorModels.py
-
+```
 
 
 Task 3: Continuation Prediction
