@@ -114,7 +114,7 @@ I didn't implement it, but in the case that Task 1 is able to find a matching do
 
 As mentioned above, these experiments were conducted using an old machine on relatively small amounts of data. Some of these functions can be implemented efficiently for large-scale batch operations on a Hadoop cluster.
 
-Consider having an entire library represented as a series of tuples <document_id>,<term_id>,<position>:
+Consider having an entire library represented as a series of tuples `<document_id>,<term_id>,<position>`:
 
 ```
 moby_dick,call,1
